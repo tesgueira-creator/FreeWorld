@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UFO Analytics | Alien Encounters</title>
+  <!-- Font Awesome -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  
+  <!-- Leaflet MarkerCluster CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="index.html" class="logo">Alien&nbsp;Encounters</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="data.html">Sightings</a></li>
+        <li><a href="analytics.html" class="active">Analytics</a></li>
+        <li><a href="blog.html">Blog</a></li>
+      </ul>
+    </div>
+  </nav>
+  <!-- Analytics Section -->
+  <section class="analytics-section">
+    <h2>Sightings Analytics</h2>
+    <p class="section-intro">Dive deep into the UFO sightings data with a wide variety of charts. Explore how reports vary across time, geography, shapes, delays and more.</p>
+
+    <!-- Coordinate Quality Warning -->
+    <div id="coordinateQualityWarning"></div>
+
+    <!-- Global Filters -->
+    <div class="filters-card">
+      <div class="filter-control">
+        <label for="startDate">From:</label>
+        <input type="date" id="startDate" />
+      </div>
+      <div class="filter-control">
+        <label for="endDate">To:</label>
+        <input type="date" id="endDate" />
+      </div>
+      <div class="filter-control">
+        <label for="shapeSelect">Shapes:</label>
+        <select id="shapeSelect" multiple></select>
+      </div>
+      <div class="filter-control">
+        <label for="countrySelect">Country:</label>
+        <select id="countrySelect"></select>
+      </div>
+      <div class="filter-actions">
+        <button id="applyFilters" class="btn-small">Apply</button>
+        <button id="resetFilters" class="btn-small">Reset</button>
+      </div>
+    </div>
+    <div class="charts-grid analytics-grid">
+      <!-- Global map card - full width -->
+      <div class="chart-card map-card">
+        <h3 class="chart-title">Global Sightings Map</h3>
+        <div id="chartMap" class="map-container"></div>
+        <p id="chartMapInsight" class="chart-insight"></p>
+      </div>
+      
+      <!-- Featured charts - span 2 columns -->
+      <div class="chart-card featured">
+        <h3 class="chart-title">Top UFO Shapes</h3>
+        <div id="chartShapeTop" class="chart-container"></div>
+        <p id="chartShapeTopInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card featured">
+        <h3 class="chart-title">Sightings by Year</h3>
+        <div id="chartYearCounts" class="chart-container"></div>
+        <p id="chartYearCountsInsight" class="chart-insight"></p>
+      </div>
+      
+      <!-- Regular charts -->
+      <div class="chart-card">
+        <h3 class="chart-title">Top Countries</h3>
+        <div id="chartCountryTop" class="chart-container"></div>
+        <p id="chartCountryTopInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Top US States</h3>
+        <div id="chartStateTop" class="chart-container"></div>
+        <p id="chartStateTopInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Top Cities</h3>
+        <div id="chartCityTop" class="chart-container"></div>
+        <p id="chartCityTopInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Sightings by Month</h3>
+        <div id="chartMonthCounts" class="chart-container"></div>
+        <p id="chartMonthCountsInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Sightings by Hour</h3>
+        <div id="chartHourCounts" class="chart-container"></div>
+        <p id="chartHourCountsInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Sightings by Day of Week</h3>
+        <div id="chartWeekdayCounts" class="chart-container"></div>
+        <p id="chartWeekdayCountsInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Sightings by Decade</h3>
+        <div id="chartDecadeCounts" class="chart-container"></div>
+        <p id="chartDecadeCountsInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Avg Report Delay by Country</h3>
+        <div id="chartDelayByCountry" class="chart-container"></div>
+        <p id="chartDelayByCountryInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Has Image vs No Image</h3>
+        <div id="chartImagePresence" class="chart-container"></div>
+        <p id="chartImagePresenceInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Northern vs Southern Hemisphere</h3>
+        <div id="chartHemisphereDistribution" class="chart-container"></div>
+        <p id="chartHemisphereDistributionInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Report Delay Distribution</h3>
+        <div id="chartDelayDistribution" class="chart-container"></div>
+        <p id="chartDelayDistributionInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Global Sightings Scatter</h3>
+        <div id="chartLatLonScatter" class="chart-container"></div>
+        <p id="chartLatLonScatterInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">UFO Shape Distribution</h3>
+        <div id="chartShapeDistribution" class="chart-container"></div>
+        <p id="chartShapeDistributionInsight" class="chart-insight"></p>
+      </div>
+
+      <!-- Additional analytics charts -->
+      <div class="chart-card">
+        <h3 class="chart-title">Month vs Hour Heatmap</h3>
+        <div id="chartMonthHourHeatmap" class="chart-container"></div>
+        <p id="chartMonthHourHeatmapInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Hourly Distribution Radial</h3>
+        <div id="chartHourRadial" class="chart-container"></div>
+        <p id="chartHourRadialInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Shape Counts by Decade</h3>
+        <div id="chartShapeDecadeStacked" class="chart-container"></div>
+        <p id="chartShapeDecadeStackedInsight" class="chart-insight"></p>
+      </div>
+
+      <!-- Additional variability and insight charts -->
+      <div class="chart-card">
+        <h3 class="chart-title">Average Report Delay by Year</h3>
+        <div id="chartAvgDelayByYear" class="chart-container"></div>
+        <p id="chartAvgDelayByYearInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Cumulative Sightings Over Years</h3>
+        <div id="chartCumulativeYear" class="chart-container"></div>
+        <p id="chartCumulativeYearInsight" class="chart-insight"></p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Shape Trends by Decade</h3>
+        <div id="chartShapeTrendsDecade" class="chart-container"></div>
+        <p id="chartShapeTrendsDecadeInsight" class="chart-insight"></p>
+      </div>
+    </div>
+  </section>
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2025 Alien Encounters. This site is for educational and entertainment purposes only.</p>
+  </footer>
+
+  <!-- Data and analytics scripts -->
+  <script src="database/nuforc-with-coords.js"></script>
+  <!-- Leaflet library for map rendering -->
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    crossorigin=""
+  ></script>
+  <!-- Leaflet MarkerCluster for clustering functionality -->
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+  <!-- Leaflet.heat for heatmap functionality -->
+  <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+  <script src="analytics.js"></script>
+</body>
+</html>
