@@ -441,8 +441,8 @@ section h2 {
   max-width: 1400px;
   margin: 0 auto;
   display: grid;
-  gap: 3rem;
-  padding: 0 1rem;
+  gap: 2rem;
+  padding: 0 0.5rem;
 
   /* Mobile first: single column */
   grid-template-columns: 1fr;
@@ -452,6 +452,8 @@ section h2 {
 @media (min-width: 768px) {
   .analytics-grid {
     grid-template-columns: repeat(2, 1fr);
+    gap: 3rem;
+    padding: 0 1rem;
   }
 }
 
@@ -1232,11 +1234,6 @@ section h2 {
   .analytics-section .section-intro {
     font-size: 1rem;
     padding: 0 1rem;
-  }
-  
-  .analytics-grid {
-    gap: 2rem;
-    padding: 0 0.5rem;
   }
 
   .chart-card {
