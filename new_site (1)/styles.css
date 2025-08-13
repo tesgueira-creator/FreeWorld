@@ -455,17 +455,10 @@ section h2 {
     gap: 3rem;
     padding: 0 1rem;
   }
-}
 
-/* Special layout for featured charts - make them larger */
-.analytics-grid .chart-card.featured {
-  grid-column: span 2;
-}
-
-/* On mobile, featured charts should be single column */
-@media (max-width: 767px) {
+  /* Featured charts span both columns on larger screens */
   .analytics-grid .chart-card.featured {
-    grid-column: span 1;
+    grid-column: span 2;
   }
 }
 
