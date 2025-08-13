@@ -10,10 +10,8 @@ var nuforcData = [
     "column-reported": "06/24/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "35.8617",
-    "lon": "104.1954",
-    "latitude": "35.8617",
-    "longitude": "104.1954"
+    "lat": "31.22222",
+    "lon": "121.45806"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190434",
@@ -26,10 +24,8 @@ var nuforcData = [
     "column-reported": "06/23/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190195",
@@ -42,10 +38,8 @@ var nuforcData = [
     "column-reported": "06/17/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.61211",
+    "lon": "-116.39151"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190100",
@@ -58,10 +52,8 @@ var nuforcData = [
     "column-reported": "06/04/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.83388",
+    "lon": "-104.82136"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189744",
@@ -74,10 +66,8 @@ var nuforcData = [
     "column-reported": "05/19/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.32674",
+    "lon": "-78.92197"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189687",
@@ -90,10 +80,8 @@ var nuforcData = [
     "column-reported": "05/18/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.9258",
+    "lon": "-77.40156"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189804",
@@ -106,10 +94,8 @@ var nuforcData = [
     "column-reported": "05/23/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189548",
@@ -122,10 +108,8 @@ var nuforcData = [
     "column-reported": "05/12/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.97997",
+    "lon": "-93.26384"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189482",
@@ -138,10 +122,8 @@ var nuforcData = [
     "column-reported": "05/08/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.8343",
+    "lon": "-97.2289"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189472",
@@ -154,10 +136,8 @@ var nuforcData = [
     "column-reported": "05/08/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189386",
@@ -170,10 +150,8 @@ var nuforcData = [
     "column-reported": "05/05/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.59577",
+    "lon": "-90.71953"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189333",
@@ -186,10 +164,8 @@ var nuforcData = [
     "column-reported": "05/02/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189362",
@@ -202,10 +178,8 @@ var nuforcData = [
     "column-reported": "05/03/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.66884",
+    "lon": "-111.82466"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189797",
@@ -218,10 +192,8 @@ var nuforcData = [
     "column-reported": "05/22/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189219",
@@ -234,10 +206,8 @@ var nuforcData = [
     "column-reported": "04/28/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.0653",
+    "lon": "-81.78869"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189030",
@@ -250,10 +220,8 @@ var nuforcData = [
     "column-reported": "04/18/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "46.2276",
-    "lon": "2.2137",
-    "latitude": "46.2276",
-    "longitude": "2.2137"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189679",
@@ -266,10 +234,8 @@ var nuforcData = [
     "column-reported": "05/17/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.25064",
+    "lon": "-91.73625"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188877",
@@ -282,10 +248,8 @@ var nuforcData = [
     "column-reported": "04/12/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "46.49",
+    "lon": "-80.99001"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189105",
@@ -298,10 +262,8 @@ var nuforcData = [
     "column-reported": "04/22/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.96336",
+    "lon": "-85.66809"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188813",
@@ -314,10 +276,8 @@ var nuforcData = [
     "column-reported": "04/09/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.06523",
+    "lon": "-119.01677"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189631",
@@ -330,10 +290,8 @@ var nuforcData = [
     "column-reported": "05/15/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188755",
@@ -346,10 +304,8 @@ var nuforcData = [
     "column-reported": "04/07/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.70471",
+    "lon": "-105.08137"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188614",
@@ -362,10 +318,8 @@ var nuforcData = [
     "column-reported": "03/29/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188522",
@@ -378,10 +332,8 @@ var nuforcData = [
     "column-reported": "03/24/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.54072",
+    "lon": "-116.56346"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188521",
@@ -394,10 +346,8 @@ var nuforcData = [
     "column-reported": "03/24/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.6135",
+    "lon": "-116.20345"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188542",
@@ -410,10 +360,8 @@ var nuforcData = [
     "column-reported": "03/25/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188402",
@@ -426,10 +374,8 @@ var nuforcData = [
     "column-reported": "03/19/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188352",
@@ -442,10 +388,8 @@ var nuforcData = [
     "column-reported": "03/16/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.46756",
+    "lon": "-97.51643"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188339",
@@ -458,10 +402,8 @@ var nuforcData = [
     "column-reported": "03/15/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "53.1424",
-    "lon": "-7.6921",
-    "latitude": "53.1424",
-    "longitude": "-7.6921"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189327",
@@ -470,14 +412,12 @@ var nuforcData = [
     "column-state": "CA",
     "column-country": "USA",
     "column-shape": "Chevron",
-    "column-summary": "Large silent aircraft lights that didn’t reflect flying low slowly over a hill approaching a farm the memory is hard to focus on",
+    "column-summary": "Large silent aircraft lights that didn\u2019t reflect flying low slowly over a hill approaching a farm the memory is hard to focus on",
     "column-reported": "05/03/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.28275",
+    "lon": "-120.65962"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188361",
@@ -490,10 +430,8 @@ var nuforcData = [
     "column-reported": "03/16/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.70754",
+    "lon": "-86.89503"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188257",
@@ -506,10 +444,8 @@ var nuforcData = [
     "column-reported": "03/12/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.09973",
+    "lon": "-94.57857"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188250",
@@ -522,10 +458,8 @@ var nuforcData = [
     "column-reported": "03/11/2025",
     "column-hasimage": "Y",
     "column-explanation": "Starlink (Racetrack)?",
-    "lat": "36.2048",
-    "lon": "138.2529",
-    "latitude": "36.2048",
-    "longitude": "138.2529"
+    "lat": "39.31691",
+    "lon": "140.55034"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188243",
@@ -538,10 +472,8 @@ var nuforcData = [
     "column-reported": "03/11/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.85538",
+    "lon": "-121.97096"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188191",
@@ -554,10 +486,8 @@ var nuforcData = [
     "column-reported": "03/08/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188176",
@@ -570,10 +500,8 @@ var nuforcData = [
     "column-reported": "03/08/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "50.5039",
-    "lon": "4.4699",
-    "latitude": "50.5039",
-    "longitude": "4.4699"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188260",
@@ -586,10 +514,8 @@ var nuforcData = [
     "column-reported": "03/12/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.16024",
+    "lon": "-93.08883"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188151",
@@ -602,10 +528,8 @@ var nuforcData = [
     "column-reported": "03/06/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188095",
@@ -618,10 +542,8 @@ var nuforcData = [
     "column-reported": "03/04/2025",
     "column-hasimage": "",
     "column-explanation": "Drone?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188098",
@@ -634,10 +556,8 @@ var nuforcData = [
     "column-reported": "03/04/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.54225",
+    "lon": "-117.78311"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187985",
@@ -650,10 +570,8 @@ var nuforcData = [
     "column-reported": "02/26/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187940",
@@ -666,10 +584,8 @@ var nuforcData = [
     "column-reported": "02/25/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.86815",
+    "lon": "-73.42568"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187865",
@@ -682,10 +598,8 @@ var nuforcData = [
     "column-reported": "02/21/2025",
     "column-hasimage": "",
     "column-explanation": "Drone?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187930",
@@ -698,10 +612,8 @@ var nuforcData = [
     "column-reported": "02/24/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "26.20341",
+    "lon": "-98.23001"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188048",
@@ -714,10 +626,8 @@ var nuforcData = [
     "column-reported": "03/02/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "18.7357",
-    "lon": "-70.1627",
-    "latitude": "18.7357",
-    "longitude": "-70.1627"
+    "lat": "18.58182",
+    "lon": "-68.40431"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187843",
@@ -730,10 +640,8 @@ var nuforcData = [
     "column-reported": "02/20/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187725",
@@ -746,10 +654,8 @@ var nuforcData = [
     "column-reported": "02/14/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.69982",
+    "lon": "-72.15702"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187923",
@@ -762,10 +668,8 @@ var nuforcData = [
     "column-reported": "02/23/2025",
     "column-hasimage": "",
     "column-explanation": "Aircraft?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.42412",
+    "lon": "-98.49363"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187582",
@@ -778,10 +682,8 @@ var nuforcData = [
     "column-reported": "02/07/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.69161",
+    "lon": "-112.00105"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187407",
@@ -794,10 +696,8 @@ var nuforcData = [
     "column-reported": "02/02/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187267",
@@ -810,10 +710,8 @@ var nuforcData = [
     "column-reported": "01/27/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.96095",
+    "lon": "-83.37794"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187273",
@@ -826,10 +724,8 @@ var nuforcData = [
     "column-reported": "01/28/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "46.13817",
+    "lon": "-122.93817"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187223",
@@ -842,10 +738,8 @@ var nuforcData = [
     "column-reported": "01/26/2025",
     "column-hasimage": "",
     "column-explanation": "Dream?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.80437",
+    "lon": "-122.2708"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187215",
@@ -858,10 +752,8 @@ var nuforcData = [
     "column-reported": "01/25/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187196",
@@ -874,10 +766,8 @@ var nuforcData = [
     "column-reported": "01/25/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.9126",
+    "lon": "-73.83708"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187126",
@@ -890,10 +780,8 @@ var nuforcData = [
     "column-reported": "01/23/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "23.6345",
-    "lon": "-102.5528",
-    "latitude": "23.6345",
-    "longitude": "-102.5528"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187073",
@@ -906,10 +794,8 @@ var nuforcData = [
     "column-reported": "01/22/2025",
     "column-hasimage": "",
     "column-explanation": "Drone?",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187065",
@@ -922,10 +808,8 @@ var nuforcData = [
     "column-reported": "01/21/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.22862",
+    "lon": "-88.11037"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187232",
@@ -938,10 +822,8 @@ var nuforcData = [
     "column-reported": "01/27/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187024",
@@ -954,10 +836,8 @@ var nuforcData = [
     "column-reported": "01/20/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.3665",
+    "lon": "-124.21789"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187094",
@@ -970,10 +850,8 @@ var nuforcData = [
     "column-reported": "01/22/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186974",
@@ -986,10 +864,8 @@ var nuforcData = [
     "column-reported": "01/19/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186929",
@@ -998,14 +874,12 @@ var nuforcData = [
     "column-state": "SC",
     "column-country": "USA",
     "column-shape": "Egg",
-    "column-summary": "Out this world - shaped like an egg and almost the size of a car, didn’t move in the powerful wind, very close.",
+    "column-summary": "Out this world - shaped like an egg and almost the size of a car, didn\u2019t move in the powerful wind, very close.",
     "column-reported": "01/16/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.49818",
+    "lon": "-122.43148"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186917",
@@ -1018,10 +892,8 @@ var nuforcData = [
     "column-reported": "01/16/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.07506",
+    "lon": "-84.44716"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187020",
@@ -1034,10 +906,8 @@ var nuforcData = [
     "column-reported": "01/20/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.61607",
+    "lon": "-95.55772"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187099",
@@ -1050,10 +920,8 @@ var nuforcData = [
     "column-reported": "01/22/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.73915",
+    "lon": "-104.9847"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186731",
@@ -1066,10 +934,8 @@ var nuforcData = [
     "column-reported": "01/11/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.05207",
+    "lon": "-123.08675"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186826",
@@ -1082,10 +948,8 @@ var nuforcData = [
     "column-reported": "01/13/2025",
     "column-hasimage": "",
     "column-explanation": "Drone?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186668",
@@ -1098,10 +962,8 @@ var nuforcData = [
     "column-reported": "01/09/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "23.6345",
-    "lon": "-102.5528",
-    "latitude": "23.6345",
-    "longitude": "-102.5528"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186537",
@@ -1114,10 +976,8 @@ var nuforcData = [
     "column-reported": "01/08/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.96095",
+    "lon": "-83.37794"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186750",
@@ -1130,10 +990,8 @@ var nuforcData = [
     "column-reported": "01/11/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "60.472",
-    "lon": "8.4689",
-    "latitude": "60.472",
-    "longitude": "8.4689"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187290",
@@ -1146,10 +1004,8 @@ var nuforcData = [
     "column-reported": "01/29/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187331",
@@ -1162,10 +1018,8 @@ var nuforcData = [
     "column-reported": "01/29/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186518",
@@ -1178,10 +1032,8 @@ var nuforcData = [
     "column-reported": "01/07/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.9132",
+    "lon": "-79.05584"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186529",
@@ -1194,10 +1046,8 @@ var nuforcData = [
     "column-reported": "01/07/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.95373",
+    "lon": "-96.89028"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186399",
@@ -1210,10 +1060,8 @@ var nuforcData = [
     "column-reported": "01/03/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.6025",
+    "lon": "-121.37854"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186378",
@@ -1226,10 +1074,8 @@ var nuforcData = [
     "column-reported": "01/03/2025",
     "column-hasimage": "Y",
     "column-explanation": "Drone?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186238",
@@ -1242,10 +1088,8 @@ var nuforcData = [
     "column-reported": "12/31/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186050",
@@ -1258,10 +1102,8 @@ var nuforcData = [
     "column-reported": "12/26/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.76328",
+    "lon": "-95.36327"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186699",
@@ -1274,10 +1116,8 @@ var nuforcData = [
     "column-reported": "01/10/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "26.12231",
+    "lon": "-80.14338"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186533",
@@ -1286,14 +1126,12 @@ var nuforcData = [
     "column-state": "ME",
     "column-country": "USA",
     "column-shape": "Unknown",
-    "column-summary": "Two large, bright, circular lights. So close I could’ve thrown a baseball at it. There is no way I was the only one to witness this.",
+    "column-summary": "Two large, bright, circular lights. So close I could\u2019ve thrown a baseball at it. There is no way I was the only one to witness this.",
     "column-reported": "01/08/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.31062",
+    "lon": "-69.77949"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186222",
@@ -1306,10 +1144,8 @@ var nuforcData = [
     "column-reported": "12/30/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.08423",
+    "lon": "-94.51328"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185876",
@@ -1322,10 +1158,8 @@ var nuforcData = [
     "column-reported": "12/22/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.15478",
+    "lon": "-77.61556"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190381",
@@ -1338,10 +1172,8 @@ var nuforcData = [
     "column-reported": "06/22/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.74648",
+    "lon": "-92.28959"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185716",
@@ -1350,14 +1182,12 @@ var nuforcData = [
     "column-state": "Setubal",
     "column-country": "Portugal",
     "column-shape": "Triangle",
-    "column-summary": "A light appeared from beneath the water, and that’s when something shaped like a pyramid emerged from the water.",
+    "column-summary": "A light appeared from beneath the water, and that\u2019s when something shaped like a pyramid emerged from the water.",
     "column-reported": "12/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "39.3999",
-    "lon": "-8.2245",
-    "latitude": "39.3999",
-    "longitude": "-8.2245"
+    "lat": "38.66314",
+    "lon": "-9.0724"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185726",
@@ -1366,14 +1196,12 @@ var nuforcData = [
     "column-state": "CA",
     "column-country": "USA",
     "column-shape": "Circle",
-    "column-summary": "Stationary very large bright light hovered for 30 minutes before quickly accelerating away leaving a “light trail” behind",
+    "column-summary": "Stationary very large bright light hovered for 30 minutes before quickly accelerating away leaving a \u201clight trail\u201d behind",
     "column-reported": "12/21/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185943",
@@ -1386,10 +1214,8 @@ var nuforcData = [
     "column-reported": "12/24/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185956",
@@ -1402,10 +1228,8 @@ var nuforcData = [
     "column-reported": "12/24/2024",
     "column-hasimage": "",
     "column-explanation": "Drone?",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "45.41117",
+    "lon": "-75.69812"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186541",
@@ -1418,10 +1242,8 @@ var nuforcData = [
     "column-reported": "01/08/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.33218",
+    "lon": "-81.65565"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185691",
@@ -1434,10 +1256,8 @@ var nuforcData = [
     "column-reported": "12/20/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "48.42122",
+    "lon": "-122.33405"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185603",
@@ -1450,10 +1270,8 @@ var nuforcData = [
     "column-reported": "12/19/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.82093",
+    "lon": "-122.31513"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185519",
@@ -1466,10 +1284,8 @@ var nuforcData = [
     "column-reported": "12/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.7262",
+    "lon": "-71.19089"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185536",
@@ -1482,10 +1298,8 @@ var nuforcData = [
     "column-reported": "12/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185446",
@@ -1498,10 +1312,8 @@ var nuforcData = [
     "column-reported": "12/16/2024",
     "column-hasimage": "",
     "column-explanation": "Drone?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185854",
@@ -1514,10 +1326,8 @@ var nuforcData = [
     "column-reported": "12/22/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185328",
@@ -1530,10 +1340,8 @@ var nuforcData = [
     "column-reported": "12/15/2024",
     "column-hasimage": "",
     "column-explanation": "Drone?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185500",
@@ -1546,10 +1354,8 @@ var nuforcData = [
     "column-reported": "12/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.8526",
+    "lon": "-72.6437"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185366",
@@ -1562,10 +1368,8 @@ var nuforcData = [
     "column-reported": "12/16/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.62593",
+    "lon": "-75.37046"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185991",
@@ -1578,10 +1382,8 @@ var nuforcData = [
     "column-reported": "12/25/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185166",
@@ -1594,10 +1396,8 @@ var nuforcData = [
     "column-reported": "12/14/2024",
     "column-hasimage": "Y",
     "column-explanation": "Drone?",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "42.98339",
+    "lon": "-81.23304"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186262",
@@ -1610,10 +1410,8 @@ var nuforcData = [
     "column-reported": "01/01/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.29593",
+    "lon": "-71.71285"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186198",
@@ -1626,10 +1424,8 @@ var nuforcData = [
     "column-reported": "12/30/2024",
     "column-hasimage": "",
     "column-explanation": "Drone?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.93821",
+    "lon": "-77.79053"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188810",
@@ -1642,10 +1438,8 @@ var nuforcData = [
     "column-reported": "04/09/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.89859",
+    "lon": "-117.02282"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190488",
@@ -1658,10 +1452,8 @@ var nuforcData = [
     "column-reported": "06/26/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185664",
@@ -1674,10 +1466,8 @@ var nuforcData = [
     "column-reported": "12/20/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "25.62177",
+    "lon": "-80.32477"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189138",
@@ -1690,10 +1480,8 @@ var nuforcData = [
     "column-reported": "04/23/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184920",
@@ -1706,10 +1494,8 @@ var nuforcData = [
     "column-reported": "12/09/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.66311",
+    "lon": "-90.57707"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185247",
@@ -1722,10 +1508,8 @@ var nuforcData = [
     "column-reported": "12/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186292",
@@ -1738,10 +1522,8 @@ var nuforcData = [
     "column-reported": "01/01/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.80086",
+    "lon": "-87.93701"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184742",
@@ -1754,10 +1536,8 @@ var nuforcData = [
     "column-reported": "12/04/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185003",
@@ -1770,10 +1550,8 @@ var nuforcData = [
     "column-reported": "12/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184804",
@@ -1786,10 +1564,8 @@ var nuforcData = [
     "column-reported": "12/05/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184619",
@@ -1802,10 +1578,8 @@ var nuforcData = [
     "column-reported": "11/30/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.25445",
+    "lon": "-104.60914"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188805",
@@ -1818,10 +1592,8 @@ var nuforcData = [
     "column-reported": "04/09/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187413",
@@ -1834,15 +1606,13 @@ var nuforcData = [
     "column-reported": "02/02/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.21081",
+    "lon": "-81.02283"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185626",
     "column-occurred": "11/26/2024 21:30",
-    "column-city": "Köngäs",
+    "column-city": "K\u00f6ng\u00e4s",
     "column-state": "Lappi",
     "column-country": "Finland",
     "column-shape": "Other",
@@ -1850,10 +1620,8 @@ var nuforcData = [
     "column-reported": "12/19/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "61.9241",
-    "lon": "25.7482",
-    "latitude": "61.9241",
-    "longitude": "25.7482"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184521",
@@ -1866,10 +1634,8 @@ var nuforcData = [
     "column-reported": "11/26/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.21533",
+    "lon": "-93.29824"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189869",
@@ -1882,10 +1648,8 @@ var nuforcData = [
     "column-reported": "05/25/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.48643",
+    "lon": "-86.1336"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185266",
@@ -1898,10 +1662,8 @@ var nuforcData = [
     "column-reported": "12/15/2024",
     "column-hasimage": "",
     "column-explanation": "Drone?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.82621",
+    "lon": "-73.50207"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187084",
@@ -1914,26 +1676,22 @@ var nuforcData = [
     "column-reported": "01/22/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.05207",
+    "lon": "-123.08675"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185081",
     "column-occurred": "11/25/2024 09:03",
     "column-city": "Tegucigalpa",
-    "column-state": "Departamento de Francisco Morazán",
+    "column-state": "Departamento de Francisco Moraz\u00e1n",
     "column-country": "Honduras",
     "column-shape": "Oval",
     "column-summary": "In the morning, I saw a small, metallic UFO shaped like an American football hovering silently above a 15-story building",
     "column-reported": "12/12/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "15.2",
-    "lon": "-86.2419",
-    "latitude": "15.2",
-    "longitude": "-86.2419"
+    "lat": "14.0818",
+    "lon": "-87.20681"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184581",
@@ -1946,10 +1704,8 @@ var nuforcData = [
     "column-reported": "11/28/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.6135",
+    "lon": "-116.20345"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184647",
@@ -1962,10 +1718,8 @@ var nuforcData = [
     "column-reported": "12/01/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.42059",
+    "lon": "-86.61707"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184470",
@@ -1978,10 +1732,8 @@ var nuforcData = [
     "column-reported": "11/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "52.58528",
+    "lon": "-1.98396"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184420",
@@ -1994,10 +1746,8 @@ var nuforcData = [
     "column-reported": "11/21/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184929",
@@ -2010,10 +1760,8 @@ var nuforcData = [
     "column-reported": "12/09/2024",
     "column-hasimage": "Y",
     "column-explanation": "Aircraft?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184315",
@@ -2026,10 +1774,8 @@ var nuforcData = [
     "column-reported": "11/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.14953",
+    "lon": "-90.04898"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184136",
@@ -2042,10 +1788,8 @@ var nuforcData = [
     "column-reported": "11/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.4048",
+    "lon": "-103.20523"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187994",
@@ -2058,10 +1802,8 @@ var nuforcData = [
     "column-reported": "02/27/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184989",
@@ -2074,10 +1816,8 @@ var nuforcData = [
     "column-reported": "12/10/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184032",
@@ -2090,10 +1830,8 @@ var nuforcData = [
     "column-reported": "11/11/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183972",
@@ -2106,10 +1844,8 @@ var nuforcData = [
     "column-reported": "11/10/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.71368",
+    "lon": "-82.59933"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184215",
@@ -2122,10 +1858,8 @@ var nuforcData = [
     "column-reported": "11/16/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "46.60207",
+    "lon": "-120.5059"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183851",
@@ -2138,10 +1872,8 @@ var nuforcData = [
     "column-reported": "11/04/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183829",
@@ -2154,10 +1886,8 @@ var nuforcData = [
     "column-reported": "11/03/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "49.8153",
-    "lon": "6.1296",
-    "latitude": "49.8153",
-    "longitude": "6.1296"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183844",
@@ -2170,10 +1900,8 @@ var nuforcData = [
     "column-reported": "11/04/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183812",
@@ -2186,10 +1914,8 @@ var nuforcData = [
     "column-reported": "11/02/2024",
     "column-hasimage": "",
     "column-explanation": "Starlink (Racetrack)",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.25704",
+    "lon": "-85.16467"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183840",
@@ -2202,10 +1928,8 @@ var nuforcData = [
     "column-reported": "11/04/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184029",
@@ -2218,10 +1942,8 @@ var nuforcData = [
     "column-reported": "11/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.67811",
+    "lon": "-117.0992"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183508",
@@ -2234,10 +1956,8 @@ var nuforcData = [
     "column-reported": "10/26/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.58526",
+    "lon": "-105.08442"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183521",
@@ -2250,10 +1970,8 @@ var nuforcData = [
     "column-reported": "10/26/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.97997",
+    "lon": "-93.26384"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183540",
@@ -2266,10 +1984,8 @@ var nuforcData = [
     "column-reported": "10/25/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.13667",
+    "lon": "-95.89084"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183577",
@@ -2282,10 +1998,8 @@ var nuforcData = [
     "column-reported": "10/24/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183610",
@@ -2298,10 +2012,8 @@ var nuforcData = [
     "column-reported": "10/22/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183560",
@@ -2314,10 +2026,8 @@ var nuforcData = [
     "column-reported": "10/24/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183662",
@@ -2330,10 +2040,8 @@ var nuforcData = [
     "column-reported": "10/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183646",
@@ -2346,10 +2054,8 @@ var nuforcData = [
     "column-reported": "10/21/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.94441",
+    "lon": "-93.09327"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183474",
@@ -2362,10 +2068,8 @@ var nuforcData = [
     "column-reported": "10/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.44047",
+    "lon": "-122.71443"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183888",
@@ -2378,10 +2082,8 @@ var nuforcData = [
     "column-reported": "11/07/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183651",
@@ -2394,10 +2096,8 @@ var nuforcData = [
     "column-reported": "10/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183429",
@@ -2410,10 +2110,8 @@ var nuforcData = [
     "column-reported": "10/11/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "48.29316",
+    "lon": "-122.64322"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183443",
@@ -2426,10 +2124,8 @@ var nuforcData = [
     "column-reported": "10/13/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183458",
@@ -2438,14 +2134,12 @@ var nuforcData = [
     "column-state": "CA",
     "column-country": "USA",
     "column-shape": "Chevron",
-    "column-summary": "The ship was otherworldly. It wasn’t just a metal structure, it wasn’t just orbs of light - it looked like it was from a sci-fi movie.",
+    "column-summary": "The ship was otherworldly. It wasn\u2019t just a metal structure, it wasn\u2019t just orbs of light - it looked like it was from a sci-fi movie.",
     "column-reported": "10/14/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184517",
@@ -2458,10 +2152,8 @@ var nuforcData = [
     "column-reported": "11/25/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.52977",
+    "lon": "-87.35945"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184389",
@@ -2474,10 +2166,8 @@ var nuforcData = [
     "column-reported": "11/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183328",
@@ -2490,10 +2180,8 @@ var nuforcData = [
     "column-reported": "10/05/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.61107",
+    "lon": "-121.85162"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189179",
@@ -2506,10 +2194,8 @@ var nuforcData = [
     "column-reported": "04/26/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.71368",
+    "lon": "-82.59933"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188087",
@@ -2522,10 +2208,8 @@ var nuforcData = [
     "column-reported": "03/03/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "51.05011",
+    "lon": "-114.08529"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183257",
@@ -2538,10 +2222,8 @@ var nuforcData = [
     "column-reported": "09/29/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184362",
@@ -2554,10 +2236,8 @@ var nuforcData = [
     "column-reported": "11/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188832",
@@ -2570,10 +2250,8 @@ var nuforcData = [
     "column-reported": "04/10/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.95335",
+    "lon": "-117.39616"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184519",
@@ -2586,10 +2264,8 @@ var nuforcData = [
     "column-reported": "11/25/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "71.7069",
-    "lon": "-42.6043",
-    "latitude": "71.7069",
-    "longitude": "-42.6043"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183211",
@@ -2602,10 +2278,8 @@ var nuforcData = [
     "column-reported": "09/26/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.80136",
+    "lon": "-91.23958"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184505",
@@ -2618,10 +2292,8 @@ var nuforcData = [
     "column-reported": "11/25/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183105",
@@ -2634,10 +2306,8 @@ var nuforcData = [
     "column-reported": "09/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.50745",
+    "lon": "-95.09493"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183084",
@@ -2650,10 +2320,8 @@ var nuforcData = [
     "column-reported": "09/17/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183085",
@@ -2666,15 +2334,13 @@ var nuforcData = [
     "column-reported": "09/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.23969",
+    "lon": "-81.38564"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184122",
     "column-occurred": "09/15/2024 19:25",
-    "column-city": "Cañon City",
+    "column-city": "Ca\u00f1on City",
     "column-state": "CO",
     "column-country": "USA",
     "column-shape": "Sphere",
@@ -2682,15 +2348,13 @@ var nuforcData = [
     "column-reported": "11/14/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.44098",
+    "lon": "-105.24245"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183985",
     "column-occurred": "09/15/2024 19:25",
-    "column-city": "Cañon City",
+    "column-city": "Ca\u00f1on City",
     "column-state": "CO",
     "column-country": "USA",
     "column-shape": "Sphere",
@@ -2698,10 +2362,8 @@ var nuforcData = [
     "column-reported": "11/10/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.44098",
+    "lon": "-105.24245"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188576",
@@ -2714,10 +2376,8 @@ var nuforcData = [
     "column-reported": "03/27/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.93873",
+    "lon": "-82.22706"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183172",
@@ -2730,10 +2390,8 @@ var nuforcData = [
     "column-reported": "09/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "50.5039",
-    "lon": "4.4699",
-    "latitude": "50.5039",
-    "longitude": "4.4699"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182915",
@@ -2746,10 +2404,8 @@ var nuforcData = [
     "column-reported": "09/04/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.32509",
+    "lon": "-72.6412"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182888",
@@ -2762,10 +2418,8 @@ var nuforcData = [
     "column-reported": "09/02/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182855",
@@ -2778,10 +2432,8 @@ var nuforcData = [
     "column-reported": "08/31/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "31.60351",
+    "lon": "-94.65549"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182863",
@@ -2794,10 +2446,8 @@ var nuforcData = [
     "column-reported": "08/31/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184363",
@@ -2810,10 +2460,8 @@ var nuforcData = [
     "column-reported": "11/19/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.4995",
+    "lon": "-81.69541"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182756",
@@ -2826,10 +2474,8 @@ var nuforcData = [
     "column-reported": "08/24/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.35843",
+    "lon": "-71.05977"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182743",
@@ -2842,10 +2488,8 @@ var nuforcData = [
     "column-reported": "08/22/2024",
     "column-hasimage": "",
     "column-explanation": "Meteor?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.29347",
+    "lon": "-80.05476"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182671",
@@ -2858,10 +2502,8 @@ var nuforcData = [
     "column-reported": "08/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.78864",
+    "lon": "-89.69622"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182905",
@@ -2874,10 +2516,8 @@ var nuforcData = [
     "column-reported": "09/03/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.84967",
+    "lon": "-75.35707"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182661",
@@ -2890,10 +2530,8 @@ var nuforcData = [
     "column-reported": "08/16/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.88645",
+    "lon": "-78.87837"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182982",
@@ -2906,10 +2544,8 @@ var nuforcData = [
     "column-reported": "09/10/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.7668",
+    "lon": "-96.59916"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184542",
@@ -2922,10 +2558,8 @@ var nuforcData = [
     "column-reported": "11/27/2024",
     "column-hasimage": "Y",
     "column-explanation": "Drone",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183117",
@@ -2938,10 +2572,8 @@ var nuforcData = [
     "column-reported": "09/20/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182552",
@@ -2954,10 +2586,8 @@ var nuforcData = [
     "column-reported": "08/08/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182456",
@@ -2970,10 +2600,8 @@ var nuforcData = [
     "column-reported": "08/01/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182498",
@@ -2986,10 +2614,8 @@ var nuforcData = [
     "column-reported": "08/04/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.70523",
+    "lon": "-95.12382"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182416",
@@ -3002,10 +2628,8 @@ var nuforcData = [
     "column-reported": "07/29/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.07994",
+    "lon": "-95.41716"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182418",
@@ -3018,10 +2642,8 @@ var nuforcData = [
     "column-reported": "07/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182373",
@@ -3034,10 +2656,8 @@ var nuforcData = [
     "column-reported": "07/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.95914",
+    "lon": "-89.63012"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182335",
@@ -3050,10 +2670,8 @@ var nuforcData = [
     "column-reported": "07/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186534",
@@ -3066,10 +2684,8 @@ var nuforcData = [
     "column-reported": "01/08/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182286",
@@ -3082,10 +2698,8 @@ var nuforcData = [
     "column-reported": "07/14/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.20811",
+    "lon": "-86.2911"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182278",
@@ -3098,10 +2712,8 @@ var nuforcData = [
     "column-reported": "07/14/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182235",
@@ -3114,10 +2726,8 @@ var nuforcData = [
     "column-reported": "07/10/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "27.33643",
+    "lon": "-82.53065"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184121",
@@ -3130,10 +2740,8 @@ var nuforcData = [
     "column-reported": "11/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182004",
@@ -3146,10 +2754,8 @@ var nuforcData = [
     "column-reported": "06/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.37093",
+    "lon": "-71.18283"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182039",
@@ -3158,14 +2764,12 @@ var nuforcData = [
     "column-state": "TX",
     "column-country": "USA",
     "column-shape": "Flash",
-    "column-summary": "Clear night brightest light ever seen don’t know how long it was there, just remember a white and blue beam and it disappeared",
+    "column-summary": "Clear night brightest light ever seen don\u2019t know how long it was there, just remember a white and blue beam and it disappeared",
     "column-reported": "06/24/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "46.28569",
+    "lon": "-119.28446"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181953",
@@ -3178,10 +2782,8 @@ var nuforcData = [
     "column-reported": "06/19/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182083",
@@ -3194,10 +2796,8 @@ var nuforcData = [
     "column-reported": "06/28/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181847",
@@ -3210,10 +2810,8 @@ var nuforcData = [
     "column-reported": "06/12/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181846",
@@ -3226,10 +2824,8 @@ var nuforcData = [
     "column-reported": "06/12/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.1872",
+    "lon": "-82.14009"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181776",
@@ -3242,10 +2838,8 @@ var nuforcData = [
     "column-reported": "06/05/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.75554",
+    "lon": "-105.2211"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182372",
@@ -3258,15 +2852,13 @@ var nuforcData = [
     "column-reported": "07/23/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "26.56285",
+    "lon": "-81.94953"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181495",
     "column-occurred": "05/12/2024 20:58",
-    "column-city": "Los Médanos",
+    "column-city": "Los M\u00e9danos",
     "column-state": "Baja California",
     "column-country": "Mexico",
     "column-shape": "Cylinder",
@@ -3274,10 +2866,8 @@ var nuforcData = [
     "column-reported": "05/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "23.6345",
-    "lon": "-102.5528",
-    "latitude": "23.6345",
-    "longitude": "-102.5528"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181488",
@@ -3290,10 +2880,8 @@ var nuforcData = [
     "column-reported": "05/12/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181256",
@@ -3306,10 +2894,8 @@ var nuforcData = [
     "column-reported": "04/24/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184314",
@@ -3322,10 +2908,8 @@ var nuforcData = [
     "column-reported": "11/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.80427",
+    "lon": "-74.01208"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181673",
@@ -3338,10 +2922,8 @@ var nuforcData = [
     "column-reported": "05/28/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.87552",
+    "lon": "-91.91934"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181169",
@@ -3354,10 +2936,8 @@ var nuforcData = [
     "column-reported": "04/15/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.40159",
+    "lon": "-86.86357"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181509",
@@ -3370,10 +2950,8 @@ var nuforcData = [
     "column-reported": "05/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.40159",
+    "lon": "-86.86357"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181173",
@@ -3386,10 +2964,8 @@ var nuforcData = [
     "column-reported": "04/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.7207",
+    "lon": "-116.21677"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181168",
@@ -3402,10 +2978,8 @@ var nuforcData = [
     "column-reported": "04/15/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186012",
@@ -3418,10 +2992,8 @@ var nuforcData = [
     "column-reported": "12/26/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181300",
@@ -3434,10 +3006,8 @@ var nuforcData = [
     "column-reported": "04/28/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.63958",
+    "lon": "-96.53832"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181062",
@@ -3450,10 +3020,8 @@ var nuforcData = [
     "column-reported": "04/07/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.50948",
+    "lon": "-90.57875"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187440",
@@ -3466,10 +3034,8 @@ var nuforcData = [
     "column-reported": "02/03/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182298",
@@ -3482,10 +3048,8 @@ var nuforcData = [
     "column-reported": "07/16/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180939",
@@ -3498,10 +3062,8 @@ var nuforcData = [
     "column-reported": "03/26/2024",
     "column-hasimage": "Y",
     "column-explanation": "Balloon",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180938",
@@ -3514,10 +3076,8 @@ var nuforcData = [
     "column-reported": "03/26/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "31.09823",
+    "lon": "-97.34278"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180893",
@@ -3530,10 +3090,8 @@ var nuforcData = [
     "column-reported": "03/21/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180827",
@@ -3546,10 +3104,8 @@ var nuforcData = [
     "column-reported": "03/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.04624",
+    "lon": "-123.02203"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180825",
@@ -3562,10 +3118,8 @@ var nuforcData = [
     "column-reported": "03/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.46658",
+    "lon": "-112.03414"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187244",
@@ -3578,10 +3132,8 @@ var nuforcData = [
     "column-reported": "01/26/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184684",
@@ -3594,10 +3146,8 @@ var nuforcData = [
     "column-reported": "12/02/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "18.2208",
-    "lon": "-66.5901",
-    "latitude": "18.2208",
-    "longitude": "-66.5901"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182597",
@@ -3610,10 +3160,8 @@ var nuforcData = [
     "column-reported": "08/11/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180677",
@@ -3626,10 +3174,8 @@ var nuforcData = [
     "column-reported": "03/03/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.77817",
+    "lon": "-81.18816"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180661",
@@ -3642,26 +3188,22 @@ var nuforcData = [
     "column-reported": "03/01/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180624",
     "column-occurred": "02/28/2024 21:00",
     "column-city": "Mogi das Cruzes",
-    "column-state": "São Paulo",
+    "column-state": "S\u00e3o Paulo",
     "column-country": "Brazil",
     "column-shape": "Orb",
     "column-summary": "At least 40 orbs of light rising from the horizon in the distance",
     "column-reported": "02/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-14.235",
-    "lon": "-51.9253",
-    "latitude": "-14.235",
-    "longitude": "-51.9253"
+    "lat": "-23.52278",
+    "lon": "-46.18833"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180628",
@@ -3674,10 +3216,8 @@ var nuforcData = [
     "column-reported": "02/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.08861",
+    "lon": "-87.65758"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180616",
@@ -3690,10 +3230,8 @@ var nuforcData = [
     "column-reported": "02/28/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182382",
@@ -3706,10 +3244,8 @@ var nuforcData = [
     "column-reported": "07/24/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180588",
@@ -3722,10 +3258,8 @@ var nuforcData = [
     "column-reported": "02/25/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.89511",
+    "lon": "-77.03637"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180589",
@@ -3738,10 +3272,8 @@ var nuforcData = [
     "column-reported": "02/25/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188222",
@@ -3750,14 +3282,12 @@ var nuforcData = [
     "column-state": "England",
     "column-country": "United Kingdom",
     "column-shape": "Rectangle",
-    "column-summary": "Stood in a courtyard between buildings. Saw small bright light followed by a large craft 200’ft up flying slowly above the city",
+    "column-summary": "Stood in a courtyard between buildings. Saw small bright light followed by a large craft 200\u2019ft up flying slowly above the city",
     "column-reported": "03/10/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180503",
@@ -3770,10 +3300,8 @@ var nuforcData = [
     "column-reported": "02/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.0334",
+    "lon": "-83.15825"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180505",
@@ -3786,10 +3314,8 @@ var nuforcData = [
     "column-reported": "02/20/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.42227",
+    "lon": "-111.82264"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180471",
@@ -3802,10 +3328,8 @@ var nuforcData = [
     "column-reported": "02/17/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.27113",
+    "lon": "-89.094"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180458",
@@ -3818,10 +3342,8 @@ var nuforcData = [
     "column-reported": "02/16/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.44062",
+    "lon": "-79.99589"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180940",
@@ -3834,10 +3356,8 @@ var nuforcData = [
     "column-reported": "03/26/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.05266",
+    "lon": "-78.87836"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180611",
@@ -3850,10 +3370,8 @@ var nuforcData = [
     "column-reported": "02/28/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "-14.235",
-    "lon": "-51.9253",
-    "latitude": "-14.235",
-    "longitude": "-51.9253"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180315",
@@ -3866,10 +3384,8 @@ var nuforcData = [
     "column-reported": "02/07/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.2732",
+    "lon": "-89.98592"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180467",
@@ -3882,10 +3398,8 @@ var nuforcData = [
     "column-reported": "02/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.54428",
+    "lon": "-84.23381"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180305",
@@ -3898,10 +3412,8 @@ var nuforcData = [
     "column-reported": "02/06/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180290",
@@ -3914,10 +3426,8 @@ var nuforcData = [
     "column-reported": "02/05/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.25626",
+    "lon": "-95.94043"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188054",
@@ -3930,10 +3440,8 @@ var nuforcData = [
     "column-reported": "03/02/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.0389",
+    "lon": "-87.90647"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180264",
@@ -3946,10 +3454,8 @@ var nuforcData = [
     "column-reported": "02/01/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180249",
@@ -3962,10 +3468,8 @@ var nuforcData = [
     "column-reported": "02/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.60986",
+    "lon": "-85.48078"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182924",
@@ -3978,10 +3482,8 @@ var nuforcData = [
     "column-reported": "09/06/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180269",
@@ -3994,10 +3496,8 @@ var nuforcData = [
     "column-reported": "02/01/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180188",
@@ -4010,10 +3510,8 @@ var nuforcData = [
     "column-reported": "01/27/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182980",
@@ -4026,10 +3524,8 @@ var nuforcData = [
     "column-reported": "09/09/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.749",
+    "lon": "-84.38798"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180915",
@@ -4042,10 +3538,8 @@ var nuforcData = [
     "column-reported": "03/25/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180140",
@@ -4058,10 +3552,8 @@ var nuforcData = [
     "column-reported": "01/22/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.45843",
+    "lon": "-71.06616"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180084",
@@ -4074,10 +3566,8 @@ var nuforcData = [
     "column-reported": "01/17/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180371",
@@ -4090,10 +3580,8 @@ var nuforcData = [
     "column-reported": "02/12/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180057",
@@ -4106,10 +3594,8 @@ var nuforcData = [
     "column-reported": "01/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.44063",
+    "lon": "-76.49661"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180099",
@@ -4122,10 +3608,8 @@ var nuforcData = [
     "column-reported": "01/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.44838",
+    "lon": "-112.07404"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180080",
@@ -4138,10 +3622,8 @@ var nuforcData = [
     "column-reported": "01/16/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.22709",
+    "lon": "-80.84313"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180158",
@@ -4154,10 +3636,8 @@ var nuforcData = [
     "column-reported": "01/20/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "38.9637",
-    "lon": "35.2433",
-    "latitude": "38.9637",
-    "longitude": "35.2433"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180054",
@@ -4166,14 +3646,12 @@ var nuforcData = [
     "column-state": "WA",
     "column-country": "USA",
     "column-shape": "Light",
-    "column-summary": "Flying from DEN to PSC at 34,000’. Witnessed moving lights moving very fast and would appear and disappear. ATC had nothing on radar.",
+    "column-summary": "Flying from DEN to PSC at 34,000\u2019. Witnessed moving lights moving very fast and would appear and disappear. ATC had nothing on radar.",
     "column-reported": "01/10/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "46.60207",
+    "lon": "-120.5059"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181919",
@@ -4186,10 +3664,8 @@ var nuforcData = [
     "column-reported": "06/18/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "51.1657",
-    "lon": "10.4515",
-    "latitude": "51.1657",
-    "longitude": "10.4515"
+    "lat": "47.54612",
+    "lon": "9.68431"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179996",
@@ -4202,10 +3678,8 @@ var nuforcData = [
     "column-reported": "01/08/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "43.54594",
+    "lon": "-80.25599"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179998",
@@ -4218,10 +3692,8 @@ var nuforcData = [
     "column-reported": "01/07/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.2165",
+    "lon": "-123.34174"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179790",
@@ -4234,10 +3706,8 @@ var nuforcData = [
     "column-reported": "01/05/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "46.51677",
+    "lon": "-84.33325"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179814",
@@ -4250,10 +3720,8 @@ var nuforcData = [
     "column-reported": "01/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.46756",
+    "lon": "-97.51643"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179815",
@@ -4266,10 +3734,8 @@ var nuforcData = [
     "column-reported": "01/02/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184130",
@@ -4282,10 +3748,8 @@ var nuforcData = [
     "column-reported": "11/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.39676",
+    "lon": "-73.07594"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179900",
@@ -4298,10 +3762,8 @@ var nuforcData = [
     "column-reported": "12/27/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181836",
@@ -4314,10 +3776,8 @@ var nuforcData = [
     "column-reported": "06/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.30428",
+    "lon": "-73.99236"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179797",
@@ -4330,10 +3790,8 @@ var nuforcData = [
     "column-reported": "01/04/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179942",
@@ -4346,10 +3804,8 @@ var nuforcData = [
     "column-reported": "12/20/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180056",
@@ -4362,10 +3818,8 @@ var nuforcData = [
     "column-reported": "01/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.74648",
+    "lon": "-92.28959"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179915",
@@ -4378,10 +3832,8 @@ var nuforcData = [
     "column-reported": "12/24/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.46059",
+    "lon": "-83.13465"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179717",
@@ -4394,10 +3846,8 @@ var nuforcData = [
     "column-reported": "12/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179707",
@@ -4410,10 +3860,8 @@ var nuforcData = [
     "column-reported": "12/14/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.07264",
+    "lon": "-79.79198"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180834",
@@ -4426,10 +3874,8 @@ var nuforcData = [
     "column-reported": "03/16/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179675",
@@ -4442,10 +3888,8 @@ var nuforcData = [
     "column-reported": "12/11/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.63342",
+    "lon": "-71.31617"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182077",
@@ -4458,10 +3902,8 @@ var nuforcData = [
     "column-reported": "06/28/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.08363",
+    "lon": "-80.60811"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187849",
@@ -4474,10 +3916,8 @@ var nuforcData = [
     "column-reported": "02/21/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "51.1657",
-    "lon": "10.4515",
-    "latitude": "51.1657",
-    "longitude": "10.4515"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179582",
@@ -4490,10 +3930,8 @@ var nuforcData = [
     "column-reported": "12/05/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.45282",
+    "lon": "-82.18237"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179607",
@@ -4506,10 +3944,8 @@ var nuforcData = [
     "column-reported": "12/06/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.14953",
+    "lon": "-90.04898"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179587",
@@ -4522,10 +3958,8 @@ var nuforcData = [
     "column-reported": "12/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.21484",
+    "lon": "-97.13307"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179535",
@@ -4538,10 +3972,8 @@ var nuforcData = [
     "column-reported": "11/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179708",
@@ -4554,10 +3986,8 @@ var nuforcData = [
     "column-reported": "12/14/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180078",
@@ -4570,10 +4000,8 @@ var nuforcData = [
     "column-reported": "01/16/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "23.6345",
-    "lon": "-102.5528",
-    "latitude": "23.6345",
-    "longitude": "-102.5528"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179496",
@@ -4586,10 +4014,8 @@ var nuforcData = [
     "column-reported": "11/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179540",
@@ -4602,10 +4028,8 @@ var nuforcData = [
     "column-reported": "11/29/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179497",
@@ -4618,10 +4042,8 @@ var nuforcData = [
     "column-reported": "11/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "31.22323",
+    "lon": "-85.39049"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179475",
@@ -4634,10 +4056,8 @@ var nuforcData = [
     "column-reported": "11/21/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.11561",
+    "lon": "-97.05837"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179468",
@@ -4650,10 +4070,8 @@ var nuforcData = [
     "column-reported": "11/23/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.46756",
+    "lon": "-97.51643"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183036",
@@ -4666,10 +4084,8 @@ var nuforcData = [
     "column-reported": "09/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.05207",
+    "lon": "-123.08675"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179444",
@@ -4682,10 +4098,8 @@ var nuforcData = [
     "column-reported": "11/20/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179427",
@@ -4698,10 +4112,8 @@ var nuforcData = [
     "column-reported": "11/20/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.39091",
+    "lon": "-110.96649"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179578",
@@ -4714,10 +4126,8 @@ var nuforcData = [
     "column-reported": "12/03/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179406",
@@ -4730,10 +4140,8 @@ var nuforcData = [
     "column-reported": "11/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179568",
@@ -4746,10 +4154,8 @@ var nuforcData = [
     "column-reported": "12/02/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184000",
@@ -4762,10 +4168,8 @@ var nuforcData = [
     "column-reported": "11/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179408",
@@ -4778,10 +4182,8 @@ var nuforcData = [
     "column-reported": "11/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.85003",
+    "lon": "-87.65005"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184094",
@@ -4794,10 +4196,8 @@ var nuforcData = [
     "column-reported": "11/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179404",
@@ -4810,10 +4210,8 @@ var nuforcData = [
     "column-reported": "11/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.13998",
+    "lon": "-104.82025"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179384",
@@ -4826,10 +4224,8 @@ var nuforcData = [
     "column-reported": "11/13/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179350",
@@ -4842,10 +4238,8 @@ var nuforcData = [
     "column-reported": "11/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179360",
@@ -4854,14 +4248,12 @@ var nuforcData = [
     "column-state": "PA",
     "column-country": "USA",
     "column-shape": "Triangle",
-    "column-summary": "Triangle shaped craft that moved like nothing I’ve ever seen.",
+    "column-summary": "Triangle shaped craft that moved like nothing I\u2019ve ever seen.",
     "column-reported": "11/11/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179474",
@@ -4870,14 +4262,12 @@ var nuforcData = [
     "column-state": "FL",
     "column-country": "USA",
     "column-shape": "Triangle",
-    "column-summary": "I saw a HUGE triangle craft with at least 7 bright white lights in a perfect “V” at the front and no lights on the backend of it",
+    "column-summary": "I saw a HUGE triangle craft with at least 7 bright white lights in a perfect \u201cV\u201d at the front and no lights on the backend of it",
     "column-reported": "11/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.03947",
+    "lon": "-81.9498"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179394",
@@ -4890,10 +4280,8 @@ var nuforcData = [
     "column-reported": "11/14/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.61106",
+    "lon": "-111.89994"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179353",
@@ -4906,10 +4294,8 @@ var nuforcData = [
     "column-reported": "11/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.69982",
+    "lon": "-72.15702"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179308",
@@ -4922,10 +4308,8 @@ var nuforcData = [
     "column-reported": "11/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.73915",
+    "lon": "-104.9847"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179306",
@@ -4938,10 +4322,8 @@ var nuforcData = [
     "column-reported": "11/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179369",
@@ -4954,10 +4336,8 @@ var nuforcData = [
     "column-reported": "11/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.04833",
+    "lon": "-95.67804"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179417",
@@ -4970,10 +4350,8 @@ var nuforcData = [
     "column-reported": "11/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179325",
@@ -4986,10 +4364,8 @@ var nuforcData = [
     "column-reported": "11/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179367",
@@ -5002,10 +4378,8 @@ var nuforcData = [
     "column-reported": "11/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.76371",
+    "lon": "-72.68509"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179330",
@@ -5018,10 +4392,8 @@ var nuforcData = [
     "column-reported": "11/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179534",
@@ -5034,10 +4406,8 @@ var nuforcData = [
     "column-reported": "11/30/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.3995",
+    "lon": "-84.56134"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179280",
@@ -5050,10 +4420,8 @@ var nuforcData = [
     "column-reported": "11/05/2023",
     "column-hasimage": "Y",
     "column-explanation": "Planet/Star?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.68698",
+    "lon": "-105.9378"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179286",
@@ -5066,10 +4434,8 @@ var nuforcData = [
     "column-reported": "11/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179232",
@@ -5082,10 +4448,8 @@ var nuforcData = [
     "column-reported": "11/02/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.54997",
+    "lon": "-96.70033"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186319",
@@ -5098,10 +4462,8 @@ var nuforcData = [
     "column-reported": "01/01/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183305",
@@ -5114,10 +4476,8 @@ var nuforcData = [
     "column-reported": "10/03/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.35682",
+    "lon": "-77.44165"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179204",
@@ -5130,10 +4490,8 @@ var nuforcData = [
     "column-reported": "10/31/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.8795",
+    "lon": "-111.75735"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179185",
@@ -5146,10 +4504,8 @@ var nuforcData = [
     "column-reported": "10/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.97169",
+    "lon": "-100.87266"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179158",
@@ -5162,10 +4518,8 @@ var nuforcData = [
     "column-reported": "10/29/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179524",
@@ -5178,10 +4532,8 @@ var nuforcData = [
     "column-reported": "11/28/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "50.76252",
+    "lon": "-1.29781"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179134",
@@ -5194,10 +4546,8 @@ var nuforcData = [
     "column-reported": "10/27/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.71571",
+    "lon": "-117.16472"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179103",
@@ -5210,10 +4560,8 @@ var nuforcData = [
     "column-reported": "10/24/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179488",
@@ -5226,10 +4574,8 @@ var nuforcData = [
     "column-reported": "11/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179071",
@@ -5242,10 +4588,8 @@ var nuforcData = [
     "column-reported": "10/23/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "21.5126",
-    "lon": "55.9233",
-    "latitude": "21.5126",
-    "longitude": "55.9233"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179644",
@@ -5258,10 +4602,8 @@ var nuforcData = [
     "column-reported": "12/07/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.93892",
+    "lon": "-87.71117"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179247",
@@ -5274,10 +4616,8 @@ var nuforcData = [
     "column-reported": "11/03/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.22487",
+    "lon": "-121.78167"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178997",
@@ -5290,10 +4630,8 @@ var nuforcData = [
     "column-reported": "10/20/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178982",
@@ -5302,14 +4640,12 @@ var nuforcData = [
     "column-state": "NV",
     "column-country": "USA",
     "column-shape": "Star",
-    "column-summary": "While operating an airline flight at 37,000’ both pilots witnessed three lights at very high altitude moving in random patterns.",
+    "column-summary": "While operating an airline flight at 37,000\u2019 both pilots witnessed three lights at very high altitude moving in random patterns.",
     "column-reported": "10/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179284",
@@ -5322,10 +4658,8 @@ var nuforcData = [
     "column-reported": "11/05/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178952",
@@ -5338,10 +4672,8 @@ var nuforcData = [
     "column-reported": "10/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179110",
@@ -5354,10 +4686,8 @@ var nuforcData = [
     "column-reported": "10/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178905",
@@ -5370,10 +4700,8 @@ var nuforcData = [
     "column-reported": "10/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179255",
@@ -5386,10 +4714,8 @@ var nuforcData = [
     "column-reported": "11/03/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.26715",
+    "lon": "-97.74306"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178957",
@@ -5402,10 +4728,8 @@ var nuforcData = [
     "column-reported": "10/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "31.85425",
+    "lon": "-110.9937"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178866",
@@ -5418,10 +4742,8 @@ var nuforcData = [
     "column-reported": "10/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178899",
@@ -5434,15 +4756,13 @@ var nuforcData = [
     "column-reported": "10/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.95373",
+    "lon": "-96.89028"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185625",
     "column-occurred": "10/12/2023 20:49",
-    "column-city": "Maceió",
+    "column-city": "Macei\u00f3",
     "column-state": "Alagoas",
     "column-country": "Brazil",
     "column-shape": "Fireball",
@@ -5450,10 +4770,8 @@ var nuforcData = [
     "column-reported": "12/19/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "-14.235",
-    "lon": "-51.9253",
-    "latitude": "-14.235",
-    "longitude": "-51.9253"
+    "lat": "-9.66583",
+    "lon": "-35.73528"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178843",
@@ -5466,10 +4784,8 @@ var nuforcData = [
     "column-reported": "10/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178720",
@@ -5482,10 +4798,8 @@ var nuforcData = [
     "column-reported": "10/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.46658",
+    "lon": "-112.03414"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178844",
@@ -5498,10 +4812,8 @@ var nuforcData = [
     "column-reported": "10/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187358",
@@ -5514,10 +4826,8 @@ var nuforcData = [
     "column-reported": "01/31/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.54487",
+    "lon": "-94.36742"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189675",
@@ -5530,10 +4840,8 @@ var nuforcData = [
     "column-reported": "05/16/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178742",
@@ -5546,10 +4854,8 @@ var nuforcData = [
     "column-reported": "10/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.04624",
+    "lon": "-123.02203"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178820",
@@ -5562,10 +4868,8 @@ var nuforcData = [
     "column-reported": "10/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.14756",
+    "lon": "-77.55055"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178700",
@@ -5578,10 +4882,8 @@ var nuforcData = [
     "column-reported": "10/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "50.81795",
+    "lon": "-0.37538"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178827",
@@ -5594,10 +4896,8 @@ var nuforcData = [
     "column-reported": "10/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.85003",
+    "lon": "-87.65005"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178768",
@@ -5610,10 +4910,8 @@ var nuforcData = [
     "column-reported": "10/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.5186",
+    "lon": "-104.76136"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178947",
@@ -5626,10 +4924,8 @@ var nuforcData = [
     "column-reported": "10/18/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.04563",
+    "lon": "-85.30968"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178692",
@@ -5642,10 +4938,8 @@ var nuforcData = [
     "column-reported": "10/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "49.8625",
+    "lon": "-119.58333"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178697",
@@ -5658,10 +4952,8 @@ var nuforcData = [
     "column-reported": "10/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.83809",
+    "lon": "-87.65116"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178706",
@@ -5674,10 +4966,8 @@ var nuforcData = [
     "column-reported": "10/05/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178732",
@@ -5690,10 +4980,8 @@ var nuforcData = [
     "column-reported": "10/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178713",
@@ -5706,10 +4994,8 @@ var nuforcData = [
     "column-reported": "10/05/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178712",
@@ -5722,10 +5008,8 @@ var nuforcData = [
     "column-reported": "10/05/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.05223",
+    "lon": "-118.24368"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178702",
@@ -5738,10 +5022,8 @@ var nuforcData = [
     "column-reported": "10/06/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.35843",
+    "lon": "-71.05977"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178525",
@@ -5754,10 +5036,8 @@ var nuforcData = [
     "column-reported": "10/05/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178546",
@@ -5770,10 +5050,8 @@ var nuforcData = [
     "column-reported": "10/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.64463",
+    "lon": "-121.27217"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178606",
@@ -5786,10 +5064,8 @@ var nuforcData = [
     "column-reported": "10/02/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.63873",
+    "lon": "-122.66149"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178646",
@@ -5802,10 +5078,8 @@ var nuforcData = [
     "column-reported": "09/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.08054",
+    "lon": "-103.23101"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178636",
@@ -5818,10 +5092,8 @@ var nuforcData = [
     "column-reported": "10/01/2023",
     "column-hasimage": "Y",
     "column-explanation": "Flares?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.10733",
+    "lon": "-76.57108"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178654",
@@ -5834,10 +5106,8 @@ var nuforcData = [
     "column-reported": "09/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178484",
@@ -5850,10 +5120,8 @@ var nuforcData = [
     "column-reported": "09/29/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178563",
@@ -5866,10 +5134,8 @@ var nuforcData = [
     "column-reported": "10/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "46.00382",
+    "lon": "-112.53474"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178504",
@@ -5882,10 +5148,8 @@ var nuforcData = [
     "column-reported": "09/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "53.1424",
-    "lon": "-7.6921",
-    "latitude": "53.1424",
-    "longitude": "-7.6921"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178647",
@@ -5898,10 +5162,8 @@ var nuforcData = [
     "column-reported": "09/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "46.71621",
+    "lon": "-122.9543"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178505",
@@ -5914,10 +5176,8 @@ var nuforcData = [
     "column-reported": "09/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.41069",
+    "lon": "-80.84285"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183118",
@@ -5930,10 +5190,8 @@ var nuforcData = [
     "column-reported": "09/20/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178391",
@@ -5946,10 +5204,8 @@ var nuforcData = [
     "column-reported": "09/22/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.02987",
+    "lon": "-76.34522"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178405",
@@ -5962,10 +5218,8 @@ var nuforcData = [
     "column-reported": "09/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178419",
@@ -5978,10 +5232,8 @@ var nuforcData = [
     "column-reported": "09/24/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.16589",
+    "lon": "-86.78444"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178410",
@@ -5994,10 +5246,8 @@ var nuforcData = [
     "column-reported": "09/20/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178368",
@@ -6010,10 +5260,8 @@ var nuforcData = [
     "column-reported": "09/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "46.60207",
+    "lon": "-120.5059"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178316",
@@ -6026,26 +5274,22 @@ var nuforcData = [
     "column-reported": "09/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.72541",
+    "lon": "-97.32085"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178345",
     "column-occurred": "09/16/2023 14:40",
-    "column-city": "Alingsås",
-    "column-state": "Västra Götaland County",
+    "column-city": "Alings\u00e5s",
+    "column-state": "V\u00e4stra G\u00f6taland County",
     "column-country": "Sweden",
     "column-shape": "Orb",
     "column-summary": "Near midair collision between tow plane and orb",
     "column-reported": "09/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "60.1282",
-    "lon": "18.6435",
-    "latitude": "60.1282",
-    "longitude": "18.6435"
+    "lat": "57.93033",
+    "lon": "12.53345"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178347",
@@ -6058,10 +5302,8 @@ var nuforcData = [
     "column-reported": "09/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.72943",
+    "lon": "-104.83192"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184188",
@@ -6074,10 +5316,8 @@ var nuforcData = [
     "column-reported": "11/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.82774",
+    "lon": "-92.94382"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178239",
@@ -6090,10 +5330,8 @@ var nuforcData = [
     "column-reported": "09/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.86614",
+    "lon": "-88.10701"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178260",
@@ -6106,10 +5344,8 @@ var nuforcData = [
     "column-reported": "09/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.20221",
+    "lon": "-88.4465"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182560",
@@ -6122,10 +5358,8 @@ var nuforcData = [
     "column-reported": "08/09/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178346",
@@ -6138,10 +5372,8 @@ var nuforcData = [
     "column-reported": "09/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178471",
@@ -6154,10 +5386,8 @@ var nuforcData = [
     "column-reported": "09/26/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "44.30012",
+    "lon": "-78.31623"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178440",
@@ -6170,10 +5400,8 @@ var nuforcData = [
     "column-reported": "09/22/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178290",
@@ -6186,10 +5414,8 @@ var nuforcData = [
     "column-reported": "09/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178349",
@@ -6202,10 +5428,8 @@ var nuforcData = [
     "column-reported": "09/16/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "20.89133",
+    "lon": "-156.50604"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178303",
@@ -6218,10 +5442,8 @@ var nuforcData = [
     "column-reported": "09/12/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.80484",
+    "lon": "-77.04692"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178276",
@@ -6234,10 +5456,8 @@ var nuforcData = [
     "column-reported": "09/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178693",
@@ -6250,10 +5470,8 @@ var nuforcData = [
     "column-reported": "10/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178506",
@@ -6266,10 +5484,8 @@ var nuforcData = [
     "column-reported": "09/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.96064",
+    "lon": "-83.92074"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178144",
@@ -6282,10 +5498,8 @@ var nuforcData = [
     "column-reported": "09/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179375",
@@ -6298,10 +5512,8 @@ var nuforcData = [
     "column-reported": "11/14/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.71571",
+    "lon": "-117.16472"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178677",
@@ -6314,10 +5526,8 @@ var nuforcData = [
     "column-reported": "09/29/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.1872",
+    "lon": "-82.14009"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188982",
@@ -6330,10 +5540,8 @@ var nuforcData = [
     "column-reported": "04/15/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.13839",
+    "lon": "-81.86375"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178082",
@@ -6346,10 +5554,8 @@ var nuforcData = [
     "column-reported": "09/05/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178302",
@@ -6362,10 +5568,8 @@ var nuforcData = [
     "column-reported": "09/12/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178497",
@@ -6378,10 +5582,8 @@ var nuforcData = [
     "column-reported": "09/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186678",
@@ -6394,10 +5596,8 @@ var nuforcData = [
     "column-reported": "01/10/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178234",
@@ -6410,10 +5610,8 @@ var nuforcData = [
     "column-reported": "09/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177979",
@@ -6426,10 +5624,8 @@ var nuforcData = [
     "column-reported": "09/01/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178033",
@@ -6442,10 +5638,8 @@ var nuforcData = [
     "column-reported": "09/04/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.08354",
+    "lon": "-81.09983"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177965",
@@ -6458,10 +5652,8 @@ var nuforcData = [
     "column-reported": "09/02/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.85003",
+    "lon": "-87.65005"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177928",
@@ -6474,10 +5666,8 @@ var nuforcData = [
     "column-reported": "08/30/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.62727",
+    "lon": "-90.19789"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178163",
@@ -6490,10 +5680,8 @@ var nuforcData = [
     "column-reported": "09/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.71399",
+    "lon": "-73.55902"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178615",
@@ -6506,10 +5694,8 @@ var nuforcData = [
     "column-reported": "10/02/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177897",
@@ -6522,10 +5708,8 @@ var nuforcData = [
     "column-reported": "08/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177931",
@@ -6538,10 +5722,8 @@ var nuforcData = [
     "column-reported": "08/31/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.83388",
+    "lon": "-104.82136"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177810",
@@ -6554,10 +5736,8 @@ var nuforcData = [
     "column-reported": "08/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.55376",
+    "lon": "-77.46026"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178882",
@@ -6570,10 +5750,8 @@ var nuforcData = [
     "column-reported": "10/13/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "30.3753",
-    "lon": "69.3451",
-    "latitude": "30.3753",
-    "longitude": "69.3451"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177867",
@@ -6586,10 +5764,8 @@ var nuforcData = [
     "column-reported": "08/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178420",
@@ -6602,10 +5778,8 @@ var nuforcData = [
     "column-reported": "09/24/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "53.83333",
+    "lon": "-2.2"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184388",
@@ -6618,10 +5792,8 @@ var nuforcData = [
     "column-reported": "11/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178299",
@@ -6634,10 +5806,8 @@ var nuforcData = [
     "column-reported": "09/12/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184846",
@@ -6650,10 +5820,8 @@ var nuforcData = [
     "column-reported": "12/07/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "39.0742",
-    "lon": "21.8243",
-    "latitude": "39.0742",
-    "longitude": "21.8243"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177786",
@@ -6666,10 +5834,8 @@ var nuforcData = [
     "column-reported": "08/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.35658",
+    "lon": "-121.98774"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177797",
@@ -6682,10 +5848,8 @@ var nuforcData = [
     "column-reported": "08/25/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.18538",
+    "lon": "-122.2929"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177683",
@@ -6698,10 +5862,8 @@ var nuforcData = [
     "column-reported": "08/18/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178737",
@@ -6714,10 +5876,8 @@ var nuforcData = [
     "column-reported": "10/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "40.4637",
-    "lon": "-3.7492",
-    "latitude": "40.4637",
-    "longitude": "-3.7492"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177782",
@@ -6730,10 +5890,8 @@ var nuforcData = [
     "column-reported": "08/24/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184001",
@@ -6746,10 +5904,8 @@ var nuforcData = [
     "column-reported": "11/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177593",
@@ -6762,10 +5918,8 @@ var nuforcData = [
     "column-reported": "08/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177592",
@@ -6778,10 +5932,8 @@ var nuforcData = [
     "column-reported": "08/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.52345",
+    "lon": "-122.67621"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177602",
@@ -6794,10 +5946,8 @@ var nuforcData = [
     "column-reported": "08/14/2023",
     "column-hasimage": "",
     "column-explanation": "Aircraft?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.16523",
+    "lon": "-111.61075"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177596",
@@ -6810,10 +5960,8 @@ var nuforcData = [
     "column-reported": "08/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177558",
@@ -6826,10 +5974,8 @@ var nuforcData = [
     "column-reported": "08/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.05828",
+    "lon": "-120.84992"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177674",
@@ -6842,10 +5988,8 @@ var nuforcData = [
     "column-reported": "08/16/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.78329",
+    "lon": "-108.50069"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177541",
@@ -6858,10 +6002,8 @@ var nuforcData = [
     "column-reported": "08/13/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177447",
@@ -6874,10 +6016,8 @@ var nuforcData = [
     "column-reported": "08/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177517",
@@ -6890,26 +6030,22 @@ var nuforcData = [
     "column-reported": "08/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177539",
     "column-occurred": "08/09/2023 04:04",
     "column-city": "Dorotea",
-    "column-state": "Västerbotten County",
+    "column-state": "V\u00e4sterbotten County",
     "column-country": "Sweden",
     "column-shape": "Oval",
     "column-summary": "We saw a ufo dart through the sky many times in about 15 minutes",
     "column-reported": "08/13/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "60.1282",
-    "lon": "18.6435",
-    "latitude": "60.1282",
-    "longitude": "18.6435"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177427",
@@ -6922,10 +6058,8 @@ var nuforcData = [
     "column-reported": "08/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "53.28436",
+    "lon": "-3.5822"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183641",
@@ -6938,10 +6072,8 @@ var nuforcData = [
     "column-reported": "10/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.03725",
+    "lon": "-88.28119"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180618",
@@ -6954,10 +6086,8 @@ var nuforcData = [
     "column-reported": "02/28/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177531",
@@ -6970,10 +6100,8 @@ var nuforcData = [
     "column-reported": "08/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "33.8869",
-    "lon": "9.5375",
-    "latitude": "33.8869",
-    "longitude": "9.5375"
+    "lat": "37.27442",
+    "lon": "9.87391"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177409",
@@ -6986,10 +6114,8 @@ var nuforcData = [
     "column-reported": "08/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.09751",
+    "lon": "-117.64839"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177417",
@@ -7002,10 +6128,8 @@ var nuforcData = [
     "column-reported": "08/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "46.19695",
+    "lon": "-59.95698"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177337",
@@ -7018,10 +6142,8 @@ var nuforcData = [
     "column-reported": "08/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.79073",
+    "lon": "-121.23578"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177471",
@@ -7034,10 +6156,8 @@ var nuforcData = [
     "column-reported": "08/11/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.69926",
+    "lon": "-86.74833"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177349",
@@ -7050,10 +6170,8 @@ var nuforcData = [
     "column-reported": "08/06/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177618",
@@ -7066,10 +6184,8 @@ var nuforcData = [
     "column-reported": "08/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.0653",
+    "lon": "-81.78869"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178648",
@@ -7082,10 +6198,8 @@ var nuforcData = [
     "column-reported": "09/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177388",
@@ -7098,10 +6212,8 @@ var nuforcData = [
     "column-reported": "08/04/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.4756",
+    "lon": "-81.8393"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189088",
@@ -7114,10 +6226,8 @@ var nuforcData = [
     "column-reported": "04/21/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178746",
@@ -7130,10 +6240,8 @@ var nuforcData = [
     "column-reported": "10/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177621",
@@ -7146,10 +6254,8 @@ var nuforcData = [
     "column-reported": "08/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "26.6359",
+    "lon": "-80.09615"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180379",
@@ -7162,10 +6268,8 @@ var nuforcData = [
     "column-reported": "02/12/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178053",
@@ -7178,10 +6282,8 @@ var nuforcData = [
     "column-reported": "09/04/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177426",
@@ -7194,10 +6296,8 @@ var nuforcData = [
     "column-reported": "08/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177359",
@@ -7210,10 +6310,8 @@ var nuforcData = [
     "column-reported": "08/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185608",
@@ -7226,10 +6324,8 @@ var nuforcData = [
     "column-reported": "12/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177085",
@@ -7242,10 +6338,8 @@ var nuforcData = [
     "column-reported": "07/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "53.30182",
+    "lon": "-1.12404"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177268",
@@ -7258,10 +6352,8 @@ var nuforcData = [
     "column-reported": "07/29/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.2639",
-    "lon": "9.5018",
-    "latitude": "56.2639",
-    "longitude": "9.5018"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178180",
@@ -7274,10 +6366,8 @@ var nuforcData = [
     "column-reported": "09/09/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.42083",
+    "lon": "-119.69819"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182053",
@@ -7290,10 +6380,8 @@ var nuforcData = [
     "column-reported": "06/26/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.27459",
+    "lon": "-90.13203"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180937",
@@ -7306,10 +6394,8 @@ var nuforcData = [
     "column-reported": "03/26/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.27459",
+    "lon": "-90.13203"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178341",
@@ -7318,14 +6404,12 @@ var nuforcData = [
     "column-state": "ID",
     "column-country": "USA",
     "column-shape": "Chevron",
-    "column-summary": "“V” shaped craft with orange and red lights",
+    "column-summary": "\u201cV\u201d shaped craft with orange and red lights",
     "column-reported": "09/16/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177081",
@@ -7338,10 +6422,8 @@ var nuforcData = [
     "column-reported": "07/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.58157",
+    "lon": "-121.4944"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177013",
@@ -7354,10 +6436,8 @@ var nuforcData = [
     "column-reported": "07/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.81601",
+    "lon": "-78.68002"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177494",
@@ -7370,10 +6450,8 @@ var nuforcData = [
     "column-reported": "08/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176964",
@@ -7386,10 +6464,8 @@ var nuforcData = [
     "column-reported": "07/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176902",
@@ -7402,10 +6478,8 @@ var nuforcData = [
     "column-reported": "07/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176904",
@@ -7418,10 +6492,8 @@ var nuforcData = [
     "column-reported": "07/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.4583",
+    "lon": "-93.1616"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178402",
@@ -7434,10 +6506,8 @@ var nuforcData = [
     "column-reported": "09/21/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "52.77972",
+    "lon": "-108.2967"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176890",
@@ -7450,10 +6520,8 @@ var nuforcData = [
     "column-reported": "07/24/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.66578",
+    "lon": "-95.01937"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177037",
@@ -7466,10 +6534,8 @@ var nuforcData = [
     "column-reported": "07/27/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.9429",
+    "lon": "-123.0351"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178691",
@@ -7482,10 +6548,8 @@ var nuforcData = [
     "column-reported": "10/06/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.72806",
+    "lon": "-108.21869"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176823",
@@ -7498,10 +6562,8 @@ var nuforcData = [
     "column-reported": "07/18/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177629",
@@ -7514,10 +6576,8 @@ var nuforcData = [
     "column-reported": "08/15/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.67796",
+    "lon": "-121.17606"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176818",
@@ -7530,10 +6590,8 @@ var nuforcData = [
     "column-reported": "07/17/2023",
     "column-hasimage": "Y",
     "column-explanation": "Chinese Lantern",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.0389",
+    "lon": "-87.90647"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177345",
@@ -7546,10 +6604,8 @@ var nuforcData = [
     "column-reported": "08/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "48.11815",
+    "lon": "-123.43074"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176855",
@@ -7562,10 +6618,8 @@ var nuforcData = [
     "column-reported": "07/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176782",
@@ -7578,10 +6632,8 @@ var nuforcData = [
     "column-reported": "07/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.52345",
+    "lon": "-122.67621"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178134",
@@ -7594,10 +6646,8 @@ var nuforcData = [
     "column-reported": "09/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.35283",
+    "lon": "-111.78903"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176741",
@@ -7610,10 +6660,8 @@ var nuforcData = [
     "column-reported": "07/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176686",
@@ -7626,10 +6674,8 @@ var nuforcData = [
     "column-reported": "07/11/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.18566",
+    "lon": "-78.16333"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176695",
@@ -7642,10 +6688,8 @@ var nuforcData = [
     "column-reported": "07/10/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.28449",
+    "lon": "-84.35578"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176841",
@@ -7658,10 +6702,8 @@ var nuforcData = [
     "column-reported": "07/18/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.8",
+    "lon": "-96.66696"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177123",
@@ -7674,10 +6716,8 @@ var nuforcData = [
     "column-reported": "07/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.1975",
+    "lon": "-119.17705"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176678",
@@ -7690,10 +6730,8 @@ var nuforcData = [
     "column-reported": "07/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.89156",
+    "lon": "-121.29301"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176842",
@@ -7706,10 +6744,8 @@ var nuforcData = [
     "column-reported": "07/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.49899",
+    "lon": "-72.90066"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176581",
@@ -7722,10 +6758,8 @@ var nuforcData = [
     "column-reported": "07/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.96064",
+    "lon": "-83.92074"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176639",
@@ -7738,10 +6772,8 @@ var nuforcData = [
     "column-reported": "07/07/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.44838",
+    "lon": "-112.07404"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176566",
@@ -7754,10 +6786,8 @@ var nuforcData = [
     "column-reported": "07/03/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.69395",
+    "lon": "-85.85913"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176539",
@@ -7770,10 +6800,8 @@ var nuforcData = [
     "column-reported": "07/01/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176675",
@@ -7786,10 +6814,8 @@ var nuforcData = [
     "column-reported": "07/10/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "41.2044",
-    "lon": "74.7661",
-    "latitude": "41.2044",
-    "longitude": "74.7661"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188188",
@@ -7802,10 +6828,8 @@ var nuforcData = [
     "column-reported": "03/08/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176495",
@@ -7818,10 +6842,8 @@ var nuforcData = [
     "column-reported": "06/28/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176500",
@@ -7834,10 +6856,8 @@ var nuforcData = [
     "column-reported": "06/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.25968",
+    "lon": "-118.91427"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178256",
@@ -7850,10 +6870,8 @@ var nuforcData = [
     "column-reported": "09/14/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "46.8182",
-    "lon": "8.2275",
-    "latitude": "46.8182",
-    "longitude": "8.2275"
+    "lat": "47.22557",
+    "lon": "8.82228"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176449",
@@ -7866,10 +6884,8 @@ var nuforcData = [
     "column-reported": "06/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.26715",
+    "lon": "-97.74306"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176548",
@@ -7882,10 +6898,8 @@ var nuforcData = [
     "column-reported": "07/01/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.7661",
+    "lon": "-105.07721"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178751",
@@ -7898,10 +6912,8 @@ var nuforcData = [
     "column-reported": "10/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.08354",
+    "lon": "-81.09983"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176754",
@@ -7914,10 +6926,8 @@ var nuforcData = [
     "column-reported": "07/13/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176368",
@@ -7930,10 +6940,8 @@ var nuforcData = [
     "column-reported": "06/20/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "27.86614",
+    "lon": "-82.32648"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176442",
@@ -7946,10 +6954,8 @@ var nuforcData = [
     "column-reported": "06/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176238",
@@ -7962,10 +6968,8 @@ var nuforcData = [
     "column-reported": "06/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181674",
@@ -7978,10 +6982,8 @@ var nuforcData = [
     "column-reported": "05/28/2024",
     "column-hasimage": "Y",
     "column-explanation": "Balloon?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.73566",
+    "lon": "-74.17237"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176261",
@@ -7994,10 +6996,8 @@ var nuforcData = [
     "column-reported": "06/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176232",
@@ -8010,10 +7010,8 @@ var nuforcData = [
     "column-reported": "06/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.67304",
+    "lon": "-93.69772"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179530",
@@ -8026,10 +7024,8 @@ var nuforcData = [
     "column-reported": "11/30/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.42734",
+    "lon": "-75.23408"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176179",
@@ -8042,10 +7038,8 @@ var nuforcData = [
     "column-reported": "06/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.22174",
+    "lon": "-110.92648"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176122",
@@ -8058,10 +7052,8 @@ var nuforcData = [
     "column-reported": "06/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.17426",
+    "lon": "-97.14363"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178538",
@@ -8074,10 +7066,8 @@ var nuforcData = [
     "column-reported": "10/04/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.96955",
+    "lon": "-77.3861"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179863",
@@ -8090,10 +7080,8 @@ var nuforcData = [
     "column-reported": "12/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.13014",
+    "lon": "-119.27808"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176052",
@@ -8106,10 +7094,8 @@ var nuforcData = [
     "column-reported": "06/03/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176329",
@@ -8122,10 +7108,8 @@ var nuforcData = [
     "column-reported": "06/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176071",
@@ -8138,10 +7122,8 @@ var nuforcData = [
     "column-reported": "06/02/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176081",
@@ -8154,10 +7136,8 @@ var nuforcData = [
     "column-reported": "06/02/2023",
     "column-hasimage": "Y",
     "column-explanation": "Chinese Lantern?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.24418",
+    "lon": "-82.71927"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176017",
@@ -8170,10 +7150,8 @@ var nuforcData = [
     "column-reported": "05/31/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176000",
@@ -8186,10 +7164,8 @@ var nuforcData = [
     "column-reported": "05/31/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.62953",
+    "lon": "-79.9559"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176033",
@@ -8202,10 +7178,8 @@ var nuforcData = [
     "column-reported": "06/04/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.749",
+    "lon": "-84.38798"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179389",
@@ -8218,10 +7192,8 @@ var nuforcData = [
     "column-reported": "11/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175842",
@@ -8234,10 +7206,8 @@ var nuforcData = [
     "column-reported": "05/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176342",
@@ -8250,10 +7220,8 @@ var nuforcData = [
     "column-reported": "06/18/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175892",
@@ -8262,14 +7230,12 @@ var nuforcData = [
     "column-state": "FL",
     "column-country": "USA",
     "column-shape": "Rectangle",
-    "column-summary": "Object observed in the sky I don’t believe was man made.",
+    "column-summary": "Object observed in the sky I don\u2019t believe was man made.",
     "column-reported": "05/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "27.63864",
+    "lon": "-80.39727"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175916",
@@ -8282,10 +7248,8 @@ var nuforcData = [
     "column-reported": "05/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.20829",
+    "lon": "-115.98391"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175823",
@@ -8298,10 +7262,8 @@ var nuforcData = [
     "column-reported": "05/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.22174",
+    "lon": "-110.92648"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176401",
@@ -8314,10 +7276,8 @@ var nuforcData = [
     "column-reported": "06/22/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176358",
@@ -8330,10 +7290,8 @@ var nuforcData = [
     "column-reported": "06/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175884",
@@ -8346,10 +7304,8 @@ var nuforcData = [
     "column-reported": "05/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.41679",
+    "lon": "-122.64009"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179810",
@@ -8362,26 +7318,22 @@ var nuforcData = [
     "column-reported": "01/03/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175638",
     "column-occurred": "05/04/2023 21:15",
     "column-city": "Mellieha",
-    "column-state": "Mellieħa",
+    "column-state": "Mellie\u0127a",
     "column-country": "Malta",
     "column-shape": "Other",
     "column-summary": "No outline of the object it was like a long worm the sky was dark 15-20 lights emitting from what appeared to be its side",
     "column-reported": "05/04/2023",
     "column-hasimage": "",
     "column-explanation": "Starlink",
-    "lat": "35.9375",
-    "lon": "14.3754",
-    "latitude": "35.9375",
-    "longitude": "14.3754"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178454",
@@ -8394,10 +7346,8 @@ var nuforcData = [
     "column-reported": "09/27/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175603",
@@ -8410,10 +7360,8 @@ var nuforcData = [
     "column-reported": "05/02/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175539",
@@ -8426,10 +7374,8 @@ var nuforcData = [
     "column-reported": "04/27/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182107",
@@ -8442,10 +7388,8 @@ var nuforcData = [
     "column-reported": "06/30/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.17497",
+    "lon": "-115.13722"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175523",
@@ -8458,10 +7402,8 @@ var nuforcData = [
     "column-reported": "04/27/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.52345",
+    "lon": "-122.67621"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189727",
@@ -8474,10 +7416,8 @@ var nuforcData = [
     "column-reported": "05/19/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175531",
@@ -8490,10 +7430,8 @@ var nuforcData = [
     "column-reported": "04/27/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176954",
@@ -8506,10 +7444,8 @@ var nuforcData = [
     "column-reported": "07/21/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.05223",
+    "lon": "-118.24368"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175443",
@@ -8522,10 +7458,8 @@ var nuforcData = [
     "column-reported": "04/21/2023",
     "column-hasimage": "Y",
     "column-explanation": "Chinese Lantern?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178357",
@@ -8538,10 +7472,8 @@ var nuforcData = [
     "column-reported": "09/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175432",
@@ -8554,10 +7486,8 @@ var nuforcData = [
     "column-reported": "04/20/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.15917",
+    "lon": "-118.50119"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175290",
@@ -8570,10 +7500,8 @@ var nuforcData = [
     "column-reported": "04/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.44179",
+    "lon": "-94.03769"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175472",
@@ -8586,10 +7514,8 @@ var nuforcData = [
     "column-reported": "04/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175312",
@@ -8602,10 +7528,8 @@ var nuforcData = [
     "column-reported": "04/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175778",
@@ -8618,10 +7542,8 @@ var nuforcData = [
     "column-reported": "05/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.30012",
+    "lon": "-122.97316"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175332",
@@ -8634,10 +7556,8 @@ var nuforcData = [
     "column-reported": "04/15/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.82774",
+    "lon": "-92.94382"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175468",
@@ -8650,10 +7570,8 @@ var nuforcData = [
     "column-reported": "04/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175475",
@@ -8666,10 +7584,8 @@ var nuforcData = [
     "column-reported": "04/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175361",
@@ -8678,14 +7594,12 @@ var nuforcData = [
     "column-state": "NJ",
     "column-country": "USA",
     "column-shape": "Triangle",
-    "column-summary": "10’x10x10’ magnificent triangle craft aprox 25 feet in the air flew slowly over us and past us at a somewhat slow pace.",
+    "column-summary": "10\u2019x10x10\u2019 magnificent triangle craft aprox 25 feet in the air flew slowly over us and past us at a somewhat slow pace.",
     "column-reported": "04/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175680",
@@ -8698,10 +7612,8 @@ var nuforcData = [
     "column-reported": "05/06/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175234",
@@ -8714,10 +7626,8 @@ var nuforcData = [
     "column-reported": "04/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175220",
@@ -8730,10 +7640,8 @@ var nuforcData = [
     "column-reported": "04/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175144",
@@ -8746,10 +7654,8 @@ var nuforcData = [
     "column-reported": "03/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176381",
@@ -8762,10 +7668,8 @@ var nuforcData = [
     "column-reported": "06/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.72127",
+    "lon": "-77.91554"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175130",
@@ -8778,10 +7682,8 @@ var nuforcData = [
     "column-reported": "03/27/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175113",
@@ -8794,10 +7696,8 @@ var nuforcData = [
     "column-reported": "03/25/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.02163",
+    "lon": "-92.4699"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175089",
@@ -8810,10 +7710,8 @@ var nuforcData = [
     "column-reported": "03/22/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.52345",
+    "lon": "-122.67621"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175077",
@@ -8826,10 +7724,8 @@ var nuforcData = [
     "column-reported": "03/22/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175008",
@@ -8842,10 +7738,8 @@ var nuforcData = [
     "column-reported": "03/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.69926",
+    "lon": "-86.74833"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175091",
@@ -8858,10 +7752,8 @@ var nuforcData = [
     "column-reported": "03/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.1975",
+    "lon": "-119.17705"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175014",
@@ -8874,10 +7766,8 @@ var nuforcData = [
     "column-reported": "03/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174959",
@@ -8890,10 +7780,8 @@ var nuforcData = [
     "column-reported": "03/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.54843",
+    "lon": "-82.56182"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174917",
@@ -8906,10 +7794,8 @@ var nuforcData = [
     "column-reported": "03/07/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "31.54933",
+    "lon": "-97.14667"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174884",
@@ -8922,10 +7808,8 @@ var nuforcData = [
     "column-reported": "03/05/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183419",
@@ -8938,10 +7822,8 @@ var nuforcData = [
     "column-reported": "10/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.21201",
+    "lon": "-85.22357"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174967",
@@ -8954,10 +7836,8 @@ var nuforcData = [
     "column-reported": "03/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "44.10012",
+    "lon": "-79.11628"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175502",
@@ -8970,10 +7850,8 @@ var nuforcData = [
     "column-reported": "04/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.62953",
+    "lon": "-79.9559"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174996",
@@ -8986,10 +7864,8 @@ var nuforcData = [
     "column-reported": "03/14/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "21.5218",
-    "lon": "-77.7812",
-    "latitude": "21.5218",
-    "longitude": "-77.7812"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174936",
@@ -9002,10 +7878,8 @@ var nuforcData = [
     "column-reported": "03/08/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.749",
+    "lon": "-84.38798"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174726",
@@ -9018,10 +7892,8 @@ var nuforcData = [
     "column-reported": "02/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.32011",
+    "lon": "-76.51552"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176957",
@@ -9034,10 +7906,8 @@ var nuforcData = [
     "column-reported": "07/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.26715",
+    "lon": "-97.74306"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184190",
@@ -9050,10 +7920,8 @@ var nuforcData = [
     "column-reported": "11/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "-31.91099",
+    "lon": "152.45387"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174438",
@@ -9066,10 +7934,8 @@ var nuforcData = [
     "column-reported": "02/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174403",
@@ -9082,10 +7948,8 @@ var nuforcData = [
     "column-reported": "02/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "53.55014",
+    "lon": "-113.46871"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174409",
@@ -9098,10 +7962,8 @@ var nuforcData = [
     "column-reported": "02/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174376",
@@ -9114,10 +7976,8 @@ var nuforcData = [
     "column-reported": "02/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.46976",
+    "lon": "-76.8319"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184218",
@@ -9130,10 +7990,8 @@ var nuforcData = [
     "column-reported": "11/16/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174310",
@@ -9146,10 +8004,8 @@ var nuforcData = [
     "column-reported": "02/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.04937",
+    "lon": "-122.15858"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174216",
@@ -9162,10 +8018,8 @@ var nuforcData = [
     "column-reported": "01/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.68149",
+    "lon": "-122.20874"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174140",
@@ -9178,10 +8032,8 @@ var nuforcData = [
     "column-reported": "01/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183024",
@@ -9194,10 +8046,8 @@ var nuforcData = [
     "column-reported": "09/13/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174270",
@@ -9210,10 +8060,8 @@ var nuforcData = [
     "column-reported": "02/03/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173942",
@@ -9226,10 +8074,8 @@ var nuforcData = [
     "column-reported": "01/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.09986",
+    "lon": "-80.24422"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173930",
@@ -9242,10 +8088,8 @@ var nuforcData = [
     "column-reported": "01/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173831",
@@ -9258,10 +8102,8 @@ var nuforcData = [
     "column-reported": "01/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.05002",
+    "lon": "-82.49287"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176758",
@@ -9274,10 +8116,8 @@ var nuforcData = [
     "column-reported": "07/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "-27.46794",
+    "lon": "153.02809"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173790",
@@ -9290,10 +8130,8 @@ var nuforcData = [
     "column-reported": "01/07/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173978",
@@ -9306,26 +8144,22 @@ var nuforcData = [
     "column-reported": "01/18/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.74818",
+    "lon": "-96.47193"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184129",
     "column-occurred": "12/28/2022 05:30",
-    "column-city": "Rincón",
-    "column-state": "Rincón",
+    "column-city": "Rinc\u00f3n",
+    "column-state": "Rinc\u00f3n",
     "column-country": "Puerto Rico",
     "column-shape": "Cigar",
     "column-summary": "Cigar Shaped craft hovering for about 3 minutes a few hundred feet above. It then sped towards the south at a very fast speed.",
     "column-reported": "11/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "18.2208",
-    "lon": "-66.5901",
-    "latitude": "18.2208",
-    "longitude": "-66.5901"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174120",
@@ -9338,10 +8172,8 @@ var nuforcData = [
     "column-reported": "01/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179231",
@@ -9354,10 +8186,8 @@ var nuforcData = [
     "column-reported": "11/02/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185210",
@@ -9370,10 +8200,8 @@ var nuforcData = [
     "column-reported": "12/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.02861",
+    "lon": "-96.8314"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185710",
@@ -9386,10 +8214,8 @@ var nuforcData = [
     "column-reported": "12/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.46098",
+    "lon": "-84.98771"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173423",
@@ -9402,10 +8228,8 @@ var nuforcData = [
     "column-reported": "12/15/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.37032",
+    "lon": "-112.58378"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173309",
@@ -9418,10 +8242,8 @@ var nuforcData = [
     "column-reported": "12/06/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "53.51684",
+    "lon": "-113.3187"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173914",
@@ -9434,10 +8256,8 @@ var nuforcData = [
     "column-reported": "01/13/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.48122",
+    "lon": "-76.64386"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173038",
@@ -9450,10 +8270,8 @@ var nuforcData = [
     "column-reported": "11/16/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.69303",
+    "lon": "-83.41181"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172976",
@@ -9466,10 +8284,8 @@ var nuforcData = [
     "column-reported": "11/12/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172874",
@@ -9482,10 +8298,8 @@ var nuforcData = [
     "column-reported": "11/08/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.03446",
+    "lon": "-80.58866"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173433",
@@ -9498,10 +8312,8 @@ var nuforcData = [
     "column-reported": "12/16/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.01512",
+    "lon": "-96.61305"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173243",
@@ -9514,10 +8326,8 @@ var nuforcData = [
     "column-reported": "12/03/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.17316",
+    "lon": "-77.27165"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174614",
@@ -9530,10 +8340,8 @@ var nuforcData = [
     "column-reported": "02/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.25723",
+    "lon": "-118.6012"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182422",
@@ -9546,10 +8354,8 @@ var nuforcData = [
     "column-reported": "07/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "46.51677",
+    "lon": "-84.33325"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172735",
@@ -9562,10 +8368,8 @@ var nuforcData = [
     "column-reported": "10/29/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175102",
@@ -9578,10 +8382,8 @@ var nuforcData = [
     "column-reported": "03/24/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172594",
@@ -9594,10 +8396,8 @@ var nuforcData = [
     "column-reported": "10/28/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "52.71009",
+    "lon": "-2.75208"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174562",
@@ -9610,10 +8410,8 @@ var nuforcData = [
     "column-reported": "02/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "50.90395",
+    "lon": "-1.40428"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189746",
@@ -9626,10 +8424,8 @@ var nuforcData = [
     "column-reported": "05/19/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176379",
@@ -9642,10 +8438,8 @@ var nuforcData = [
     "column-reported": "06/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175390",
@@ -9658,10 +8452,8 @@ var nuforcData = [
     "column-reported": "04/10/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.73915",
+    "lon": "-104.9847"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172369",
@@ -9674,10 +8466,8 @@ var nuforcData = [
     "column-reported": "10/14/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.69788",
+    "lon": "-72.72371"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178463",
@@ -9690,10 +8480,8 @@ var nuforcData = [
     "column-reported": "09/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172069",
@@ -9706,10 +8494,8 @@ var nuforcData = [
     "column-reported": "09/26/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.58157",
+    "lon": "-121.4944"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172054",
@@ -9722,10 +8508,8 @@ var nuforcData = [
     "column-reported": "09/23/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.81144",
+    "lon": "-90.85291"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174436",
@@ -9738,10 +8522,8 @@ var nuforcData = [
     "column-reported": "02/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175112",
@@ -9754,10 +8536,8 @@ var nuforcData = [
     "column-reported": "03/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171714",
@@ -9770,10 +8550,8 @@ var nuforcData = [
     "column-reported": "09/13/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "42.30008",
+    "lon": "-83.01654"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171712",
@@ -9786,10 +8564,8 @@ var nuforcData = [
     "column-reported": "09/13/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171697",
@@ -9802,10 +8578,8 @@ var nuforcData = [
     "column-reported": "09/11/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175490",
@@ -9818,10 +8592,8 @@ var nuforcData = [
     "column-reported": "04/24/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181730",
@@ -9834,10 +8606,8 @@ var nuforcData = [
     "column-reported": "06/01/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171911",
@@ -9850,10 +8620,8 @@ var nuforcData = [
     "column-reported": "09/19/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171649",
@@ -9866,10 +8634,8 @@ var nuforcData = [
     "column-reported": "09/08/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171660",
@@ -9882,10 +8648,8 @@ var nuforcData = [
     "column-reported": "09/09/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.8",
+    "lon": "-96.66696"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181335",
@@ -9898,10 +8662,8 @@ var nuforcData = [
     "column-reported": "04/30/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171506",
@@ -9914,10 +8676,8 @@ var nuforcData = [
     "column-reported": "08/31/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179371",
@@ -9930,10 +8690,8 @@ var nuforcData = [
     "column-reported": "11/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171460",
@@ -9946,10 +8704,8 @@ var nuforcData = [
     "column-reported": "08/29/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175452",
@@ -9962,10 +8718,8 @@ var nuforcData = [
     "column-reported": "04/22/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171318",
@@ -9978,10 +8732,8 @@ var nuforcData = [
     "column-reported": "08/22/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171535",
@@ -9994,10 +8746,8 @@ var nuforcData = [
     "column-reported": "09/02/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172232",
@@ -10010,10 +8760,8 @@ var nuforcData = [
     "column-reported": "09/02/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171264",
@@ -10026,10 +8774,8 @@ var nuforcData = [
     "column-reported": "08/20/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171371",
@@ -10042,10 +8788,8 @@ var nuforcData = [
     "column-reported": "08/24/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182576",
@@ -10058,10 +8802,8 @@ var nuforcData = [
     "column-reported": "08/10/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.76328",
+    "lon": "-95.36327"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170989",
@@ -10074,10 +8816,8 @@ var nuforcData = [
     "column-reported": "08/08/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170935",
@@ -10090,10 +8830,8 @@ var nuforcData = [
     "column-reported": "08/07/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.73319",
+    "lon": "-81.3412"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171080",
@@ -10106,10 +8844,8 @@ var nuforcData = [
     "column-reported": "08/11/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171842",
@@ -10122,10 +8858,8 @@ var nuforcData = [
     "column-reported": "09/18/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.48061",
+    "lon": "-86.05499"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170981",
@@ -10138,10 +8872,8 @@ var nuforcData = [
     "column-reported": "08/05/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.8713",
+    "lon": "-112.44553"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181190",
@@ -10154,10 +8886,8 @@ var nuforcData = [
     "column-reported": "04/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170711",
@@ -10170,10 +8900,8 @@ var nuforcData = [
     "column-reported": "07/27/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.61366",
+    "lon": "-86.10665"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175677",
@@ -10186,10 +8914,8 @@ var nuforcData = [
     "column-reported": "05/05/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.34764",
+    "lon": "-97.38668"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177099",
@@ -10202,10 +8928,8 @@ var nuforcData = [
     "column-reported": "07/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171682",
@@ -10218,10 +8942,8 @@ var nuforcData = [
     "column-reported": "09/11/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175178",
@@ -10234,10 +8956,8 @@ var nuforcData = [
     "column-reported": "03/31/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180179",
@@ -10250,10 +8970,8 @@ var nuforcData = [
     "column-reported": "01/26/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170211",
@@ -10266,10 +8984,8 @@ var nuforcData = [
     "column-reported": "07/02/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "21.30694",
+    "lon": "-157.85833"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170210",
@@ -10282,10 +8998,8 @@ var nuforcData = [
     "column-reported": "07/02/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.61106",
+    "lon": "-111.89994"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171641",
@@ -10294,14 +9008,12 @@ var nuforcData = [
     "column-state": "LA",
     "column-country": "USA",
     "column-shape": "Cigar",
-    "column-summary": "Cigar and square UFOs, cloud-textured and pixelated, floated silently overhead—cloaked, surreal, unforgettable.",
+    "column-summary": "Cigar and square UFOs, cloud-textured and pixelated, floated silently overhead\u2014cloaked, surreal, unforgettable.",
     "column-reported": "09/08/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178761",
@@ -10314,10 +9026,8 @@ var nuforcData = [
     "column-reported": "10/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.46697",
+    "lon": "-117.69811"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174675",
@@ -10330,10 +9040,8 @@ var nuforcData = [
     "column-reported": "02/20/2023",
     "column-hasimage": "Y",
     "column-explanation": "Balloon?",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183399",
@@ -10346,10 +9054,8 @@ var nuforcData = [
     "column-reported": "10/09/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "31.0461",
-    "lon": "34.8516",
-    "latitude": "31.0461",
-    "longitude": "34.8516"
+    "lat": "31.25882",
+    "lon": "35.21282"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176359",
@@ -10362,10 +9068,8 @@ var nuforcData = [
     "column-reported": "06/20/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180439",
@@ -10378,10 +9082,8 @@ var nuforcData = [
     "column-reported": "02/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190355",
@@ -10394,10 +9096,8 @@ var nuforcData = [
     "column-reported": "06/07/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "51.1657",
-    "lon": "10.4515",
-    "latitude": "51.1657",
-    "longitude": "10.4515"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170877",
@@ -10410,10 +9110,8 @@ var nuforcData = [
     "column-reported": "08/02/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.26193",
+    "lon": "-88.41538"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=168635",
@@ -10426,10 +9124,8 @@ var nuforcData = [
     "column-reported": "06/14/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.40159",
+    "lon": "-86.86357"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=168537",
@@ -10442,10 +9138,8 @@ var nuforcData = [
     "column-reported": "06/04/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.37329",
+    "lon": "-119.01871"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174791",
@@ -10458,10 +9152,8 @@ var nuforcData = [
     "column-reported": "03/01/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.775",
+    "lon": "-88.43883"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183308",
@@ -10474,10 +9166,8 @@ var nuforcData = [
     "column-reported": "10/03/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.15398",
+    "lon": "-95.99277"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171670",
@@ -10490,10 +9180,8 @@ var nuforcData = [
     "column-reported": "09/10/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=167447",
@@ -10506,10 +9194,8 @@ var nuforcData = [
     "column-reported": "04/12/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.28065",
+    "lon": "-80.34453"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173647",
@@ -10522,10 +9208,8 @@ var nuforcData = [
     "column-reported": "12/31/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.09973",
+    "lon": "-94.57857"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=167175",
@@ -10538,10 +9222,8 @@ var nuforcData = [
     "column-reported": "03/22/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "14.0583",
-    "lon": "108.2772",
-    "latitude": "14.0583",
-    "longitude": "108.2772"
+    "lat": "10.82302",
+    "lon": "106.62965"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189401",
@@ -10554,10 +9236,8 @@ var nuforcData = [
     "column-reported": "05/05/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.8303",
+    "lon": "-116.54529"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186948",
@@ -10570,10 +9250,8 @@ var nuforcData = [
     "column-reported": "01/17/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=167028",
@@ -10586,10 +9264,8 @@ var nuforcData = [
     "column-reported": "03/10/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177011",
@@ -10602,10 +9278,8 @@ var nuforcData = [
     "column-reported": "07/26/2023",
     "column-hasimage": "Y",
     "column-explanation": "Balloon?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "21.30694",
+    "lon": "-157.85833"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166859",
@@ -10618,10 +9292,8 @@ var nuforcData = [
     "column-reported": "02/23/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.22174",
+    "lon": "-110.92648"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185148",
@@ -10634,10 +9306,8 @@ var nuforcData = [
     "column-reported": "12/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.85293",
+    "lon": "-75.97799"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166582",
@@ -10650,10 +9320,8 @@ var nuforcData = [
     "column-reported": "02/05/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166553",
@@ -10666,10 +9334,8 @@ var nuforcData = [
     "column-reported": "02/02/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166988",
@@ -10682,10 +9348,8 @@ var nuforcData = [
     "column-reported": "02/10/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171285",
@@ -10698,10 +9362,8 @@ var nuforcData = [
     "column-reported": "08/20/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.96118",
+    "lon": "-82.99879"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175934",
@@ -10714,10 +9376,8 @@ var nuforcData = [
     "column-reported": "05/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166330",
@@ -10730,10 +9390,8 @@ var nuforcData = [
     "column-reported": "01/20/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176948",
@@ -10746,10 +9404,8 @@ var nuforcData = [
     "column-reported": "07/21/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.05223",
+    "lon": "-118.24368"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166098",
@@ -10762,10 +9418,8 @@ var nuforcData = [
     "column-reported": "01/05/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166090",
@@ -10778,10 +9432,8 @@ var nuforcData = [
     "column-reported": "01/06/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.77976",
+    "lon": "-87.64588"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166027",
@@ -10794,10 +9446,8 @@ var nuforcData = [
     "column-reported": "01/11/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.29469",
+    "lon": "-81.39314"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166026",
@@ -10810,10 +9460,8 @@ var nuforcData = [
     "column-reported": "01/11/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165888",
@@ -10826,10 +9474,8 @@ var nuforcData = [
     "column-reported": "12/17/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.12711",
+    "lon": "-84.51439"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165877",
@@ -10842,10 +9488,8 @@ var nuforcData = [
     "column-reported": "12/16/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.71571",
+    "lon": "-117.16472"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165886",
@@ -10858,10 +9502,8 @@ var nuforcData = [
     "column-reported": "12/17/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165873",
@@ -10870,14 +9512,12 @@ var nuforcData = [
     "column-state": "NY",
     "column-country": "USA",
     "column-shape": "Fireball",
-    "column-summary": "“Fireball” of green light, vertically descending then rapidly leveling to fly horizontally and disappearing like a light switch snapped",
+    "column-summary": "\u201cFireball\u201d of green light, vertically descending then rapidly leveling to fly horizontally and disappearing like a light switch snapped",
     "column-reported": "12/15/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.04812",
+    "lon": "-76.14742"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165875",
@@ -10890,10 +9530,8 @@ var nuforcData = [
     "column-reported": "12/14/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165858",
@@ -10906,10 +9544,8 @@ var nuforcData = [
     "column-reported": "12/14/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.69926",
+    "lon": "-86.74833"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165872",
@@ -10922,10 +9558,8 @@ var nuforcData = [
     "column-reported": "12/15/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165885",
@@ -10938,10 +9572,8 @@ var nuforcData = [
     "column-reported": "12/17/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.74648",
+    "lon": "-92.28959"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165806",
@@ -10954,10 +9586,8 @@ var nuforcData = [
     "column-reported": "12/09/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165770",
@@ -10970,10 +9600,8 @@ var nuforcData = [
     "column-reported": "12/08/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.65649",
+    "lon": "-73.6093"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165805",
@@ -10986,10 +9614,8 @@ var nuforcData = [
     "column-reported": "12/09/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165655",
@@ -11002,10 +9628,8 @@ var nuforcData = [
     "column-reported": "12/03/2021",
     "column-hasimage": "",
     "column-explanation": "Starlink",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165664",
@@ -11018,10 +9642,8 @@ var nuforcData = [
     "column-reported": "12/03/2021",
     "column-hasimage": "Y",
     "column-explanation": "Starlink",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165669",
@@ -11034,10 +9656,8 @@ var nuforcData = [
     "column-reported": "12/03/2021",
     "column-hasimage": "Y",
     "column-explanation": "Starlink",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.54428",
+    "lon": "-84.23381"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165661",
@@ -11050,10 +9670,8 @@ var nuforcData = [
     "column-reported": "12/03/2021",
     "column-hasimage": "Y",
     "column-explanation": "Starlink",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.55388",
+    "lon": "-104.96943"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165693",
@@ -11066,10 +9684,8 @@ var nuforcData = [
     "column-reported": "12/04/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "26.21591",
+    "lon": "-98.32529"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165665",
@@ -11082,10 +9698,8 @@ var nuforcData = [
     "column-reported": "12/03/2021",
     "column-hasimage": "Y",
     "column-explanation": "Starlink",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.03343",
+    "lon": "-74.63849"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165624",
@@ -11098,10 +9712,8 @@ var nuforcData = [
     "column-reported": "12/02/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165613",
@@ -11114,10 +9726,8 @@ var nuforcData = [
     "column-reported": "12/01/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165622",
@@ -11130,10 +9740,8 @@ var nuforcData = [
     "column-reported": "12/02/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165869",
@@ -11146,10 +9754,8 @@ var nuforcData = [
     "column-reported": "12/15/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182371",
@@ -11162,10 +9768,8 @@ var nuforcData = [
     "column-reported": "07/23/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.05223",
+    "lon": "-118.24368"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165728",
@@ -11178,10 +9782,8 @@ var nuforcData = [
     "column-reported": "12/05/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176075",
@@ -11194,10 +9796,8 @@ var nuforcData = [
     "column-reported": "06/02/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171810",
@@ -11210,10 +9810,8 @@ var nuforcData = [
     "column-reported": "09/14/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.88064",
+    "lon": "-71.32729"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165580",
@@ -11226,10 +9824,8 @@ var nuforcData = [
     "column-reported": "11/27/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166072",
@@ -11242,10 +9838,8 @@ var nuforcData = [
     "column-reported": "01/07/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.1487",
+    "lon": "-72.60787"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165522",
@@ -11258,10 +9852,8 @@ var nuforcData = [
     "column-reported": "11/21/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165859",
@@ -11274,10 +9866,8 @@ var nuforcData = [
     "column-reported": "12/14/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166049",
@@ -11290,10 +9880,8 @@ var nuforcData = [
     "column-reported": "01/09/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165800",
@@ -11306,10 +9894,8 @@ var nuforcData = [
     "column-reported": "11/17/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.13038",
+    "lon": "-75.51491"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165775",
@@ -11322,10 +9908,8 @@ var nuforcData = [
     "column-reported": "11/15/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.0653",
+    "lon": "-81.78869"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176875",
@@ -11338,10 +9922,8 @@ var nuforcData = [
     "column-reported": "07/20/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "26.93422",
+    "lon": "-80.09421"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165798",
@@ -11350,14 +9932,12 @@ var nuforcData = [
     "column-state": "",
     "column-country": "United Kingdom",
     "column-shape": "Other",
-    "column-summary": "I don’t know what this was",
+    "column-summary": "I don\u2019t know what this was",
     "column-reported": "11/17/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184956",
@@ -11370,10 +9950,8 @@ var nuforcData = [
     "column-reported": "12/10/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.62593",
+    "lon": "-75.37046"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182883",
@@ -11386,10 +9964,8 @@ var nuforcData = [
     "column-reported": "09/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.49044",
+    "lon": "-83.01304"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177451",
@@ -11402,10 +9978,8 @@ var nuforcData = [
     "column-reported": "08/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "51.05011",
+    "lon": "-114.08529"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185047",
@@ -11418,10 +9992,8 @@ var nuforcData = [
     "column-reported": "12/12/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "31.76072",
+    "lon": "-93.08627"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172507",
@@ -11434,10 +10006,8 @@ var nuforcData = [
     "column-reported": "10/19/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175470",
@@ -11450,10 +10020,8 @@ var nuforcData = [
     "column-reported": "04/23/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170904",
@@ -11466,10 +10034,8 @@ var nuforcData = [
     "column-reported": "08/03/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "53.55014",
+    "lon": "-113.46871"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180039",
@@ -11482,10 +10048,8 @@ var nuforcData = [
     "column-reported": "01/12/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "44.0165",
-    "lon": "21.0059",
-    "latitude": "44.0165",
-    "longitude": "21.0059"
+    "lat": "43.56634",
+    "lon": "22.25701"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165722",
@@ -11498,10 +10062,8 @@ var nuforcData = [
     "column-reported": "12/05/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182415",
@@ -11514,10 +10076,8 @@ var nuforcData = [
     "column-reported": "07/28/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175116",
@@ -11530,10 +10090,8 @@ var nuforcData = [
     "column-reported": "03/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "48.11815",
+    "lon": "-123.43074"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183673",
@@ -11546,10 +10104,8 @@ var nuforcData = [
     "column-reported": "10/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171743",
@@ -11562,10 +10118,8 @@ var nuforcData = [
     "column-reported": "09/11/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178319",
@@ -11578,10 +10132,8 @@ var nuforcData = [
     "column-reported": "09/17/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "-30.5595",
-    "lon": "22.9375",
-    "latitude": "-30.5595",
-    "longitude": "22.9375"
+    "lat": "-26.85213",
+    "lon": "26.66672"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177308",
@@ -11594,10 +10146,8 @@ var nuforcData = [
     "column-reported": "08/03/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.88645",
+    "lon": "-78.87837"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187915",
@@ -11610,10 +10160,8 @@ var nuforcData = [
     "column-reported": "02/23/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "48.0196",
-    "lon": "66.9237",
-    "latitude": "48.0196",
-    "longitude": "66.9237"
+    "lat": "44.85278",
+    "lon": "65.50917"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175364",
@@ -11626,10 +10174,8 @@ var nuforcData = [
     "column-reported": "04/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.16808",
+    "lon": "-88.42814"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181554",
@@ -11642,10 +10188,8 @@ var nuforcData = [
     "column-reported": "05/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177435",
@@ -11658,10 +10202,8 @@ var nuforcData = [
     "column-reported": "08/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.77422",
+    "lon": "-87.11333"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180051",
@@ -11674,10 +10216,8 @@ var nuforcData = [
     "column-reported": "01/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-30.5595",
-    "lon": "22.9375",
-    "latitude": "-30.5595",
-    "longitude": "22.9375"
+    "lat": "-33.80342",
+    "lon": "19.88537"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175440",
@@ -11690,10 +10230,8 @@ var nuforcData = [
     "column-reported": "04/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175496",
@@ -11706,10 +10244,8 @@ var nuforcData = [
     "column-reported": "04/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165887",
@@ -11722,10 +10258,8 @@ var nuforcData = [
     "column-reported": "12/17/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183409",
@@ -11738,10 +10272,8 @@ var nuforcData = [
     "column-reported": "10/10/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176140",
@@ -11754,10 +10286,8 @@ var nuforcData = [
     "column-reported": "06/08/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174998",
@@ -11770,10 +10300,8 @@ var nuforcData = [
     "column-reported": "03/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.10149",
+    "lon": "-84.51938"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190025",
@@ -11786,10 +10314,8 @@ var nuforcData = [
     "column-reported": "05/30/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181061",
@@ -11802,10 +10328,8 @@ var nuforcData = [
     "column-reported": "04/07/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.34153",
+    "lon": "-90.32176"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170115",
@@ -11818,10 +10342,8 @@ var nuforcData = [
     "column-reported": "06/28/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170887",
@@ -11834,10 +10356,8 @@ var nuforcData = [
     "column-reported": "08/04/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179060",
@@ -11850,10 +10370,8 @@ var nuforcData = [
     "column-reported": "10/20/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.94818",
+    "lon": "-96.72972"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=162304",
@@ -11866,10 +10384,8 @@ var nuforcData = [
     "column-reported": "02/28/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "46.21125",
+    "lon": "-119.13723"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173496",
@@ -11882,10 +10398,8 @@ var nuforcData = [
     "column-reported": "12/20/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.85293",
+    "lon": "-75.97799"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174954",
@@ -11898,10 +10412,8 @@ var nuforcData = [
     "column-reported": "03/10/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173015",
@@ -11914,10 +10426,8 @@ var nuforcData = [
     "column-reported": "11/14/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.39676",
+    "lon": "-73.07594"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178517",
@@ -11930,10 +10440,8 @@ var nuforcData = [
     "column-reported": "10/05/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.85843",
+    "lon": "-74.16376"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176390",
@@ -11946,10 +10454,8 @@ var nuforcData = [
     "column-reported": "06/21/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "49.26637",
+    "lon": "-122.76932"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179402",
@@ -11962,10 +10468,8 @@ var nuforcData = [
     "column-reported": "11/15/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170992",
@@ -11978,10 +10482,8 @@ var nuforcData = [
     "column-reported": "08/08/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175503",
@@ -11994,10 +10496,8 @@ var nuforcData = [
     "column-reported": "04/25/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.75095",
+    "lon": "-77.47527"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189027",
@@ -12010,10 +10510,8 @@ var nuforcData = [
     "column-reported": "04/18/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "27.04422",
+    "lon": "-82.23593"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179585",
@@ -12026,10 +10524,8 @@ var nuforcData = [
     "column-reported": "12/04/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.22257",
+    "lon": "-97.43948"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179052",
@@ -12042,10 +10538,8 @@ var nuforcData = [
     "column-reported": "10/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.39676",
+    "lon": "-73.07594"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181185",
@@ -12058,10 +10552,8 @@ var nuforcData = [
     "column-reported": "04/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.72849",
+    "lon": "-121.83748"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175599",
@@ -12074,10 +10566,8 @@ var nuforcData = [
     "column-reported": "04/29/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.23676",
+    "lon": "-84.49076"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173429",
@@ -12090,10 +10580,8 @@ var nuforcData = [
     "column-reported": "12/16/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "55.76412",
+    "lon": "-4.17669"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165638",
@@ -12106,10 +10594,8 @@ var nuforcData = [
     "column-reported": "12/03/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188076",
@@ -12122,10 +10608,8 @@ var nuforcData = [
     "column-reported": "03/03/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.44063",
+    "lon": "-76.49661"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177385",
@@ -12138,10 +10622,8 @@ var nuforcData = [
     "column-reported": "08/04/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182344",
@@ -12154,10 +10636,8 @@ var nuforcData = [
     "column-reported": "07/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.68906",
+    "lon": "-78.88669"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182680",
@@ -12170,10 +10650,8 @@ var nuforcData = [
     "column-reported": "08/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181886",
@@ -12186,10 +10664,8 @@ var nuforcData = [
     "column-reported": "06/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165569",
@@ -12202,10 +10678,8 @@ var nuforcData = [
     "column-reported": "11/26/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.50921",
+    "lon": "-111.89903"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=160151",
@@ -12218,10 +10692,8 @@ var nuforcData = [
     "column-reported": "10/22/2020",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.05223",
+    "lon": "-118.24368"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180220",
@@ -12234,10 +10706,8 @@ var nuforcData = [
     "column-reported": "01/30/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=151509",
@@ -12250,10 +10720,8 @@ var nuforcData = [
     "column-reported": "12/12/2019",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189058",
@@ -12266,10 +10734,8 @@ var nuforcData = [
     "column-reported": "04/20/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=151616",
@@ -12282,10 +10748,8 @@ var nuforcData = [
     "column-reported": "12/14/2019",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.94441",
+    "lon": "-93.09327"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183870",
@@ -12298,10 +10762,8 @@ var nuforcData = [
     "column-reported": "11/06/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186942",
@@ -12314,10 +10776,8 @@ var nuforcData = [
     "column-reported": "01/17/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.4583",
+    "lon": "-93.1616"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185409",
@@ -12330,10 +10790,8 @@ var nuforcData = [
     "column-reported": "12/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.85003",
+    "lon": "-87.65005"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177464",
@@ -12346,10 +10804,8 @@ var nuforcData = [
     "column-reported": "08/11/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.96805",
+    "lon": "-76.84658"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=148793",
@@ -12362,10 +10818,8 @@ var nuforcData = [
     "column-reported": "09/12/2019",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.14477",
+    "lon": "-84.24244"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175803",
@@ -12378,10 +10832,8 @@ var nuforcData = [
     "column-reported": "05/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.03787",
+    "lon": "-122.9007"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187217",
@@ -12394,10 +10846,8 @@ var nuforcData = [
     "column-reported": "01/25/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "23.8859",
-    "lon": "45.0792",
-    "latitude": "23.8859",
-    "longitude": "45.0792"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183566",
@@ -12410,10 +10860,8 @@ var nuforcData = [
     "column-reported": "10/24/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=144281",
@@ -12426,15 +10874,13 @@ var nuforcData = [
     "column-reported": "01/03/2019",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.26676",
+    "lon": "-72.66898"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173813",
     "column-occurred": "01/02/2019 02:00",
-    "column-city": "",
+    "column-city": "NA",
     "column-state": "-",
     "column-country": "USA",
     "column-shape": "Orb",
@@ -12442,10 +10888,8 @@ var nuforcData = [
     "column-reported": "01/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177328",
@@ -12458,10 +10902,8 @@ var nuforcData = [
     "column-reported": "08/07/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.53491",
+    "lon": "-119.75269"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182104",
@@ -12474,10 +10916,8 @@ var nuforcData = [
     "column-reported": "06/29/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182933",
@@ -12490,10 +10930,8 @@ var nuforcData = [
     "column-reported": "09/05/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.15952",
+    "lon": "-84.87661"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181964",
@@ -12506,10 +10944,8 @@ var nuforcData = [
     "column-reported": "06/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=143949",
@@ -12522,10 +10958,8 @@ var nuforcData = [
     "column-reported": "12/02/2018",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178929",
@@ -12538,10 +10972,8 @@ var nuforcData = [
     "column-reported": "10/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.4667",
+    "lon": "-87.41391"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189411",
@@ -12554,10 +10986,8 @@ var nuforcData = [
     "column-reported": "05/06/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=143562",
@@ -12570,10 +11000,8 @@ var nuforcData = [
     "column-reported": "10/23/2018",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.09986",
+    "lon": "-80.24422"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174836",
@@ -12586,10 +11014,8 @@ var nuforcData = [
     "column-reported": "03/01/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=143381",
@@ -12602,10 +11028,8 @@ var nuforcData = [
     "column-reported": "10/06/2018",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175048",
@@ -12618,10 +11042,8 @@ var nuforcData = [
     "column-reported": "03/18/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.74761",
+    "lon": "-116.97307"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165751",
@@ -12634,10 +11056,8 @@ var nuforcData = [
     "column-reported": "12/07/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166359",
@@ -12650,10 +11070,8 @@ var nuforcData = [
     "column-reported": "01/24/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "41.6086",
-    "lon": "21.7453",
-    "latitude": "41.6086",
-    "longitude": "21.7453"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181106",
@@ -12666,10 +11084,8 @@ var nuforcData = [
     "column-reported": "04/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.96673",
+    "lon": "-82.88546"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180104",
@@ -12682,10 +11098,8 @@ var nuforcData = [
     "column-reported": "01/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "51.1657",
-    "lon": "10.4515",
-    "latitude": "51.1657",
-    "longitude": "10.4515"
+    "lat": "52.16667",
+    "lon": "8.61667"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180710",
@@ -12698,10 +11112,8 @@ var nuforcData = [
     "column-reported": "03/04/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188051",
@@ -12714,10 +11126,8 @@ var nuforcData = [
     "column-reported": "03/02/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176254",
@@ -12726,14 +11136,12 @@ var nuforcData = [
     "column-state": "NY",
     "column-country": "USA",
     "column-shape": "Triangle",
-    "column-summary": "Large triangular shaped ship hovered in the sky, no noise, deep black…",
+    "column-summary": "Large triangular shaped ship hovered in the sky, no noise, deep black\u2026",
     "column-reported": "06/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.71399",
+    "lon": "-73.55902"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171060",
@@ -12746,10 +11154,8 @@ var nuforcData = [
     "column-reported": "08/12/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "26.97617",
+    "lon": "-82.09064"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190388",
@@ -12762,10 +11168,8 @@ var nuforcData = [
     "column-reported": "06/22/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.47688",
+    "lon": "-82.52546"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177823",
@@ -12778,10 +11182,8 @@ var nuforcData = [
     "column-reported": "08/27/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.14806",
+    "lon": "-117.99895"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189341",
@@ -12794,10 +11196,8 @@ var nuforcData = [
     "column-reported": "05/03/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170375",
@@ -12810,10 +11210,8 @@ var nuforcData = [
     "column-reported": "07/07/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=137810",
@@ -12826,10 +11224,8 @@ var nuforcData = [
     "column-reported": "12/16/2017",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.68698",
+    "lon": "-105.9378"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178332",
@@ -12842,10 +11238,8 @@ var nuforcData = [
     "column-reported": "09/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183885",
@@ -12858,10 +11252,8 @@ var nuforcData = [
     "column-reported": "11/07/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.92506",
+    "lon": "-86.86889"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181067",
@@ -12874,10 +11266,8 @@ var nuforcData = [
     "column-reported": "04/07/2024",
     "column-hasimage": "",
     "column-explanation": "Aircraft?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172996",
@@ -12890,10 +11280,8 @@ var nuforcData = [
     "column-reported": "11/13/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.77493",
+    "lon": "-122.41942"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=136360",
@@ -12906,10 +11294,8 @@ var nuforcData = [
     "column-reported": "09/25/2017",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=136234",
@@ -12922,10 +11308,8 @@ var nuforcData = [
     "column-reported": "09/19/2017",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "46.72077",
+    "lon": "-92.10408"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=136100",
@@ -12938,10 +11322,8 @@ var nuforcData = [
     "column-reported": "09/09/2017",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.50931",
+    "lon": "-92.1193"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175701",
@@ -12954,10 +11336,8 @@ var nuforcData = [
     "column-reported": "05/07/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.2098",
+    "lon": "-84.55883"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188716",
@@ -12966,14 +11346,12 @@ var nuforcData = [
     "column-state": "",
     "column-country": "Montenegro",
     "column-shape": "Triangle",
-    "column-summary": "The object was shaped like a double-sided pyramid or 3D diamond — completely symmetrical, hovering in place, and entirely silent.",
+    "column-summary": "The object was shaped like a double-sided pyramid or 3D diamond \u2014 completely symmetrical, hovering in place, and entirely silent.",
     "column-reported": "04/04/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "42.7087",
-    "lon": "19.3744",
-    "latitude": "42.7087",
-    "longitude": "19.3744"
+    "lat": "42.45306",
+    "lon": "18.5375"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=135305",
@@ -12986,10 +11364,8 @@ var nuforcData = [
     "column-reported": "07/23/2017",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177046",
@@ -13002,10 +11378,8 @@ var nuforcData = [
     "column-reported": "07/27/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.25288",
+    "lon": "-122.44429"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165720",
@@ -13018,10 +11392,8 @@ var nuforcData = [
     "column-reported": "12/04/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.0898",
+    "lon": "-76.80773"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185330",
@@ -13034,26 +11406,22 @@ var nuforcData = [
     "column-reported": "12/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186051",
     "column-occurred": "06/13/2017 02:30",
     "column-city": "Gesves",
-    "column-state": "Région Wallonne",
+    "column-state": "R\u00e9gion Wallonne",
     "column-country": "Belgium",
     "column-shape": "Cube",
     "column-summary": "Square drone shape the size of a stadium",
     "column-reported": "12/26/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "50.5039",
-    "lon": "4.4699",
-    "latitude": "50.5039",
-    "longitude": "4.4699"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183132",
@@ -13066,10 +11434,8 @@ var nuforcData = [
     "column-reported": "09/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174963",
@@ -13082,10 +11448,8 @@ var nuforcData = [
     "column-reported": "03/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.18361",
+    "lon": "-96.57167"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182204",
@@ -13098,10 +11462,8 @@ var nuforcData = [
     "column-reported": "07/08/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=133835",
@@ -13114,10 +11476,8 @@ var nuforcData = [
     "column-reported": "04/26/2017",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.70698",
+    "lon": "-97.08559"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=133724",
@@ -13130,10 +11490,8 @@ var nuforcData = [
     "column-reported": "04/19/2017",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.04668",
+    "lon": "-97.34504"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=132359",
@@ -13146,10 +11504,8 @@ var nuforcData = [
     "column-reported": "01/28/2017",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "31.95758",
+    "lon": "-110.95565"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=131791",
@@ -13162,10 +11518,8 @@ var nuforcData = [
     "column-reported": "12/17/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "26.06287",
+    "lon": "-80.2331"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=131701",
@@ -13178,10 +11532,8 @@ var nuforcData = [
     "column-reported": "12/11/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=131630",
@@ -13194,10 +11546,8 @@ var nuforcData = [
     "column-reported": "12/05/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.6603",
+    "lon": "-117.99923"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175804",
@@ -13210,10 +11560,8 @@ var nuforcData = [
     "column-reported": "05/16/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180026",
@@ -13226,10 +11574,8 @@ var nuforcData = [
     "column-reported": "01/13/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.13919",
+    "lon": "-87.92896"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=130601",
@@ -13242,10 +11588,8 @@ var nuforcData = [
     "column-reported": "10/13/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184415",
@@ -13258,10 +11602,8 @@ var nuforcData = [
     "column-reported": "11/21/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182745",
@@ -13274,10 +11616,8 @@ var nuforcData = [
     "column-reported": "08/22/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.94312",
+    "lon": "-84.54411"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182820",
@@ -13290,10 +11630,8 @@ var nuforcData = [
     "column-reported": "08/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "51.29424",
+    "lon": "-0.75565"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=129302",
@@ -13306,10 +11644,8 @@ var nuforcData = [
     "column-reported": "08/16/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.51872",
+    "lon": "-74.4121"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182142",
@@ -13322,26 +11658,22 @@ var nuforcData = [
     "column-reported": "07/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.98869",
+    "lon": "-84.47772"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183498",
     "column-occurred": "08/15/2016 16:00",
     "column-city": "Karlsborg",
-    "column-state": "Västra Götaland",
+    "column-state": "V\u00e4stra G\u00f6taland",
     "column-country": "Sweden",
     "column-shape": "Light",
     "column-summary": "I would not exactly call it a light. Orange, all sound quiet except low humming. heavy air, no time. It may been a craft,",
     "column-reported": "10/27/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "60.1282",
-    "lon": "18.6435",
-    "latitude": "60.1282",
-    "longitude": "18.6435"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=129626",
@@ -13354,10 +11686,8 @@ var nuforcData = [
     "column-reported": "09/01/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179818",
@@ -13370,10 +11700,8 @@ var nuforcData = [
     "column-reported": "01/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190333",
@@ -13386,26 +11714,22 @@ var nuforcData = [
     "column-reported": "06/09/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185382",
     "column-occurred": "07/15/2016 23:45",
     "column-city": "",
-    "column-state": "Pará",
+    "column-state": "Par\u00e1",
     "column-country": "Brazil",
     "column-shape": "Cigar",
-    "column-summary": "At 12 a.m. in Pará, I saw a spinning metallic UFO, ran in fear, and broke into my aunt's house. It vanished at incredible speed.",
+    "column-summary": "At 12 a.m. in Par\u00e1, I saw a spinning metallic UFO, ran in fear, and broke into my aunt's house. It vanished at incredible speed.",
     "column-reported": "12/16/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-14.235",
-    "lon": "-51.9253",
-    "latitude": "-14.235",
-    "longitude": "-51.9253"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=158546",
@@ -13418,10 +11742,8 @@ var nuforcData = [
     "column-reported": "08/14/2020",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184115",
@@ -13434,10 +11756,8 @@ var nuforcData = [
     "column-reported": "11/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.08144",
+    "lon": "-81.51901"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185672",
@@ -13450,10 +11770,8 @@ var nuforcData = [
     "column-reported": "12/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.19587",
+    "lon": "-117.37948"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=127734",
@@ -13466,10 +11784,8 @@ var nuforcData = [
     "column-reported": "06/06/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179826",
@@ -13482,10 +11798,8 @@ var nuforcData = [
     "column-reported": "01/01/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "27.8428",
+    "lon": "-82.69954"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181250",
@@ -13498,10 +11812,8 @@ var nuforcData = [
     "column-reported": "04/24/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.84622",
+    "lon": "-77.30637"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=127376",
@@ -13514,10 +11826,8 @@ var nuforcData = [
     "column-reported": "05/12/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "35.8617",
-    "lon": "104.1954",
-    "latitude": "35.8617",
-    "longitude": "104.1954"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184621",
@@ -13530,10 +11840,8 @@ var nuforcData = [
     "column-reported": "11/30/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=125792",
@@ -13546,10 +11854,8 @@ var nuforcData = [
     "column-reported": "02/11/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.53651",
+    "lon": "-122.90703"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181393",
@@ -13562,10 +11868,8 @@ var nuforcData = [
     "column-reported": "05/05/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=125121",
@@ -13578,10 +11882,8 @@ var nuforcData = [
     "column-reported": "01/05/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.92386",
+    "lon": "-92.95938"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170889",
@@ -13594,10 +11896,8 @@ var nuforcData = [
     "column-reported": "08/04/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.97926",
+    "lon": "-74.11653"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174885",
@@ -13610,10 +11910,8 @@ var nuforcData = [
     "column-reported": "03/05/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.04812",
+    "lon": "-76.14742"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178218",
@@ -13626,10 +11924,8 @@ var nuforcData = [
     "column-reported": "09/11/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176899",
@@ -13642,10 +11938,8 @@ var nuforcData = [
     "column-reported": "07/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183872",
@@ -13654,14 +11948,12 @@ var nuforcData = [
     "column-state": "CA",
     "column-country": "USA",
     "column-shape": "Other",
-    "column-summary": "I didn’t see a craft, I saw an owl.",
+    "column-summary": "I didn\u2019t see a craft, I saw an owl.",
     "column-reported": "11/06/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189862",
@@ -13674,10 +11966,8 @@ var nuforcData = [
     "column-reported": "05/25/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190319",
@@ -13690,10 +11980,8 @@ var nuforcData = [
     "column-reported": "06/10/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=127386",
@@ -13706,26 +11994,22 @@ var nuforcData = [
     "column-reported": "05/12/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187819",
     "column-occurred": "08/20/2015 23:00",
-    "column-city": "Gjilekë",
-    "column-state": "Qarku i Vlorës",
+    "column-city": "Gjilek\u00eb",
+    "column-state": "Qarku i Vlor\u00ebs",
     "column-country": "Albania",
     "column-shape": "Diamond",
     "column-summary": "UFO in Drymades - The power in the Village Shut Down",
     "column-reported": "02/19/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "41.1533",
-    "lon": "20.1683",
-    "latitude": "41.1533",
-    "longitude": "20.1683"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170191",
@@ -13738,10 +12022,8 @@ var nuforcData = [
     "column-reported": "07/02/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189616",
@@ -13754,10 +12036,8 @@ var nuforcData = [
     "column-reported": "05/14/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.83665",
+    "lon": "-105.0372"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183598",
@@ -13770,26 +12050,22 @@ var nuforcData = [
     "column-reported": "10/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.76861",
+    "lon": "-94.84663"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179160",
     "column-occurred": "06/22/2015 16:28",
-    "column-city": "Brzeziny, Witkowice Łódzkie",
-    "column-state": "Łódź Voivodeship",
+    "column-city": "Brzeziny, Witkowice \u0141\u00f3dzkie",
+    "column-state": "\u0141\u00f3d\u017a Voivodeship",
     "column-country": "Poland",
     "column-shape": "Circle",
     "column-summary": "I saw a circle flying from one end of the plot to the other, it had smaller circles around its circumference, it was larger than house.",
     "column-reported": "10/29/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "51.9194",
-    "lon": "19.1451",
-    "latitude": "51.9194",
-    "longitude": "19.1451"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=132704",
@@ -13802,10 +12078,8 @@ var nuforcData = [
     "column-reported": "02/19/2017",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.15398",
+    "lon": "-95.99277"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173302",
@@ -13818,10 +12092,8 @@ var nuforcData = [
     "column-reported": "12/06/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180818",
@@ -13830,14 +12102,12 @@ var nuforcData = [
     "column-state": "OR",
     "column-country": "USA",
     "column-shape": "Orb",
-    "column-summary": "I saw a large circular “orb” in the sky. I watched it for awhile. And then it took off and disappeared.",
+    "column-summary": "I saw a large circular \u201corb\u201d in the sky. I watched it for awhile. And then it took off and disappeared.",
     "column-reported": "03/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.04624",
+    "lon": "-123.02203"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=126817",
@@ -13850,10 +12120,8 @@ var nuforcData = [
     "column-reported": "04/11/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.66882",
+    "lon": "-122.0808"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183425",
@@ -13866,10 +12134,8 @@ var nuforcData = [
     "column-reported": "10/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.56042",
+    "lon": "-81.71955"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180898",
@@ -13882,10 +12148,8 @@ var nuforcData = [
     "column-reported": "03/22/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.92054",
+    "lon": "-105.08665"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=117716",
@@ -13898,10 +12162,8 @@ var nuforcData = [
     "column-reported": "03/11/2015",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.79981",
+    "lon": "-87.67725"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=117619",
@@ -13914,10 +12176,8 @@ var nuforcData = [
     "column-reported": "03/06/2015",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.05636",
+    "lon": "-92.80604"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165517",
@@ -13930,10 +12190,8 @@ var nuforcData = [
     "column-reported": "11/20/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=117121",
@@ -13946,10 +12204,8 @@ var nuforcData = [
     "column-reported": "02/02/2015",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.41477",
+    "lon": "-111.90931"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=118681",
@@ -13962,10 +12218,8 @@ var nuforcData = [
     "column-reported": "04/28/2015",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180185",
@@ -13978,10 +12232,8 @@ var nuforcData = [
     "column-reported": "01/27/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.3776",
+    "lon": "-71.82729"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178348",
@@ -13994,10 +12246,8 @@ var nuforcData = [
     "column-reported": "09/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165575",
@@ -14010,10 +12260,8 @@ var nuforcData = [
     "column-reported": "11/27/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.49044",
+    "lon": "-83.01304"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=116486",
@@ -14026,10 +12274,8 @@ var nuforcData = [
     "column-reported": "01/03/2015",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177377",
@@ -14042,10 +12288,8 @@ var nuforcData = [
     "column-reported": "08/05/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184101",
@@ -14058,10 +12302,8 @@ var nuforcData = [
     "column-reported": "11/13/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189995",
@@ -14074,10 +12316,8 @@ var nuforcData = [
     "column-reported": "06/01/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "42.7339",
-    "lon": "25.4858",
-    "latitude": "42.7339",
-    "longitude": "25.4858"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179396",
@@ -14090,10 +12330,8 @@ var nuforcData = [
     "column-reported": "11/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176037",
@@ -14106,10 +12344,8 @@ var nuforcData = [
     "column-reported": "06/04/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "40.4637",
-    "lon": "-3.7492",
-    "latitude": "40.4637",
-    "longitude": "-3.7492"
+    "lat": "40.57654",
+    "lon": "-3.92658"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178902",
@@ -14122,10 +12358,8 @@ var nuforcData = [
     "column-reported": "10/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.42412",
+    "lon": "-98.49363"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185098",
@@ -14138,10 +12372,8 @@ var nuforcData = [
     "column-reported": "12/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.05223",
+    "lon": "-118.24368"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176496",
@@ -14154,10 +12386,8 @@ var nuforcData = [
     "column-reported": "06/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "49.16638",
+    "lon": "-123.94003"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177336",
@@ -14170,10 +12400,8 @@ var nuforcData = [
     "column-reported": "08/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186305",
@@ -14186,10 +12414,8 @@ var nuforcData = [
     "column-reported": "01/01/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-38.4161",
-    "lon": "-63.6167",
-    "latitude": "-38.4161",
-    "longitude": "-63.6167"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=105032",
@@ -14202,10 +12428,8 @@ var nuforcData = [
     "column-reported": "12/03/2013",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175185",
@@ -14218,10 +12442,8 @@ var nuforcData = [
     "column-reported": "04/01/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.82523",
+    "lon": "-119.70292"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186923",
@@ -14234,10 +12456,8 @@ var nuforcData = [
     "column-reported": "01/17/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=102673",
@@ -14250,10 +12470,8 @@ var nuforcData = [
     "column-reported": "09/26/2013",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.49466",
+    "lon": "-120.84659"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184073",
@@ -14266,10 +12484,8 @@ var nuforcData = [
     "column-reported": "11/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "40.4637",
-    "lon": "-3.7492",
-    "latitude": "40.4637",
-    "longitude": "-3.7492"
+    "lat": "39.16667",
+    "lon": "-0.25"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=101320",
@@ -14282,10 +12498,8 @@ var nuforcData = [
     "column-reported": "08/20/2013",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178439",
@@ -14298,10 +12512,8 @@ var nuforcData = [
     "column-reported": "09/22/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184092",
@@ -14314,10 +12526,8 @@ var nuforcData = [
     "column-reported": "11/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.69224",
+    "lon": "-97.33754"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185370",
@@ -14330,10 +12540,8 @@ var nuforcData = [
     "column-reported": "12/16/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "41.8719",
-    "lon": "12.5674",
-    "latitude": "41.8719",
-    "longitude": "12.5674"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184276",
@@ -14346,10 +12554,8 @@ var nuforcData = [
     "column-reported": "11/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175319",
@@ -14362,10 +12568,8 @@ var nuforcData = [
     "column-reported": "04/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.87529",
+    "lon": "-117.56644"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=97928",
@@ -14378,10 +12582,8 @@ var nuforcData = [
     "column-reported": "05/23/2013",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178715",
@@ -14394,10 +12596,8 @@ var nuforcData = [
     "column-reported": "10/09/2023",
     "column-hasimage": "",
     "column-explanation": "Meteor?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187781",
@@ -14410,10 +12610,8 @@ var nuforcData = [
     "column-reported": "02/18/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.96097",
+    "lon": "-75.60804"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189142",
@@ -14426,10 +12624,8 @@ var nuforcData = [
     "column-reported": "04/24/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.14953",
+    "lon": "-90.04898"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174931",
@@ -14442,10 +12638,8 @@ var nuforcData = [
     "column-reported": "03/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.01984",
+    "lon": "-96.69889"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186701",
@@ -14458,10 +12652,8 @@ var nuforcData = [
     "column-reported": "01/10/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "43.42537",
+    "lon": "-80.5112"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182633",
@@ -14474,10 +12666,8 @@ var nuforcData = [
     "column-reported": "08/13/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "39.3999",
-    "lon": "-8.2245",
-    "latitude": "39.3999",
-    "longitude": "-8.2245"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175329",
@@ -14490,10 +12680,8 @@ var nuforcData = [
     "column-reported": "04/15/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179584",
@@ -14506,10 +12694,8 @@ var nuforcData = [
     "column-reported": "12/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.58031",
+    "lon": "-83.0302"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180181",
@@ -14522,10 +12708,8 @@ var nuforcData = [
     "column-reported": "01/26/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173493",
@@ -14538,10 +12722,8 @@ var nuforcData = [
     "column-reported": "12/20/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.17316",
+    "lon": "-77.27165"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177676",
@@ -14554,10 +12736,8 @@ var nuforcData = [
     "column-reported": "08/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165574",
@@ -14570,10 +12750,8 @@ var nuforcData = [
     "column-reported": "11/27/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.49044",
+    "lon": "-83.01304"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=119972",
@@ -14586,10 +12764,8 @@ var nuforcData = [
     "column-reported": "07/03/2015",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180058",
@@ -14602,10 +12778,8 @@ var nuforcData = [
     "column-reported": "01/14/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182884",
@@ -14618,10 +12792,8 @@ var nuforcData = [
     "column-reported": "09/02/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170912",
@@ -14634,10 +12806,8 @@ var nuforcData = [
     "column-reported": "08/04/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "53.55014",
+    "lon": "-113.46871"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184991",
@@ -14650,10 +12820,8 @@ var nuforcData = [
     "column-reported": "12/10/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.11921",
+    "lon": "-117.08642"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182512",
@@ -14666,10 +12834,8 @@ var nuforcData = [
     "column-reported": "08/05/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.03699",
+    "lon": "-117.29198"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179054",
@@ -14678,14 +12844,12 @@ var nuforcData = [
     "column-state": "Norrbotten County",
     "column-country": "Sweden",
     "column-shape": "Unknown",
-    "column-summary": "Sågs av familj på fyra personer som befann sig i närheten. Fotograferades av hustrun .",
+    "column-summary": "S\u00e5gs av familj p\u00e5 fyra personer som befann sig i n\u00e4rheten. Fotograferades av hustrun .",
     "column-reported": "10/21/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "60.1282",
-    "lon": "18.6435",
-    "latitude": "60.1282",
-    "longitude": "18.6435"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170098",
@@ -14698,10 +12862,8 @@ var nuforcData = [
     "column-reported": "06/25/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.29038",
+    "lon": "-76.61219"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179450",
@@ -14714,10 +12876,8 @@ var nuforcData = [
     "column-reported": "11/24/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.58157",
+    "lon": "-121.4944"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176338",
@@ -14730,10 +12890,8 @@ var nuforcData = [
     "column-reported": "06/18/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.99409",
+    "lon": "-90.24174"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176078",
@@ -14746,10 +12904,8 @@ var nuforcData = [
     "column-reported": "06/02/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187216",
@@ -14762,10 +12918,8 @@ var nuforcData = [
     "column-reported": "01/25/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=85621",
@@ -14778,10 +12932,8 @@ var nuforcData = [
     "column-reported": "12/01/2011",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177008",
@@ -14794,15 +12946,13 @@ var nuforcData = [
     "column-reported": "07/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188310",
     "column-occurred": "09/06/2011 17:09",
-    "column-city": "Délı̨nę",
+    "column-city": "D\u00e9l\u0131\u0328n\u0119",
     "column-state": "NT",
     "column-country": "Canada",
     "column-shape": "Orb",
@@ -14810,10 +12960,8 @@ var nuforcData = [
     "column-reported": "03/14/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182844",
@@ -14826,15 +12974,13 @@ var nuforcData = [
     "column-reported": "08/30/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.09978",
+    "lon": "-80.64952"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180476",
     "column-occurred": "08/20/2011 16:45",
-    "column-city": "Hrubieszów",
+    "column-city": "Hrubiesz\u00f3w",
     "column-state": "Lublin Voivodeship",
     "column-country": "Poland",
     "column-shape": "Triangle",
@@ -14842,10 +12988,8 @@ var nuforcData = [
     "column-reported": "02/18/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "51.9194",
-    "lon": "19.1451",
-    "latitude": "51.9194",
-    "longitude": "19.1451"
+    "lat": "50.80502",
+    "lon": "23.89251"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178246",
@@ -14858,10 +13002,8 @@ var nuforcData = [
     "column-reported": "09/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184042",
@@ -14874,10 +13016,8 @@ var nuforcData = [
     "column-reported": "11/12/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182247",
@@ -14890,10 +13030,8 @@ var nuforcData = [
     "column-reported": "07/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.67796",
+    "lon": "-121.17606"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189970",
@@ -14906,10 +13044,8 @@ var nuforcData = [
     "column-reported": "06/02/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.75448",
+    "lon": "-86.35667"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189718",
@@ -14922,10 +13058,8 @@ var nuforcData = [
     "column-reported": "05/18/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=82471",
@@ -14938,10 +13072,8 @@ var nuforcData = [
     "column-reported": "07/14/2011",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176243",
@@ -14954,10 +13086,8 @@ var nuforcData = [
     "column-reported": "06/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.97167",
+    "lon": "-95.23525"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170070",
@@ -14970,10 +13100,8 @@ var nuforcData = [
     "column-reported": "06/26/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=81213",
@@ -14986,10 +13114,8 @@ var nuforcData = [
     "column-reported": "05/11/2011",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=87319",
@@ -15002,10 +13128,8 @@ var nuforcData = [
     "column-reported": "02/23/2012",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "1.3521",
-    "lon": "103.8198",
-    "latitude": "1.3521",
-    "longitude": "103.8198"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188244",
@@ -15018,10 +13142,8 @@ var nuforcData = [
     "column-reported": "03/11/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.9279",
+    "lon": "-122.98371"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182810",
@@ -15034,10 +13156,8 @@ var nuforcData = [
     "column-reported": "08/28/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "60.472",
-    "lon": "8.4689",
-    "latitude": "60.472",
-    "longitude": "8.4689"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180059",
@@ -15050,10 +13170,8 @@ var nuforcData = [
     "column-reported": "01/16/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.70943",
+    "lon": "-98.0298"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179494",
@@ -15066,26 +13184,22 @@ var nuforcData = [
     "column-reported": "11/24/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190286",
     "column-occurred": "01/01/2011 19:00",
-    "column-city": "Iłowiec",
-    "column-state": "Województwo lubelskie",
+    "column-city": "I\u0142owiec",
+    "column-state": "Wojew\u00f3dztwo lubelskie",
     "column-country": "Poland",
     "column-shape": "Disk",
     "column-summary": "A flying saucer with green and red lights",
     "column-reported": "06/11/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "51.9194",
-    "lon": "19.1451",
-    "latitude": "51.9194",
-    "longitude": "19.1451"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179005",
@@ -15098,10 +13212,8 @@ var nuforcData = [
     "column-reported": "10/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.77579",
+    "lon": "-121.66967"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190318",
@@ -15114,10 +13226,8 @@ var nuforcData = [
     "column-reported": "06/10/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "26.8206",
-    "lon": "30.8025",
-    "latitude": "26.8206",
-    "longitude": "30.8025"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190301",
@@ -15130,10 +13240,8 @@ var nuforcData = [
     "column-reported": "06/10/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183382",
@@ -15146,10 +13254,8 @@ var nuforcData = [
     "column-reported": "10/08/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.73191",
+    "lon": "-93.21772"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175979",
@@ -15162,10 +13268,8 @@ var nuforcData = [
     "column-reported": "05/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.63342",
+    "lon": "-71.31617"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=125205",
@@ -15178,10 +13282,8 @@ var nuforcData = [
     "column-reported": "01/10/2016",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180619",
@@ -15194,10 +13296,8 @@ var nuforcData = [
     "column-reported": "02/28/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.97453",
+    "lon": "-92.01653"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=77132",
@@ -15210,10 +13310,8 @@ var nuforcData = [
     "column-reported": "08/11/2010",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.38093",
+    "lon": "-122.23484"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178547",
@@ -15226,10 +13324,8 @@ var nuforcData = [
     "column-reported": "10/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.68843",
+    "lon": "-75.22073"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176343",
@@ -15242,10 +13338,8 @@ var nuforcData = [
     "column-reported": "06/18/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.98065",
+    "lon": "-73.68374"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188045",
@@ -15258,10 +13352,8 @@ var nuforcData = [
     "column-reported": "03/01/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "48.4359",
+    "lon": "-123.35155"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=75667",
@@ -15274,10 +13366,8 @@ var nuforcData = [
     "column-reported": "06/02/2010",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.41477",
+    "lon": "-111.90931"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=75647",
@@ -15290,10 +13380,8 @@ var nuforcData = [
     "column-reported": "06/01/2010",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "48.23656",
+    "lon": "-79.02311"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183268",
@@ -15306,10 +13394,8 @@ var nuforcData = [
     "column-reported": "09/30/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177784",
@@ -15322,10 +13408,8 @@ var nuforcData = [
     "column-reported": "08/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.96097",
+    "lon": "-75.60804"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184161",
@@ -15338,10 +13422,8 @@ var nuforcData = [
     "column-reported": "11/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=139369",
@@ -15354,10 +13436,8 @@ var nuforcData = [
     "column-reported": "04/05/2018",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.01984",
+    "lon": "-96.69889"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176663",
@@ -15370,10 +13450,8 @@ var nuforcData = [
     "column-reported": "07/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187129",
@@ -15386,10 +13464,8 @@ var nuforcData = [
     "column-reported": "01/23/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186551",
@@ -15402,10 +13478,8 @@ var nuforcData = [
     "column-reported": "01/09/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "23.6345",
-    "lon": "-102.5528",
-    "latitude": "23.6345",
-    "longitude": "-102.5528"
+    "lat": "32.62781",
+    "lon": "-115.45446"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176197",
@@ -15414,14 +13488,12 @@ var nuforcData = [
     "column-state": "VA",
     "column-country": "USA",
     "column-shape": "Triangle",
-    "column-summary": "Saw what looked like a meteor (red/orange tail) the craft was over my car 3 blue “lights” on corners of ceaft",
+    "column-summary": "Saw what looked like a meteor (red/orange tail) the craft was over my car 3 blue \u201clights\u201d on corners of ceaft",
     "column-reported": "06/11/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.60876",
+    "lon": "-77.37331"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165609",
@@ -15434,10 +13506,8 @@ var nuforcData = [
     "column-reported": "12/01/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179323",
@@ -15450,10 +13520,8 @@ var nuforcData = [
     "column-reported": "11/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180846",
@@ -15466,10 +13534,8 @@ var nuforcData = [
     "column-reported": "03/16/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178524",
@@ -15482,10 +13548,8 @@ var nuforcData = [
     "column-reported": "10/05/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177015",
@@ -15498,10 +13562,8 @@ var nuforcData = [
     "column-reported": "07/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181661",
@@ -15514,26 +13576,22 @@ var nuforcData = [
     "column-reported": "05/26/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.96179",
+    "lon": "-96.82917"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190125",
     "column-occurred": "06/10/2009 03:00",
     "column-city": "Dannevirke",
-    "column-state": "Manawatū-Whanganui Region",
+    "column-state": "Manawat\u016b-Whanganui Region",
     "column-country": "New Zealand",
     "column-shape": "Unknown",
     "column-summary": "I saw a short, living being in my bedroom when I was 15 years old. Been too scared to report it for 16 years.",
     "column-reported": "06/06/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-40.9006",
-    "lon": "174.886",
-    "latitude": "-40.9006",
-    "longitude": "174.886"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181286",
@@ -15546,10 +13604,8 @@ var nuforcData = [
     "column-reported": "04/27/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.08054",
+    "lon": "-103.23101"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170146",
@@ -15562,10 +13618,8 @@ var nuforcData = [
     "column-reported": "06/29/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187999",
@@ -15578,10 +13632,8 @@ var nuforcData = [
     "column-reported": "02/27/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "51.66778",
+    "lon": "-3.2075"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182110",
@@ -15594,10 +13646,8 @@ var nuforcData = [
     "column-reported": "06/30/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.17497",
+    "lon": "-115.13722"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185493",
@@ -15610,10 +13660,8 @@ var nuforcData = [
     "column-reported": "12/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188294",
@@ -15626,10 +13674,8 @@ var nuforcData = [
     "column-reported": "03/14/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178548",
@@ -15642,10 +13688,8 @@ var nuforcData = [
     "column-reported": "10/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170383",
@@ -15658,10 +13702,8 @@ var nuforcData = [
     "column-reported": "07/06/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.4995",
+    "lon": "-81.69541"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190250",
@@ -15674,10 +13716,8 @@ var nuforcData = [
     "column-reported": "06/14/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.50024",
+    "lon": "-111.30081"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180155",
@@ -15690,10 +13730,8 @@ var nuforcData = [
     "column-reported": "01/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.6103",
+    "lon": "-114.59635"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183612",
@@ -15706,10 +13744,8 @@ var nuforcData = [
     "column-reported": "10/22/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.19458",
+    "lon": "-122.70948"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=64323",
@@ -15722,10 +13758,8 @@ var nuforcData = [
     "column-reported": "07/05/2008",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=64261",
@@ -15738,10 +13772,8 @@ var nuforcData = [
     "column-reported": "07/02/2008",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.98869",
+    "lon": "-84.47772"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180114",
@@ -15754,10 +13786,8 @@ var nuforcData = [
     "column-reported": "01/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.72493",
+    "lon": "-122.15608"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=62967",
@@ -15770,10 +13800,8 @@ var nuforcData = [
     "column-reported": "05/03/2008",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184033",
@@ -15786,10 +13814,8 @@ var nuforcData = [
     "column-reported": "11/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.88576",
+    "lon": "-122.11802"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=61043",
@@ -15802,10 +13828,8 @@ var nuforcData = [
     "column-reported": "01/20/2008",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170165",
@@ -15818,10 +13842,8 @@ var nuforcData = [
     "column-reported": "07/01/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.81135",
+    "lon": "-91.49849"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=61591",
@@ -15834,10 +13856,8 @@ var nuforcData = [
     "column-reported": "02/13/2008",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186864",
@@ -15850,10 +13870,8 @@ var nuforcData = [
     "column-reported": "01/14/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.75212",
+    "lon": "-121.28801"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183413",
@@ -15866,10 +13884,8 @@ var nuforcData = [
     "column-reported": "10/10/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.73253",
+    "lon": "-84.55553"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186790",
@@ -15882,10 +13898,8 @@ var nuforcData = [
     "column-reported": "01/12/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.09145",
+    "lon": "-84.49578"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177042",
@@ -15898,10 +13912,8 @@ var nuforcData = [
     "column-reported": "07/27/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=166837",
@@ -15914,10 +13926,8 @@ var nuforcData = [
     "column-reported": "02/19/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184208",
@@ -15930,10 +13940,8 @@ var nuforcData = [
     "column-reported": "11/16/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "46.8625",
-    "lon": "103.8467",
-    "latitude": "46.8625",
-    "longitude": "103.8467"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175547",
@@ -15946,10 +13954,8 @@ var nuforcData = [
     "column-reported": "04/28/2023",
     "column-hasimage": "",
     "column-explanation": "Planet/Star?",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.12767",
+    "lon": "-121.5508"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180210",
@@ -15962,10 +13968,8 @@ var nuforcData = [
     "column-reported": "01/28/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.13973",
+    "lon": "-118.03534"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177851",
@@ -15978,10 +13982,8 @@ var nuforcData = [
     "column-reported": "08/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=56012",
@@ -15994,10 +13996,8 @@ var nuforcData = [
     "column-reported": "03/30/2007",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.084",
+    "lon": "-77.15276"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184618",
@@ -16010,10 +14010,8 @@ var nuforcData = [
     "column-reported": "11/30/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.29876",
+    "lon": "-90.18481"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189335",
@@ -16026,10 +14024,8 @@ var nuforcData = [
     "column-reported": "05/02/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190167",
@@ -16042,10 +14038,8 @@ var nuforcData = [
     "column-reported": "06/19/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=53115",
@@ -16058,10 +14052,8 @@ var nuforcData = [
     "column-reported": "10/27/2006",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.06084",
+    "lon": "-97.92977"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187766",
@@ -16074,10 +14066,8 @@ var nuforcData = [
     "column-reported": "02/17/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.13066",
+    "lon": "-70.91616"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179448",
@@ -16090,10 +14080,8 @@ var nuforcData = [
     "column-reported": "11/24/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.25288",
+    "lon": "-122.44429"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174542",
@@ -16106,10 +14094,8 @@ var nuforcData = [
     "column-reported": "02/14/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183468",
@@ -16122,10 +14108,8 @@ var nuforcData = [
     "column-reported": "10/14/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.77205",
+    "lon": "-73.93014"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183402",
@@ -16138,10 +14122,8 @@ var nuforcData = [
     "column-reported": "10/09/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.40843",
+    "lon": "-71.05366"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178773",
@@ -16154,10 +14136,8 @@ var nuforcData = [
     "column-reported": "10/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.46756",
+    "lon": "-97.51643"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171079",
@@ -16170,10 +14150,8 @@ var nuforcData = [
     "column-reported": "08/11/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175580",
@@ -16186,10 +14164,8 @@ var nuforcData = [
     "column-reported": "04/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.22174",
+    "lon": "-110.92648"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=54781",
@@ -16202,10 +14178,8 @@ var nuforcData = [
     "column-reported": "01/16/2007",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178036",
@@ -16218,10 +14192,8 @@ var nuforcData = [
     "column-reported": "09/04/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.13968",
+    "lon": "-120.36015"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189361",
@@ -16234,10 +14206,8 @@ var nuforcData = [
     "column-reported": "05/03/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186224",
@@ -16250,10 +14220,8 @@ var nuforcData = [
     "column-reported": "12/31/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=46249",
@@ -16266,10 +14234,8 @@ var nuforcData = [
     "column-reported": "09/14/2005",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.62727",
+    "lon": "-90.19789"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178544",
@@ -16282,10 +14248,8 @@ var nuforcData = [
     "column-reported": "10/04/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "26.19063",
+    "lon": "-97.6961"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=43933",
@@ -16298,10 +14262,8 @@ var nuforcData = [
     "column-reported": "05/13/2005",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.68149",
+    "lon": "-122.20874"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=43465",
@@ -16314,10 +14276,8 @@ var nuforcData = [
     "column-reported": "04/13/2005",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.28422",
+    "lon": "-84.1555"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186105",
@@ -16330,10 +14290,8 @@ var nuforcData = [
     "column-reported": "12/28/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.64541",
+    "lon": "-85.37828"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=41489",
@@ -16346,10 +14304,8 @@ var nuforcData = [
     "column-reported": "01/12/2005",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.69804",
+    "lon": "-118.13674"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176949",
@@ -16362,10 +14318,8 @@ var nuforcData = [
     "column-reported": "07/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.73191",
+    "lon": "-93.21772"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176002",
@@ -16378,10 +14332,8 @@ var nuforcData = [
     "column-reported": "05/31/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183264",
@@ -16394,10 +14346,8 @@ var nuforcData = [
     "column-reported": "09/30/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179481",
@@ -16410,10 +14360,8 @@ var nuforcData = [
     "column-reported": "11/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.56217",
+    "lon": "-111.92966"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=39088",
@@ -16426,10 +14374,8 @@ var nuforcData = [
     "column-reported": "09/03/2004",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "64.9631",
-    "lon": "-19.0208",
-    "latitude": "64.9631",
-    "longitude": "-19.0208"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180791",
@@ -16442,10 +14388,8 @@ var nuforcData = [
     "column-reported": "03/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=36100",
@@ -16458,10 +14402,8 @@ var nuforcData = [
     "column-reported": "04/10/2004",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=35767",
@@ -16474,10 +14416,8 @@ var nuforcData = [
     "column-reported": "03/22/2004",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.01949",
+    "lon": "-118.49138"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177386",
@@ -16490,10 +14430,8 @@ var nuforcData = [
     "column-reported": "08/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=34306",
@@ -16506,10 +14444,8 @@ var nuforcData = [
     "column-reported": "01/05/2004",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "26.62168",
+    "lon": "-81.84059"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178511",
@@ -16522,10 +14458,8 @@ var nuforcData = [
     "column-reported": "09/27/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.3995",
+    "lon": "-84.56134"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=31563",
@@ -16538,10 +14472,8 @@ var nuforcData = [
     "column-reported": "09/18/2003",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.749",
+    "lon": "-84.38798"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180553",
@@ -16554,10 +14486,8 @@ var nuforcData = [
     "column-reported": "02/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "33.2232",
-    "lon": "43.6793",
-    "latitude": "33.2232",
-    "longitude": "43.6793"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180545",
@@ -16570,10 +14500,8 @@ var nuforcData = [
     "column-reported": "02/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190152",
@@ -16586,10 +14514,8 @@ var nuforcData = [
     "column-reported": "06/20/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "30.5852",
-    "lon": "36.2384",
-    "latitude": "30.5852",
-    "longitude": "36.2384"
+    "lat": "30.19624",
+    "lon": "35.73405"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=30583",
@@ -16602,10 +14528,8 @@ var nuforcData = [
     "column-reported": "08/08/2003",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181160",
@@ -16618,10 +14542,8 @@ var nuforcData = [
     "column-reported": "04/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=29665",
@@ -16634,10 +14556,8 @@ var nuforcData = [
     "column-reported": "07/11/2003",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=52687",
@@ -16650,10 +14570,8 @@ var nuforcData = [
     "column-reported": "09/29/2006",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=28647",
@@ -16666,10 +14584,8 @@ var nuforcData = [
     "column-reported": "05/02/2003",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189660",
@@ -16682,10 +14598,8 @@ var nuforcData = [
     "column-reported": "05/17/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.81371",
+    "lon": "-71.37005"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=28309",
@@ -16698,10 +14612,8 @@ var nuforcData = [
     "column-reported": "04/04/2003",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=28653",
@@ -16714,10 +14626,8 @@ var nuforcData = [
     "column-reported": "04/22/2003",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180657",
@@ -16730,10 +14640,8 @@ var nuforcData = [
     "column-reported": "03/01/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=27412",
@@ -16746,10 +14654,8 @@ var nuforcData = [
     "column-reported": "01/31/2003",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182359",
@@ -16762,10 +14668,8 @@ var nuforcData = [
     "column-reported": "07/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.25626",
+    "lon": "-95.94043"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181448",
@@ -16778,10 +14682,8 @@ var nuforcData = [
     "column-reported": "05/10/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178153",
@@ -16794,10 +14696,8 @@ var nuforcData = [
     "column-reported": "09/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180868",
@@ -16810,10 +14710,8 @@ var nuforcData = [
     "column-reported": "03/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189029",
@@ -16826,10 +14724,8 @@ var nuforcData = [
     "column-reported": "04/18/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177021",
@@ -16842,10 +14738,8 @@ var nuforcData = [
     "column-reported": "07/26/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "23.6345",
-    "lon": "-102.5528",
-    "latitude": "23.6345",
-    "longitude": "-102.5528"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176128",
@@ -16858,10 +14752,8 @@ var nuforcData = [
     "column-reported": "06/07/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.03699",
+    "lon": "-117.29198"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186925",
@@ -16874,10 +14766,8 @@ var nuforcData = [
     "column-reported": "01/17/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "54.90465",
+    "lon": "-1.38222"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190234",
@@ -16890,10 +14780,8 @@ var nuforcData = [
     "column-reported": "06/15/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "45.1",
-    "lon": "15.2",
-    "latitude": "45.1",
-    "longitude": "15.2"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175495",
@@ -16906,10 +14794,8 @@ var nuforcData = [
     "column-reported": "04/24/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182365",
@@ -16922,10 +14808,8 @@ var nuforcData = [
     "column-reported": "07/22/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.2639",
-    "lon": "9.5018",
-    "latitude": "56.2639",
-    "longitude": "9.5018"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189182",
@@ -16938,10 +14822,8 @@ var nuforcData = [
     "column-reported": "04/26/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "42.3154",
-    "lon": "43.3569",
-    "latitude": "42.3154",
-    "longitude": "43.3569"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184072",
@@ -16954,10 +14836,8 @@ var nuforcData = [
     "column-reported": "11/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182712",
@@ -16970,10 +14850,8 @@ var nuforcData = [
     "column-reported": "08/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.22232",
+    "lon": "-73.0565"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183954",
@@ -16986,10 +14864,8 @@ var nuforcData = [
     "column-reported": "11/10/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "48.3794",
-    "lon": "31.1656",
-    "latitude": "48.3794",
-    "longitude": "31.1656"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173999",
@@ -17002,10 +14878,8 @@ var nuforcData = [
     "column-reported": "01/18/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177288",
@@ -17018,10 +14892,8 @@ var nuforcData = [
     "column-reported": "08/02/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171662",
@@ -17034,10 +14906,8 @@ var nuforcData = [
     "column-reported": "09/09/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "43.5789",
+    "lon": "-79.6583"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187900",
@@ -17050,10 +14920,8 @@ var nuforcData = [
     "column-reported": "02/23/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189572",
@@ -17066,10 +14934,8 @@ var nuforcData = [
     "column-reported": "05/12/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "4.5709",
-    "lon": "-74.2973",
-    "latitude": "4.5709",
-    "longitude": "-74.2973"
+    "lat": "4.142",
+    "lon": "-73.62664"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179451",
@@ -17082,10 +14948,8 @@ var nuforcData = [
     "column-reported": "11/24/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189040",
@@ -17098,10 +14962,8 @@ var nuforcData = [
     "column-reported": "04/18/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.26391",
+    "lon": "-88.84427"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186855",
@@ -17110,14 +14972,12 @@ var nuforcData = [
     "column-state": "IN",
     "column-country": "USA",
     "column-shape": "Oval",
-    "column-summary": "Made to look like a ufo or it was a ufo. Looked rubbery no reflect of sun, floated and wobbled probably 53’ft long 10’ft tall",
+    "column-summary": "Made to look like a ufo or it was a ufo. Looked rubbery no reflect of sun, floated and wobbled probably 53\u2019ft long 10\u2019ft tall",
     "column-reported": "01/14/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183327",
@@ -17130,10 +14990,8 @@ var nuforcData = [
     "column-reported": "10/05/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.78752",
+    "lon": "-86.10893"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183029",
@@ -17146,10 +15004,8 @@ var nuforcData = [
     "column-reported": "09/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184828",
@@ -17162,10 +15018,8 @@ var nuforcData = [
     "column-reported": "12/06/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180127",
@@ -17178,10 +15032,8 @@ var nuforcData = [
     "column-reported": "01/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "50.65158",
+    "lon": "-1.16103"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186194",
@@ -17194,26 +15046,22 @@ var nuforcData = [
     "column-reported": "12/30/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187961",
     "column-occurred": "07/01/2000 23:00",
-    "column-city": "Poznań",
-    "column-state": "Województwo wielkopolskie",
+    "column-city": "Pozna\u0144",
+    "column-state": "Wojew\u00f3dztwo wielkopolskie",
     "column-country": "Poland",
     "column-shape": "Other",
     "column-summary": "An object flew over my house.",
     "column-reported": "02/26/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "51.9194",
-    "lon": "19.1451",
-    "latitude": "51.9194",
-    "longitude": "19.1451"
+    "lat": "52.40692",
+    "lon": "16.92993"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175835",
@@ -17226,10 +15074,8 @@ var nuforcData = [
     "column-reported": "05/19/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182167",
@@ -17242,10 +15088,8 @@ var nuforcData = [
     "column-reported": "07/06/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.44838",
+    "lon": "-112.07404"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188962",
@@ -17258,26 +15102,22 @@ var nuforcData = [
     "column-reported": "04/14/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.44838",
+    "lon": "-112.07404"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189133",
     "column-occurred": "04/01/2000 17:30",
     "column-city": "",
-    "column-state": "Quindío",
+    "column-state": "Quind\u00edo",
     "column-country": "Colombia",
     "column-shape": "Oval",
-    "column-summary": "Type of Report: Unidentified Flying Object Sighting Location: Armenia, Quindío, Colombia Approximate Date: 1990s or early 2000s",
+    "column-summary": "Type of Report: Unidentified Flying Object Sighting Location: Armenia, Quind\u00edo, Colombia Approximate Date: 1990s or early 2000s",
     "column-reported": "04/23/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "4.5709",
-    "lon": "-74.2973",
-    "latitude": "4.5709",
-    "longitude": "-74.2973"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172610",
@@ -17290,10 +15130,8 @@ var nuforcData = [
     "column-reported": "10/27/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=68600",
@@ -17306,10 +15144,8 @@ var nuforcData = [
     "column-reported": "02/12/2009",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184206",
@@ -17322,10 +15158,8 @@ var nuforcData = [
     "column-reported": "11/16/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181908",
@@ -17338,10 +15172,8 @@ var nuforcData = [
     "column-reported": "06/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.84402",
+    "lon": "-97.14307"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189783",
@@ -17354,10 +15186,8 @@ var nuforcData = [
     "column-reported": "05/21/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177376",
@@ -17370,10 +15200,8 @@ var nuforcData = [
     "column-reported": "08/05/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.21012",
+    "lon": "-123.19872"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176109",
@@ -17386,10 +15214,8 @@ var nuforcData = [
     "column-reported": "06/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.68372",
+    "lon": "-75.74966"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=56407",
@@ -17402,10 +15228,8 @@ var nuforcData = [
     "column-reported": "04/25/2007",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186456",
@@ -17418,10 +15242,8 @@ var nuforcData = [
     "column-reported": "01/05/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "39.0742",
-    "lon": "21.8243",
-    "latitude": "39.0742",
-    "longitude": "21.8243"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165596",
@@ -17434,10 +15256,8 @@ var nuforcData = [
     "column-reported": "11/29/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177324",
@@ -17450,10 +15270,8 @@ var nuforcData = [
     "column-reported": "08/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.10148",
+    "lon": "-72.58981"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187554",
@@ -17466,10 +15284,8 @@ var nuforcData = [
     "column-reported": "02/06/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.08449",
+    "lon": "-106.65114"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177644",
@@ -17482,10 +15298,8 @@ var nuforcData = [
     "column-reported": "08/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.76511",
+    "lon": "-76.89831"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184287",
@@ -17498,10 +15312,8 @@ var nuforcData = [
     "column-reported": "11/18/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.59593",
+    "lon": "-92.48905"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176365",
@@ -17514,10 +15326,8 @@ var nuforcData = [
     "column-reported": "06/20/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.36723",
+    "lon": "-72.51852"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185842",
@@ -17530,10 +15340,8 @@ var nuforcData = [
     "column-reported": "12/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "51.24827",
+    "lon": "-0.76389"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187827",
@@ -17546,10 +15354,8 @@ var nuforcData = [
     "column-reported": "02/19/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "53.1424",
-    "lon": "-7.6921",
-    "latitude": "53.1424",
-    "longitude": "-7.6921"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=45433",
@@ -17562,10 +15368,8 @@ var nuforcData = [
     "column-reported": "08/03/2005",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189331",
@@ -17578,10 +15382,8 @@ var nuforcData = [
     "column-reported": "05/02/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189912",
@@ -17594,10 +15396,8 @@ var nuforcData = [
     "column-reported": "05/27/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.60869",
+    "lon": "-98.39033"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183908",
@@ -17610,10 +15410,8 @@ var nuforcData = [
     "column-reported": "11/08/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.39482",
+    "lon": "-73.45401"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181244",
@@ -17626,10 +15424,8 @@ var nuforcData = [
     "column-reported": "04/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188500",
@@ -17642,10 +15438,8 @@ var nuforcData = [
     "column-reported": "03/24/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "52.9536",
+    "lon": "-1.15047"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179669",
@@ -17658,10 +15452,8 @@ var nuforcData = [
     "column-reported": "12/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=67637",
@@ -17674,10 +15466,8 @@ var nuforcData = [
     "column-reported": "12/26/2008",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188578",
@@ -17690,10 +15480,8 @@ var nuforcData = [
     "column-reported": "03/27/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "61.524",
-    "lon": "105.3188",
-    "latitude": "61.524",
-    "longitude": "105.3188"
+    "lat": "51.54056",
+    "lon": "46.00861"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185145",
@@ -17706,10 +15494,8 @@ var nuforcData = [
     "column-reported": "12/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.88753",
+    "lon": "-88.30535"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178462",
@@ -17722,10 +15508,8 @@ var nuforcData = [
     "column-reported": "09/27/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172919",
@@ -17738,10 +15522,8 @@ var nuforcData = [
     "column-reported": "11/11/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-30.5595",
-    "lon": "22.9375",
-    "latitude": "-30.5595",
-    "longitude": "22.9375"
+    "lat": "-26.66331",
+    "lon": "28.59016"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176825",
@@ -17754,10 +15536,8 @@ var nuforcData = [
     "column-reported": "07/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.50024",
+    "lon": "-111.30081"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=2496",
@@ -17770,10 +15550,8 @@ var nuforcData = [
     "column-reported": "07/08/1997",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=132106",
@@ -17786,10 +15564,8 @@ var nuforcData = [
     "column-reported": "01/09/2017",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180018",
@@ -17802,10 +15578,8 @@ var nuforcData = [
     "column-reported": "01/13/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176940",
@@ -17818,10 +15592,8 @@ var nuforcData = [
     "column-reported": "07/22/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=2047",
@@ -17834,10 +15606,8 @@ var nuforcData = [
     "column-reported": "03/03/1997",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185501",
@@ -17850,10 +15620,8 @@ var nuforcData = [
     "column-reported": "12/17/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.21421",
+    "lon": "-83.14992"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172789",
@@ -17866,10 +15634,8 @@ var nuforcData = [
     "column-reported": "11/04/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.14344",
+    "lon": "-77.20137"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176086",
@@ -17882,10 +15648,8 @@ var nuforcData = [
     "column-reported": "06/01/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185616",
@@ -17898,10 +15662,8 @@ var nuforcData = [
     "column-reported": "12/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.50931",
+    "lon": "-92.1193"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188052",
@@ -17914,10 +15676,8 @@ var nuforcData = [
     "column-reported": "03/02/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "23.6345",
-    "lon": "-102.5528",
-    "latitude": "23.6345",
-    "longitude": "-102.5528"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177595",
@@ -17930,10 +15690,8 @@ var nuforcData = [
     "column-reported": "08/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "49.24966",
+    "lon": "-123.11934"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189661",
@@ -17946,10 +15704,8 @@ var nuforcData = [
     "column-reported": "05/17/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.49428",
+    "lon": "-122.86705"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176174",
@@ -17962,10 +15718,8 @@ var nuforcData = [
     "column-reported": "06/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.22709",
+    "lon": "-80.84313"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171028",
@@ -17978,10 +15732,8 @@ var nuforcData = [
     "column-reported": "08/09/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.76306",
+    "lon": "-85.62063"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179580",
@@ -17994,10 +15746,8 @@ var nuforcData = [
     "column-reported": "12/03/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.37032",
+    "lon": "-112.58378"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176426",
@@ -18010,10 +15760,8 @@ var nuforcData = [
     "column-reported": "06/24/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.80172",
+    "lon": "-89.64371"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176207",
@@ -18026,10 +15774,8 @@ var nuforcData = [
     "column-reported": "06/11/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187319",
@@ -18042,10 +15788,8 @@ var nuforcData = [
     "column-reported": "01/29/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181740",
@@ -18058,10 +15802,8 @@ var nuforcData = [
     "column-reported": "05/31/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183709",
@@ -18074,10 +15816,8 @@ var nuforcData = [
     "column-reported": "10/17/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.9279",
+    "lon": "-122.98371"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180248",
@@ -18090,10 +15830,8 @@ var nuforcData = [
     "column-reported": "02/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=835",
@@ -18106,10 +15844,8 @@ var nuforcData = [
     "column-reported": "09/19/1995",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.71427",
+    "lon": "-74.00597"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=770",
@@ -18122,10 +15858,8 @@ var nuforcData = [
     "column-reported": "08/28/1995",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=753",
@@ -18138,10 +15872,8 @@ var nuforcData = [
     "column-reported": "08/24/1995",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176888",
@@ -18154,10 +15886,8 @@ var nuforcData = [
     "column-reported": "07/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183574",
@@ -18170,10 +15900,8 @@ var nuforcData = [
     "column-reported": "10/24/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "54.58881",
+    "lon": "-1.29034"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178555",
@@ -18186,10 +15914,8 @@ var nuforcData = [
     "column-reported": "10/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177277",
@@ -18202,10 +15928,8 @@ var nuforcData = [
     "column-reported": "07/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "53.30182",
+    "lon": "-1.12404"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177088",
@@ -18218,10 +15942,8 @@ var nuforcData = [
     "column-reported": "07/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "53.30182",
+    "lon": "-1.12404"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185939",
@@ -18234,10 +15956,8 @@ var nuforcData = [
     "column-reported": "12/24/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "51.1657",
-    "lon": "10.4515",
-    "latitude": "51.1657",
-    "longitude": "10.4515"
+    "lat": "50.77538",
+    "lon": "7.197"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183938",
@@ -18250,10 +15970,8 @@ var nuforcData = [
     "column-reported": "11/09/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.76843",
+    "lon": "-73.52513"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177429",
@@ -18266,10 +15984,8 @@ var nuforcData = [
     "column-reported": "08/08/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.6501",
+    "lon": "-73.94958"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189813",
@@ -18282,10 +15998,8 @@ var nuforcData = [
     "column-reported": "05/23/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185908",
@@ -18298,10 +16012,8 @@ var nuforcData = [
     "column-reported": "12/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182305",
@@ -18314,10 +16026,8 @@ var nuforcData = [
     "column-reported": "07/16/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=114",
@@ -18330,10 +16040,8 @@ var nuforcData = [
     "column-reported": "02/03/1995",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.76306",
+    "lon": "-85.62063"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=250",
@@ -18346,10 +16054,8 @@ var nuforcData = [
     "column-reported": "01/07/1995",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.21012",
+    "lon": "-123.19872"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175932",
@@ -18362,10 +16068,8 @@ var nuforcData = [
     "column-reported": "05/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=226",
@@ -18378,10 +16082,8 @@ var nuforcData = [
     "column-reported": "01/01/1995",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.80136",
+    "lon": "-91.23958"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179733",
@@ -18394,10 +16096,8 @@ var nuforcData = [
     "column-reported": "12/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180524",
@@ -18410,10 +16110,8 @@ var nuforcData = [
     "column-reported": "02/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.96095",
+    "lon": "-83.37794"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178429",
@@ -18426,10 +16124,8 @@ var nuforcData = [
     "column-reported": "09/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.79895",
+    "lon": "-81.37845"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174608",
@@ -18442,10 +16138,8 @@ var nuforcData = [
     "column-reported": "02/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.83892",
+    "lon": "-89.47955"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186608",
@@ -18458,10 +16152,8 @@ var nuforcData = [
     "column-reported": "01/08/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180199",
@@ -18474,10 +16166,8 @@ var nuforcData = [
     "column-reported": "01/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.53834",
+    "lon": "-81.37924"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184423",
@@ -18490,10 +16180,8 @@ var nuforcData = [
     "column-reported": "11/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.23565",
+    "lon": "-122.5504"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=43302",
@@ -18506,10 +16194,8 @@ var nuforcData = [
     "column-reported": "04/02/2005",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "-30.0",
-    "latitude": "0.0",
-    "longitude": "-30.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189370",
@@ -18522,10 +16208,8 @@ var nuforcData = [
     "column-reported": "05/04/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.2639",
-    "lon": "9.5018",
-    "latitude": "56.2639",
-    "longitude": "9.5018"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185709",
@@ -18538,10 +16222,8 @@ var nuforcData = [
     "column-reported": "12/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.64086",
+    "lon": "-117.6031"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186924",
@@ -18554,10 +16236,8 @@ var nuforcData = [
     "column-reported": "01/17/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182439",
@@ -18570,10 +16250,8 @@ var nuforcData = [
     "column-reported": "07/31/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.06022",
+    "lon": "-111.97105"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186296",
@@ -18586,10 +16264,8 @@ var nuforcData = [
     "column-reported": "01/01/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "46.1512",
-    "lon": "14.9955",
-    "latitude": "46.1512",
-    "longitude": "14.9955"
+    "lat": "46.155",
+    "lon": "15.05333"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183370",
@@ -18602,10 +16278,8 @@ var nuforcData = [
     "column-reported": "10/07/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.08339",
+    "lon": "-88.60005"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177087",
@@ -18618,10 +16292,8 @@ var nuforcData = [
     "column-reported": "07/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=144954",
@@ -18634,10 +16306,8 @@ var nuforcData = [
     "column-reported": "02/19/2019",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.98869",
+    "lon": "-84.47772"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183810",
@@ -18650,10 +16320,8 @@ var nuforcData = [
     "column-reported": "11/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178651",
@@ -18666,10 +16334,8 @@ var nuforcData = [
     "column-reported": "09/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "27.16783",
+    "lon": "-80.26616"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177514",
@@ -18682,10 +16348,8 @@ var nuforcData = [
     "column-reported": "08/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "36.2048",
-    "lon": "138.2529",
-    "latitude": "36.2048",
-    "longitude": "138.2529"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188592",
@@ -18698,10 +16362,8 @@ var nuforcData = [
     "column-reported": "03/28/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.71571",
+    "lon": "-117.16472"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179478",
@@ -18714,10 +16376,8 @@ var nuforcData = [
     "column-reported": "11/25/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.14251",
+    "lon": "-118.25508"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185053",
@@ -18730,10 +16390,8 @@ var nuforcData = [
     "column-reported": "12/12/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187033",
@@ -18746,10 +16404,8 @@ var nuforcData = [
     "column-reported": "01/21/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165828",
@@ -18762,10 +16418,8 @@ var nuforcData = [
     "column-reported": "12/12/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176265",
@@ -18778,10 +16432,8 @@ var nuforcData = [
     "column-reported": "06/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181259",
@@ -18794,10 +16446,8 @@ var nuforcData = [
     "column-reported": "04/24/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183026",
@@ -18810,10 +16460,8 @@ var nuforcData = [
     "column-reported": "09/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.77493",
+    "lon": "-122.41942"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179373",
@@ -18826,10 +16474,8 @@ var nuforcData = [
     "column-reported": "11/13/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184291",
@@ -18842,10 +16488,8 @@ var nuforcData = [
     "column-reported": "11/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "53.1424",
-    "lon": "-7.6921",
-    "latitude": "53.1424",
-    "longitude": "-7.6921"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=139102",
@@ -18858,10 +16502,8 @@ var nuforcData = [
     "column-reported": "03/06/2018",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "28.0339",
-    "lon": "1.6596",
-    "latitude": "28.0339",
-    "longitude": "1.6596"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176367",
@@ -18874,10 +16516,8 @@ var nuforcData = [
     "column-reported": "06/20/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "31.05601",
+    "lon": "-97.46445"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182138",
@@ -18890,26 +16530,22 @@ var nuforcData = [
     "column-reported": "07/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174952",
     "column-occurred": "01/18/1991 23:00",
     "column-city": "Szolnok",
-    "column-state": "Jász-Nagykun-Szolnok County",
+    "column-state": "J\u00e1sz-Nagykun-Szolnok County",
     "column-country": "Hungary",
     "column-shape": "Other",
     "column-summary": "Large bright object slowly and silently glided across the sky, then instantly accelerated and disappeared.",
     "column-reported": "03/10/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "47.1625",
-    "lon": "19.5033",
-    "latitude": "47.1625",
-    "longitude": "19.5033"
+    "lat": "47.18333",
+    "lon": "20.2"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184612",
@@ -18922,26 +16558,22 @@ var nuforcData = [
     "column-reported": "11/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176869",
     "column-occurred": "10/24/1990 18:00",
     "column-city": "Mutiple places Kelme, Aukstelke, Siauliai",
-    "column-state": "Šiauliai District Municipality",
+    "column-state": "\u0160iauliai District Municipality",
     "column-country": "Lithuania",
     "column-shape": "Disk",
     "column-summary": "Disc shaped or upside down hat shaped craft with lights around it.",
     "column-reported": "07/20/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.1694",
-    "lon": "23.8813",
-    "latitude": "55.1694",
-    "longitude": "23.8813"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185236",
@@ -18954,10 +16586,8 @@ var nuforcData = [
     "column-reported": "12/14/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.55376",
+    "lon": "-77.46026"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174678",
@@ -18970,10 +16600,8 @@ var nuforcData = [
     "column-reported": "02/20/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176003",
@@ -18986,10 +16614,8 @@ var nuforcData = [
     "column-reported": "05/31/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189762",
@@ -19002,10 +16628,8 @@ var nuforcData = [
     "column-reported": "05/20/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.42734",
+    "lon": "-75.23408"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179710",
@@ -19018,10 +16642,8 @@ var nuforcData = [
     "column-reported": "12/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179905",
@@ -19034,10 +16656,8 @@ var nuforcData = [
     "column-reported": "12/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.89511",
+    "lon": "-77.03637"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179819",
@@ -19050,10 +16670,8 @@ var nuforcData = [
     "column-reported": "01/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.27205",
+    "lon": "-76.73192"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184603",
@@ -19066,10 +16684,8 @@ var nuforcData = [
     "column-reported": "11/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "28.0339",
-    "lon": "1.6596",
-    "latitude": "28.0339",
-    "longitude": "1.6596"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=164502",
@@ -19082,10 +16698,8 @@ var nuforcData = [
     "column-reported": "09/04/2021",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185849",
@@ -19098,10 +16712,8 @@ var nuforcData = [
     "column-reported": "12/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "31.54933",
+    "lon": "-97.14667"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178514",
@@ -19114,10 +16726,8 @@ var nuforcData = [
     "column-reported": "09/27/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "49.10635",
+    "lon": "-122.82509"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186454",
@@ -19130,10 +16740,8 @@ var nuforcData = [
     "column-reported": "01/05/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.78095",
+    "lon": "-122.53343"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184831",
@@ -19146,10 +16754,8 @@ var nuforcData = [
     "column-reported": "12/06/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "27.80058",
+    "lon": "-97.39638"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181203",
@@ -19162,10 +16768,8 @@ var nuforcData = [
     "column-reported": "04/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180144",
@@ -19178,10 +16782,8 @@ var nuforcData = [
     "column-reported": "01/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189408",
@@ -19194,10 +16796,8 @@ var nuforcData = [
     "column-reported": "05/06/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.25424",
+    "lon": "-85.75941"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182027",
@@ -19210,10 +16810,8 @@ var nuforcData = [
     "column-reported": "06/24/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.58157",
+    "lon": "-121.4944"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183190",
@@ -19226,10 +16824,8 @@ var nuforcData = [
     "column-reported": "09/25/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187179",
@@ -19242,10 +16838,8 @@ var nuforcData = [
     "column-reported": "01/25/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.48148",
+    "lon": "-73.21317"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184759",
@@ -19258,10 +16852,8 @@ var nuforcData = [
     "column-reported": "12/04/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.25288",
+    "lon": "-122.44429"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174978",
@@ -19274,10 +16866,8 @@ var nuforcData = [
     "column-reported": "03/11/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.83529",
+    "lon": "-117.9145"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175462",
@@ -19290,10 +16880,8 @@ var nuforcData = [
     "column-reported": "04/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.14121",
+    "lon": "-73.26373"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181883",
@@ -19306,10 +16894,8 @@ var nuforcData = [
     "column-reported": "06/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.39437",
+    "lon": "-104.52491"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184114",
@@ -19322,10 +16908,8 @@ var nuforcData = [
     "column-reported": "11/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190281",
@@ -19338,10 +16922,8 @@ var nuforcData = [
     "column-reported": "06/12/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "53.92527",
+    "lon": "-3.01085"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178326",
@@ -19354,10 +16936,8 @@ var nuforcData = [
     "column-reported": "09/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.01949",
+    "lon": "-118.49138"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185246",
@@ -19370,10 +16950,8 @@ var nuforcData = [
     "column-reported": "12/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186443",
@@ -19386,10 +16964,8 @@ var nuforcData = [
     "column-reported": "01/05/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.09978",
+    "lon": "-80.64952"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178034",
@@ -19402,10 +16978,8 @@ var nuforcData = [
     "column-reported": "09/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182005",
@@ -19418,10 +16992,8 @@ var nuforcData = [
     "column-reported": "06/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170405",
@@ -19434,10 +17006,8 @@ var nuforcData = [
     "column-reported": "07/13/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.20091",
+    "lon": "-84.87328"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173307",
@@ -19450,10 +17020,8 @@ var nuforcData = [
     "column-reported": "12/06/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177971",
@@ -19466,10 +17034,8 @@ var nuforcData = [
     "column-reported": "09/02/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.96118",
+    "lon": "-82.99879"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188533",
@@ -19482,10 +17048,8 @@ var nuforcData = [
     "column-reported": "03/25/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179523",
@@ -19498,10 +17062,8 @@ var nuforcData = [
     "column-reported": "11/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.76511",
+    "lon": "-76.89831"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180043",
@@ -19514,10 +17076,8 @@ var nuforcData = [
     "column-reported": "01/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.22174",
+    "lon": "-110.92648"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178716",
@@ -19530,10 +17090,8 @@ var nuforcData = [
     "column-reported": "10/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.02224",
+    "lon": "-81.73286"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178780",
@@ -19546,10 +17104,8 @@ var nuforcData = [
     "column-reported": "10/09/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.02224",
+    "lon": "-81.73286"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180235",
@@ -19562,10 +17118,8 @@ var nuforcData = [
     "column-reported": "01/30/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171356",
@@ -19578,10 +17132,8 @@ var nuforcData = [
     "column-reported": "08/24/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "43.21285",
+    "lon": "-75.45573"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174645",
@@ -19594,10 +17146,8 @@ var nuforcData = [
     "column-reported": "02/18/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.64463",
+    "lon": "-121.27217"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187956",
@@ -19610,10 +17160,8 @@ var nuforcData = [
     "column-reported": "02/25/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178824",
@@ -19626,10 +17174,8 @@ var nuforcData = [
     "column-reported": "10/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.17923",
+    "lon": "-73.18945"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182696",
@@ -19642,10 +17188,8 @@ var nuforcData = [
     "column-reported": "08/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171261",
@@ -19658,10 +17202,8 @@ var nuforcData = [
     "column-reported": "08/20/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182864",
@@ -19674,10 +17216,8 @@ var nuforcData = [
     "column-reported": "08/31/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.32226",
+    "lon": "-83.17631"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180757",
@@ -19690,10 +17230,8 @@ var nuforcData = [
     "column-reported": "03/08/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=38086",
@@ -19702,14 +17240,12 @@ var nuforcData = [
     "column-state": "",
     "column-country": "Unspecified",
     "column-shape": "",
-    "column-summary": "Hi, I’m writing to you because I wanted to talk to someone professional about my experiences. Never have I heard anyone talk about wha",
+    "column-summary": "Hi, I\u2019m writing to you because I wanted to talk to someone professional about my experiences. Never have I heard anyone talk about wha",
     "column-reported": "07/13/2004",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179877",
@@ -19722,10 +17258,8 @@ var nuforcData = [
     "column-reported": "12/29/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188641",
@@ -19734,14 +17268,12 @@ var nuforcData = [
     "column-state": "NY",
     "column-country": "USA",
     "column-shape": "Disk",
-    "column-summary": "A craft with pulsing red and green lights on it’s ends",
+    "column-summary": "A craft with pulsing red and green lights on it\u2019s ends",
     "column-reported": "03/31/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186846",
@@ -19754,10 +17286,8 @@ var nuforcData = [
     "column-reported": "01/13/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182529",
@@ -19770,10 +17300,8 @@ var nuforcData = [
     "column-reported": "08/06/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.43826",
+    "lon": "-84.28073"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=67734",
@@ -19786,10 +17314,8 @@ var nuforcData = [
     "column-reported": "12/30/2008",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.42639",
+    "lon": "-117.30088"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175579",
@@ -19802,10 +17328,8 @@ var nuforcData = [
     "column-reported": "04/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.80345",
+    "lon": "-76.9897"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177707",
@@ -19818,10 +17342,8 @@ var nuforcData = [
     "column-reported": "08/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.98526",
+    "lon": "-104.82053"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182969",
@@ -19834,10 +17356,8 @@ var nuforcData = [
     "column-reported": "09/08/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181929",
@@ -19850,10 +17370,8 @@ var nuforcData = [
     "column-reported": "06/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183114",
@@ -19866,10 +17384,8 @@ var nuforcData = [
     "column-reported": "09/20/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183339",
@@ -19882,10 +17398,8 @@ var nuforcData = [
     "column-reported": "10/06/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177732",
@@ -19898,10 +17412,8 @@ var nuforcData = [
     "column-reported": "08/20/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.10148",
+    "lon": "-72.58981"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183628",
@@ -19914,10 +17426,8 @@ var nuforcData = [
     "column-reported": "10/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.58486",
+    "lon": "-80.81007"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189850",
@@ -19930,10 +17440,8 @@ var nuforcData = [
     "column-reported": "05/25/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=38281",
@@ -19946,10 +17454,8 @@ var nuforcData = [
     "column-reported": "07/23/2004",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.61427",
+    "lon": "-85.83496"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178736",
@@ -19962,10 +17468,8 @@ var nuforcData = [
     "column-reported": "10/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180102",
@@ -19978,10 +17482,8 @@ var nuforcData = [
     "column-reported": "01/19/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "51.99334",
+    "lon": "-0.73471"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174586",
@@ -19994,10 +17496,8 @@ var nuforcData = [
     "column-reported": "02/15/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.05223",
+    "lon": "-118.24368"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183794",
@@ -20010,10 +17510,8 @@ var nuforcData = [
     "column-reported": "10/31/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "54.90465",
+    "lon": "-1.38222"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174868",
@@ -20026,10 +17524,8 @@ var nuforcData = [
     "column-reported": "03/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=162710",
@@ -20042,10 +17538,8 @@ var nuforcData = [
     "column-reported": "04/16/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.86649",
+    "lon": "-73.03566"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178201",
@@ -20058,10 +17552,8 @@ var nuforcData = [
     "column-reported": "09/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.22957",
+    "lon": "-80.41394"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181232",
@@ -20074,10 +17566,8 @@ var nuforcData = [
     "column-reported": "04/21/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.08676",
+    "lon": "-89.81009"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181248",
@@ -20090,10 +17580,8 @@ var nuforcData = [
     "column-reported": "04/24/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189845",
@@ -20106,10 +17594,8 @@ var nuforcData = [
     "column-reported": "05/25/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170113",
@@ -20122,10 +17608,8 @@ var nuforcData = [
     "column-reported": "06/27/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.75095",
+    "lon": "-77.47527"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181946",
@@ -20138,10 +17622,8 @@ var nuforcData = [
     "column-reported": "06/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188612",
@@ -20154,10 +17636,8 @@ var nuforcData = [
     "column-reported": "03/29/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176660",
@@ -20170,10 +17650,8 @@ var nuforcData = [
     "column-reported": "07/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.35843",
+    "lon": "-71.05977"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183754",
@@ -20186,10 +17664,8 @@ var nuforcData = [
     "column-reported": "10/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177270",
@@ -20202,10 +17678,8 @@ var nuforcData = [
     "column-reported": "07/29/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181699",
@@ -20218,10 +17692,8 @@ var nuforcData = [
     "column-reported": "06/03/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.99251",
+    "lon": "-117.51644"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178650",
@@ -20234,10 +17706,8 @@ var nuforcData = [
     "column-reported": "09/30/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.21197",
+    "lon": "-88.23814"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181155",
@@ -20250,10 +17720,8 @@ var nuforcData = [
     "column-reported": "04/14/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.39166",
+    "lon": "-118.54259"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178272",
@@ -20266,10 +17734,8 @@ var nuforcData = [
     "column-reported": "09/13/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175564",
@@ -20282,10 +17748,8 @@ var nuforcData = [
     "column-reported": "05/01/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=29019",
@@ -20298,10 +17762,8 @@ var nuforcData = [
     "column-reported": "06/01/2003",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=35806",
@@ -20314,10 +17776,8 @@ var nuforcData = [
     "column-reported": "03/24/2004",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182601",
@@ -20330,10 +17790,8 @@ var nuforcData = [
     "column-reported": "08/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "25.77427",
+    "lon": "-80.19366"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170084",
@@ -20346,10 +17804,8 @@ var nuforcData = [
     "column-reported": "06/26/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.55376",
+    "lon": "-77.46026"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183724",
@@ -20362,10 +17818,8 @@ var nuforcData = [
     "column-reported": "10/16/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.5023",
+    "lon": "-97.95781"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185008",
@@ -20378,10 +17832,8 @@ var nuforcData = [
     "column-reported": "12/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.71571",
+    "lon": "-117.16472"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185002",
@@ -20394,10 +17846,8 @@ var nuforcData = [
     "column-reported": "12/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.85343",
+    "lon": "-73.41151"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175119",
@@ -20410,10 +17860,8 @@ var nuforcData = [
     "column-reported": "03/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179931",
@@ -20426,10 +17874,8 @@ var nuforcData = [
     "column-reported": "12/22/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "56.1304",
-    "lon": "-106.3468",
-    "latitude": "56.1304",
-    "longitude": "-106.3468"
+    "lat": "44.00012",
+    "lon": "-77.24946"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176162",
@@ -20442,10 +17888,8 @@ var nuforcData = [
     "column-reported": "06/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.76954",
+    "lon": "-92.26709"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=9958",
@@ -20458,10 +17902,8 @@ var nuforcData = [
     "column-reported": "09/29/1999",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "24.0",
-    "lon": "-65.0",
-    "latitude": "24.0",
-    "longitude": "-65.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184357",
@@ -20474,10 +17916,8 @@ var nuforcData = [
     "column-reported": "11/19/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.76328",
+    "lon": "-95.36327"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170177",
@@ -20490,10 +17930,8 @@ var nuforcData = [
     "column-reported": "07/01/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.60095",
+    "lon": "-82.55402"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177031",
@@ -20506,10 +17944,8 @@ var nuforcData = [
     "column-reported": "07/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.16533",
+    "lon": "-86.52639"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=30517",
@@ -20522,10 +17958,8 @@ var nuforcData = [
     "column-reported": "08/04/2003",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.70094",
+    "lon": "-73.71291"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179973",
@@ -20538,10 +17972,8 @@ var nuforcData = [
     "column-reported": "01/09/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "44.7433",
+    "lon": "-92.85243"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184993",
@@ -20554,10 +17986,8 @@ var nuforcData = [
     "column-reported": "12/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.71571",
+    "lon": "-117.16472"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180662",
@@ -20570,10 +18000,8 @@ var nuforcData = [
     "column-reported": "03/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.33939",
+    "lon": "-121.89496"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182324",
@@ -20586,10 +18014,8 @@ var nuforcData = [
     "column-reported": "07/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176768",
@@ -20602,10 +18028,8 @@ var nuforcData = [
     "column-reported": "07/14/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.78121",
+    "lon": "-73.24623"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=49035",
@@ -20618,10 +18042,8 @@ var nuforcData = [
     "column-reported": "02/06/2006",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.05223",
+    "lon": "-118.24368"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181756",
@@ -20634,10 +18056,8 @@ var nuforcData = [
     "column-reported": "05/30/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.94798",
+    "lon": "-122.0608"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175140",
@@ -20650,10 +18070,8 @@ var nuforcData = [
     "column-reported": "03/27/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.74773",
+    "lon": "-119.77237"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170292",
@@ -20666,10 +18084,8 @@ var nuforcData = [
     "column-reported": "07/11/2022",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.78306",
+    "lon": "-96.80667"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177109",
@@ -20682,10 +18098,8 @@ var nuforcData = [
     "column-reported": "07/29/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "51.17423",
+    "lon": "-0.15919"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182482",
@@ -20698,10 +18112,8 @@ var nuforcData = [
     "column-reported": "08/03/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181687",
@@ -20714,10 +18126,8 @@ var nuforcData = [
     "column-reported": "05/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.99409",
+    "lon": "-90.24174"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182017",
@@ -20730,10 +18140,8 @@ var nuforcData = [
     "column-reported": "06/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.81144",
+    "lon": "-90.85291"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183752",
@@ -20746,10 +18154,8 @@ var nuforcData = [
     "column-reported": "10/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189690",
@@ -20762,10 +18168,8 @@ var nuforcData = [
     "column-reported": "05/18/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "48.3794",
-    "lon": "31.1656",
-    "latitude": "48.3794",
-    "longitude": "31.1656"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180475",
@@ -20778,10 +18182,8 @@ var nuforcData = [
     "column-reported": "02/18/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.33939",
+    "lon": "-121.89496"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176934",
@@ -20794,10 +18196,8 @@ var nuforcData = [
     "column-reported": "07/22/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178430",
@@ -20810,10 +18210,8 @@ var nuforcData = [
     "column-reported": "09/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.48509",
+    "lon": "-71.43284"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187251",
@@ -20826,10 +18224,8 @@ var nuforcData = [
     "column-reported": "01/27/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181007",
@@ -20842,10 +18238,8 @@ var nuforcData = [
     "column-reported": "04/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.66946",
+    "lon": "-117.82311"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173121",
@@ -20858,10 +18252,8 @@ var nuforcData = [
     "column-reported": "11/19/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.01949",
+    "lon": "-118.49138"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178404",
@@ -20874,10 +18266,8 @@ var nuforcData = [
     "column-reported": "09/21/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "6.4238",
-    "lon": "-66.5897",
-    "latitude": "6.4238",
-    "longitude": "-66.5897"
+    "lat": "10.48801",
+    "lon": "-66.87919"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190480",
@@ -20890,10 +18280,8 @@ var nuforcData = [
     "column-reported": "06/24/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.417",
+    "lon": "-81.60596"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177287",
@@ -20906,10 +18294,8 @@ var nuforcData = [
     "column-reported": "08/02/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165848",
@@ -20922,10 +18308,8 @@ var nuforcData = [
     "column-reported": "12/13/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.24038",
+    "lon": "-76.83942"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184917",
@@ -20938,10 +18322,8 @@ var nuforcData = [
     "column-reported": "12/08/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.68372",
+    "lon": "-75.74966"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182258",
@@ -20954,10 +18336,8 @@ var nuforcData = [
     "column-reported": "07/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.62246",
+    "lon": "-117.6709"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=43303",
@@ -20970,10 +18350,8 @@ var nuforcData = [
     "column-reported": "04/03/2005",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180667",
@@ -20986,10 +18364,8 @@ var nuforcData = [
     "column-reported": "03/02/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179117",
@@ -21002,10 +18378,8 @@ var nuforcData = [
     "column-reported": "10/26/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.37642",
+    "lon": "-117.25115"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=34726",
@@ -21018,10 +18392,8 @@ var nuforcData = [
     "column-reported": "01/28/2004",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "30.29469",
+    "lon": "-81.39314"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179507",
@@ -21034,10 +18406,8 @@ var nuforcData = [
     "column-reported": "11/26/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175153",
@@ -21050,10 +18420,8 @@ var nuforcData = [
     "column-reported": "03/29/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.05266",
+    "lon": "-78.87836"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180358",
@@ -21066,10 +18434,8 @@ var nuforcData = [
     "column-reported": "02/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181851",
@@ -21082,10 +18448,8 @@ var nuforcData = [
     "column-reported": "06/13/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.92506",
+    "lon": "-86.86889"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179746",
@@ -21098,10 +18462,8 @@ var nuforcData = [
     "column-reported": "12/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.27954",
+    "lon": "-72.59843"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=76914",
@@ -21114,10 +18476,8 @@ var nuforcData = [
     "column-reported": "07/31/2010",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177639",
@@ -21130,10 +18490,8 @@ var nuforcData = [
     "column-reported": "08/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.30428",
+    "lon": "-73.99236"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176165",
@@ -21146,10 +18504,8 @@ var nuforcData = [
     "column-reported": "06/09/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.95465",
+    "lon": "-90.07507"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=175816",
@@ -21162,10 +18518,8 @@ var nuforcData = [
     "column-reported": "05/17/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.08419",
+    "lon": "-88.01313"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165820",
@@ -21178,10 +18532,8 @@ var nuforcData = [
     "column-reported": "12/11/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.04114",
+    "lon": "-87.69006"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180807",
@@ -21194,10 +18546,8 @@ var nuforcData = [
     "column-reported": "03/12/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188428",
@@ -21210,10 +18560,8 @@ var nuforcData = [
     "column-reported": "03/19/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "32.4279",
-    "lon": "53.688",
-    "latitude": "32.4279",
-    "longitude": "53.688"
+    "lat": "35.69439",
+    "lon": "51.42151"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188590",
@@ -21226,10 +18574,8 @@ var nuforcData = [
     "column-reported": "03/28/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.09789",
+    "lon": "-74.21764"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172228",
@@ -21242,10 +18588,8 @@ var nuforcData = [
     "column-reported": "08/17/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.41925",
+    "lon": "-82.44515"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=46868",
@@ -21258,10 +18602,8 @@ var nuforcData = [
     "column-reported": "10/08/2005",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-30.5595",
-    "lon": "22.9375",
-    "latitude": "-30.5595",
-    "longitude": "22.9375"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=146059",
@@ -21274,10 +18616,8 @@ var nuforcData = [
     "column-reported": "05/10/2019",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.80065",
+    "lon": "-73.12122"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177375",
@@ -21290,10 +18630,8 @@ var nuforcData = [
     "column-reported": "08/05/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "20.5937",
-    "lon": "78.9629",
-    "latitude": "20.5937",
-    "longitude": "78.9629"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177984",
@@ -21306,10 +18644,8 @@ var nuforcData = [
     "column-reported": "09/03/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "45.08469",
+    "lon": "-93.00994"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183324",
@@ -21322,10 +18658,8 @@ var nuforcData = [
     "column-reported": "10/05/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-4.0383",
-    "lon": "21.7587",
-    "latitude": "-4.0383",
-    "longitude": "21.7587"
+    "lat": "-4.32758",
+    "lon": "15.31357"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189514",
@@ -21338,10 +18672,8 @@ var nuforcData = [
     "column-reported": "05/10/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184975",
@@ -21354,10 +18686,8 @@ var nuforcData = [
     "column-reported": "12/10/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-30.5595",
-    "lon": "22.9375",
-    "latitude": "-30.5595",
-    "longitude": "22.9375"
+    "lat": "-29.12107",
+    "lon": "26.214"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183966",
@@ -21366,14 +18696,12 @@ var nuforcData = [
     "column-state": "MA",
     "column-country": "USA",
     "column-shape": "Sphere",
-    "column-summary": "30’ Diameter orange spear about 100’ above the tree line",
+    "column-summary": "30\u2019 Diameter orange spear about 100\u2019 above the tree line",
     "column-reported": "11/09/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.91678",
+    "lon": "-75.15546"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188852",
@@ -21382,14 +18710,12 @@ var nuforcData = [
     "column-state": "Tehran Province",
     "column-country": "Iran",
     "column-shape": "Disk",
-    "column-summary": "“Saw a large, dome-shaped UFO with revolving colored lights. It moved instantly, defied gravity, and appeared in front of me",
+    "column-summary": "\u201cSaw a large, dome-shaped UFO with revolving colored lights. It moved instantly, defied gravity, and appeared in front of me",
     "column-reported": "04/11/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "32.4279",
-    "lon": "53.688",
-    "latitude": "32.4279",
-    "longitude": "53.688"
+    "lat": "35.69439",
+    "lon": "51.42151"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188801",
@@ -21402,10 +18728,8 @@ var nuforcData = [
     "column-reported": "04/09/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "32.4279",
-    "lon": "53.688",
-    "latitude": "32.4279",
-    "longitude": "53.688"
+    "lat": "35.69439",
+    "lon": "51.42151"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=29623",
@@ -21418,10 +18742,8 @@ var nuforcData = [
     "column-reported": "07/08/2003",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176007",
@@ -21434,10 +18756,8 @@ var nuforcData = [
     "column-reported": "06/01/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "28.62778",
+    "lon": "-81.36312"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177327",
@@ -21450,10 +18770,8 @@ var nuforcData = [
     "column-reported": "08/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177496",
@@ -21466,10 +18784,8 @@ var nuforcData = [
     "column-reported": "08/10/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188762",
@@ -21482,10 +18798,8 @@ var nuforcData = [
     "column-reported": "04/07/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "54.90465",
+    "lon": "-1.38222"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183485",
@@ -21498,10 +18812,8 @@ var nuforcData = [
     "column-reported": "10/27/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.72943",
+    "lon": "-104.83192"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=172130",
@@ -21514,10 +18826,8 @@ var nuforcData = [
     "column-reported": "10/02/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183609",
@@ -21530,10 +18840,8 @@ var nuforcData = [
     "column-reported": "10/22/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "51.1657",
-    "lon": "10.4515",
-    "latitude": "51.1657",
-    "longitude": "10.4515"
+    "lat": "50.73438",
+    "lon": "7.09549"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186075",
@@ -21546,10 +18854,8 @@ var nuforcData = [
     "column-reported": "12/27/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176553",
@@ -21562,10 +18868,8 @@ var nuforcData = [
     "column-reported": "07/02/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184170",
@@ -21578,10 +18882,8 @@ var nuforcData = [
     "column-reported": "11/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.55376",
+    "lon": "-77.46026"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186944",
@@ -21594,10 +18896,8 @@ var nuforcData = [
     "column-reported": "01/17/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "30.3753",
-    "lon": "69.3451",
-    "latitude": "30.3753",
-    "longitude": "69.3451"
+    "lat": "34.008",
+    "lon": "71.57849"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174017",
@@ -21610,10 +18910,8 @@ var nuforcData = [
     "column-reported": "01/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.07264",
+    "lon": "-79.79198"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=123342",
@@ -21626,10 +18924,8 @@ var nuforcData = [
     "column-reported": "11/02/2015",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "31.84568",
+    "lon": "-102.36764"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184992",
@@ -21642,10 +18938,8 @@ var nuforcData = [
     "column-reported": "12/11/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=183198",
@@ -21658,10 +18952,8 @@ var nuforcData = [
     "column-reported": "09/25/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176387",
@@ -21674,10 +18966,8 @@ var nuforcData = [
     "column-reported": "06/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.71368",
+    "lon": "-82.59933"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179766",
@@ -21690,10 +18980,8 @@ var nuforcData = [
     "column-reported": "12/19/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.64284",
+    "lon": "-84.28661"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177067",
@@ -21706,10 +18994,8 @@ var nuforcData = [
     "column-reported": "07/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177410",
@@ -21722,10 +19008,8 @@ var nuforcData = [
     "column-reported": "08/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "38.25424",
+    "lon": "-85.75941"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=4192",
@@ -21738,10 +19022,8 @@ var nuforcData = [
     "column-reported": "07/02/1998",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177654",
@@ -21754,10 +19036,8 @@ var nuforcData = [
     "column-reported": "08/16/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.02001",
+    "lon": "-117.94951"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176647",
@@ -21770,10 +19050,8 @@ var nuforcData = [
     "column-reported": "07/08/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.73061",
+    "lon": "-88.93313"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187023",
@@ -21786,10 +19064,8 @@ var nuforcData = [
     "column-reported": "01/20/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "34.94957",
+    "lon": "-81.93205"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=124892",
@@ -21802,10 +19078,8 @@ var nuforcData = [
     "column-reported": "12/24/2015",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176099",
@@ -21818,10 +19092,8 @@ var nuforcData = [
     "column-reported": "06/06/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181307",
@@ -21834,10 +19106,8 @@ var nuforcData = [
     "column-reported": "04/28/2024",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184559",
@@ -21850,10 +19120,8 @@ var nuforcData = [
     "column-reported": "11/27/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177300",
@@ -21866,10 +19134,8 @@ var nuforcData = [
     "column-reported": "08/04/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "-25.2744",
-    "lon": "133.7751",
-    "latitude": "-25.2744",
-    "longitude": "133.7751"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=188591",
@@ -21882,10 +19148,8 @@ var nuforcData = [
     "column-reported": "03/28/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "40.72982",
+    "lon": "-73.21039"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=179081",
@@ -21898,10 +19162,8 @@ var nuforcData = [
     "column-reported": "10/23/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.38592",
+    "lon": "-94.39855"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=165578",
@@ -21914,10 +19176,8 @@ var nuforcData = [
     "column-reported": "11/27/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "55.3781",
-    "lon": "-3.436",
-    "latitude": "55.3781",
-    "longitude": "-3.436"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185915",
@@ -21930,10 +19190,8 @@ var nuforcData = [
     "column-reported": "12/23/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "37.54827",
+    "lon": "-121.98857"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184508",
@@ -21946,10 +19204,8 @@ var nuforcData = [
     "column-reported": "11/25/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182655",
@@ -21962,10 +19218,8 @@ var nuforcData = [
     "column-reported": "08/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.83585",
+    "lon": "-118.34063"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=185741",
@@ -21978,10 +19232,8 @@ var nuforcData = [
     "column-reported": "12/21/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.60087",
+    "lon": "-87.60699"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=170180",
@@ -21994,10 +19246,8 @@ var nuforcData = [
     "column-reported": "07/01/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "35.14953",
+    "lon": "-90.04898"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181884",
@@ -22010,10 +19260,8 @@ var nuforcData = [
     "column-reported": "06/15/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.82093",
+    "lon": "-122.31513"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187912",
@@ -22022,14 +19270,12 @@ var nuforcData = [
     "column-state": "GA",
     "column-country": "USA",
     "column-shape": "Circle",
-    "column-summary": "Flew slowly directly over us, 150’ off the ground.",
+    "column-summary": "Flew slowly directly over us, 150\u2019 off the ground.",
     "column-reported": "02/23/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.61427",
+    "lon": "-85.83496"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177321",
@@ -22042,10 +19288,8 @@ var nuforcData = [
     "column-reported": "08/03/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181773",
@@ -22058,10 +19302,8 @@ var nuforcData = [
     "column-reported": "06/04/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.72943",
+    "lon": "-104.83192"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=177586",
@@ -22074,10 +19316,8 @@ var nuforcData = [
     "column-reported": "08/15/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184750",
@@ -22090,10 +19330,8 @@ var nuforcData = [
     "column-reported": "12/04/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=189218",
@@ -22102,14 +19340,12 @@ var nuforcData = [
     "column-state": "MA",
     "column-country": "USA",
     "column-shape": "Circle",
-    "column-summary": "UFO on ground in field, 100 yds away—ultra-bright lights, mist. Small beings entered it, then it shot into sky at great speed.",
+    "column-summary": "UFO on ground in field, 100 yds away\u2014ultra-bright lights, mist. Small beings entered it, then it shot into sky at great speed.",
     "column-reported": "04/28/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.0751",
+    "lon": "-72.03341"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187034",
@@ -22122,10 +19358,8 @@ var nuforcData = [
     "column-reported": "01/21/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180687",
@@ -22138,10 +19372,8 @@ var nuforcData = [
     "column-reported": "03/03/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187112",
@@ -22154,10 +19386,8 @@ var nuforcData = [
     "column-reported": "01/23/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "29.95465",
+    "lon": "-90.07507"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=178523",
@@ -22170,10 +19400,8 @@ var nuforcData = [
     "column-reported": "10/05/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182975",
@@ -22186,10 +19414,8 @@ var nuforcData = [
     "column-reported": "09/09/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182100",
@@ -22202,10 +19428,8 @@ var nuforcData = [
     "column-reported": "06/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174777",
@@ -22218,10 +19442,8 @@ var nuforcData = [
     "column-reported": "02/28/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184076",
@@ -22234,10 +19456,8 @@ var nuforcData = [
     "column-reported": "11/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.8078",
+    "lon": "-87.92425"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=173640",
@@ -22250,10 +19470,8 @@ var nuforcData = [
     "column-reported": "12/29/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174044",
@@ -22266,10 +19484,8 @@ var nuforcData = [
     "column-reported": "01/21/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174228",
@@ -22282,10 +19498,8 @@ var nuforcData = [
     "column-reported": "01/31/2023",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.16589",
+    "lon": "-86.78444"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=174919",
@@ -22298,10 +19512,8 @@ var nuforcData = [
     "column-reported": "03/07/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "36.16589",
+    "lon": "-86.78444"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=184827",
@@ -22314,10 +19526,8 @@ var nuforcData = [
     "column-reported": "12/06/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176729",
@@ -22330,10 +19540,8 @@ var nuforcData = [
     "column-reported": "07/12/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=171659",
@@ -22346,10 +19554,8 @@ var nuforcData = [
     "column-reported": "09/09/2022",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "47.50024",
+    "lon": "-111.30081"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=180020",
@@ -22362,10 +19568,8 @@ var nuforcData = [
     "column-reported": "01/13/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.89585",
+    "lon": "-118.22007"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=176406",
@@ -22378,10 +19582,8 @@ var nuforcData = [
     "column-reported": "06/22/2023",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "32.71571",
+    "lon": "-117.16472"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=181320",
@@ -22394,10 +19596,8 @@ var nuforcData = [
     "column-reported": "04/29/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "7.1315",
-    "lon": "171.1845",
-    "latitude": "7.1315",
-    "longitude": "171.1845"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=62711",
@@ -22410,10 +19610,8 @@ var nuforcData = [
     "column-reported": "04/29/2008",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.95238",
+    "lon": "-75.16362"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=103157",
@@ -22426,10 +19624,8 @@ var nuforcData = [
     "column-reported": "10/11/2013",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=186889",
@@ -22442,10 +19638,8 @@ var nuforcData = [
     "column-reported": "01/15/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "33.39437",
+    "lon": "-104.52491"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=187017",
@@ -22458,10 +19652,8 @@ var nuforcData = [
     "column-reported": "01/20/2025",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "39.70471",
+    "lon": "-105.08137"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=42312",
@@ -22474,10 +19666,8 @@ var nuforcData = [
     "column-reported": "02/24/2005",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=182788",
@@ -22490,10 +19680,8 @@ var nuforcData = [
     "column-reported": "08/26/2024",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "48.3794",
-    "lon": "31.1656",
-    "latitude": "48.3794",
-    "longitude": "31.1656"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=49620",
@@ -22506,10 +19694,8 @@ var nuforcData = [
     "column-reported": "03/13/2006",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "",
+    "lon": ""
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=190314",
@@ -22518,14 +19704,12 @@ var nuforcData = [
     "column-state": "MA",
     "column-country": "USA",
     "column-shape": "Disk",
-    "column-summary": "A large typical saucer shaped ship came as close as 1000’ of the ground over our heads",
+    "column-summary": "A large typical saucer shaped ship came as close as 1000\u2019 of the ground over our heads",
     "column-reported": "06/10/2025",
     "column-hasimage": "Y",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "42.35843",
+    "lon": "-71.05977"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=68697",
@@ -22538,10 +19722,8 @@ var nuforcData = [
     "column-reported": "02/16/2009",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "37.0902",
-    "lon": "-95.7129",
-    "latitude": "37.0902",
-    "longitude": "-95.7129"
+    "lat": "41.70037",
+    "lon": "-73.92097"
   },
   {
     "expand href": "https://nuforc.org/sighting/?id=163175",
@@ -22554,9 +19736,7 @@ var nuforcData = [
     "column-reported": "05/16/2021",
     "column-hasimage": "",
     "column-explanation": "",
-    "lat": "0.0",
-    "lon": "0.0",
-    "latitude": "0.0",
-    "longitude": "0.0"
+    "lat": "",
+    "lon": ""
   }
 ];
