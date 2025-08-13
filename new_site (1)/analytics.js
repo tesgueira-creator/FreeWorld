@@ -5,6 +5,8 @@
 // and country. Charts are drawn using simple DOM elements and SVG to avoid
 // external dependencies; the map uses Leaflet.
 
+const initAnalytics = (() => {
+
 // Colour palette used consistently across charts. Feel free to adjust or
 // extend this array to suit your tastes. Colours cycle when more values
 // than colours are present.
@@ -107,7 +109,7 @@ function createChartCards() {
   });
 }
 
-export function initAnalytics() {
+function initAnalytics() {
   debugLog('=== Analytics page loaded ===');
 
   // Ensure the dataset from the CSV conversion is available
@@ -140,8 +142,6 @@ export function initAnalytics() {
   // Set up pagination so charts are divided across pages
   setupPagination();
 }
-
-document.addEventListener('DOMContentLoaded', initAnalytics);
 
 function initChartDescriptions() {
   const descriptions = {
@@ -2528,3 +2528,9 @@ function renderLeafletMap(points) {
     mapContainer.innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #ef4444; font-size: 0.9rem;">Error rendering map: ' + error.message + '</div>';
   }
 }
+
+  return initAnalytics;
+})();
+
+export { initAnalytics };
+document.addEventListener('DOMContentLoaded', initAnalytics);
