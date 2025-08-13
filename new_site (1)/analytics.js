@@ -35,6 +35,12 @@ const AXIS_TITLES = {
   chartShapeDecadeStacked: { x: 'Decade', y: 'Sightings' }
 };
 
+// Toggle verbose logging for analytics debugging.
+const debug = false;
+const debugLog = (...args) => {
+  if (debug) globalThis.console.log(...args);
+};
+
 // Global variables to store the unfiltered dataset and map instance. These
 // allow the filters and cross‑filtering to modify and reuse data without
 // mutating the original dataset loaded from the JS file.
@@ -45,38 +51,40 @@ let markerClusterGroup;
 let heatmapLayer;
 let currentMapMode = 'markers'; // 'markers', 'heatmap', 'both'
 
-document.addEventListener('DOMContentLoaded', () => {
-  console.log('=== Analytics page loaded ===');
-  
+export function initAnalytics() {
+  debugLog('=== Analytics page loaded ===');
+
   // Ensure the dataset from the CSV conversion is available
   if (typeof nuforcData === 'undefined' || !Array.isArray(nuforcData)) {
     console.error('nuforcData is not available');
     return;
   }
-  
-  console.log('nuforcData loaded successfully:', nuforcData.length, 'records');
-  console.log('Sample record:', nuforcData[0]);
-  
+
+  debugLog('nuforcData loaded successfully:', nuforcData.length, 'records');
+  debugLog('Sample record:', nuforcData[0]);
+
   // Store a copy of the raw data globally. We avoid mutating this array
   // directly so that resets can restore the full dataset quickly.
   originalData = nuforcData;
-  console.log('originalData set:', originalData.length, 'records');
-  
+  debugLog('originalData set:', originalData.length, 'records');
+
   // Initialize filter controls and populate select options
   initializeFilters();
-  console.log('Filters initialized');
-  
+  debugLog('Filters initialized');
+
   // Render the initial dashboard using the full dataset
-  console.log('Rendering initial dashboard...');
+  debugLog('Rendering initial dashboard...');
   renderDashboard(originalData);
-  console.log('Initial dashboard rendered');
+  debugLog('Initial dashboard rendered');
 
   // Populate static descriptions for each chart to improve explanatory value
   initChartDescriptions();
 
   // Set up pagination so charts are divided across pages
   setupPagination();
-});
+}
+
+document.addEventListener('DOMContentLoaded', initAnalytics);
 
 function initChartDescriptions() {
   const descriptions = {
@@ -295,21 +303,21 @@ function computeMetrics(data) {
   });
 
   // Debug coordinate parsing with quality metrics
-  console.log('=== COORDINATE QUALITY ANALYSIS ===');
-  console.log('Total records:', coordinateQuality.total);
-  console.log('Valid coordinates:', coordinateQuality.valid, `(${((coordinateQuality.valid/coordinateQuality.total)*100).toFixed(1)}%)`);
-  console.log('Placeholder coordinates (37.0902, -95.7129):', coordinateQuality.placeholder, `(${((coordinateQuality.placeholder/coordinateQuality.total)*100).toFixed(1)}%)`);
-  console.log('Zero coordinates (0, 0):', coordinateQuality.zero, `(${((coordinateQuality.zero/coordinateQuality.total)*100).toFixed(1)}%)`);
-  console.log('Invalid coordinates:', coordinateQuality.invalid, `(${((coordinateQuality.invalid/coordinateQuality.total)*100).toFixed(1)}%)`);
-  console.log('Sample valid coordinates:', latLonPoints.slice(0, 5));
+  debugLog('=== COORDINATE QUALITY ANALYSIS ===');
+  debugLog('Total records:', coordinateQuality.total);
+  debugLog('Valid coordinates:', coordinateQuality.valid, `(${((coordinateQuality.valid/coordinateQuality.total)*100).toFixed(1)}%)`);
+  debugLog('Placeholder coordinates (37.0902, -95.7129):', coordinateQuality.placeholder, `(${((coordinateQuality.placeholder/coordinateQuality.total)*100).toFixed(1)}%)`);
+  debugLog('Zero coordinates (0, 0):', coordinateQuality.zero, `(${((coordinateQuality.zero/coordinateQuality.total)*100).toFixed(1)}%)`);
+  debugLog('Invalid coordinates:', coordinateQuality.invalid, `(${((coordinateQuality.invalid/coordinateQuality.total)*100).toFixed(1)}%)`);
+  debugLog('Sample valid coordinates:', latLonPoints.slice(0, 5));
   
   // Log country-specific quality issues
-  console.log('=== COUNTRY-SPECIFIC COORDINATE QUALITY ===');
+  debugLog('=== COUNTRY-SPECIFIC COORDINATE QUALITY ===');
   Object.entries(coordinateQuality.byCountry).forEach(([country, stats]) => {
     if (stats.total > 10) { // Only show countries with significant data
       const validPct = ((stats.valid/stats.total)*100).toFixed(1);
       const placeholderPct = ((stats.placeholder/stats.total)*100).toFixed(1);
-      console.log(`${country}: ${stats.total} records, ${validPct}% valid, ${placeholderPct}% placeholder`);
+      debugLog(`${country}: ${stats.total} records, ${validPct}% valid, ${placeholderPct}% placeholder`);
     }
   });
 
@@ -1932,12 +1940,12 @@ function setCountryFilter(country) {
  * @param {Array<Object>} data Dataset to visualise
  */
 function renderDashboard(data) {
-  console.log('=== renderDashboard called ===');
-  console.log('Data received:', data.length, 'records');
+  debugLog('=== renderDashboard called ===');
+  debugLog('Data received:', data.length, 'records');
   
   const metrics = computeMetrics(data);
-  console.log('Metrics computed:', metrics);
-  console.log('LatLon points:', metrics.latLonPoints);
+  debugLog('Metrics computed:', metrics);
+  debugLog('LatLon points:', metrics.latLonPoints);
   
   // Bar charts and line charts
   renderBarChart('chartShapeTop', metrics.topShapes.labels, metrics.topShapes.values, PALETTE, AXIS_TITLES.chartShapeTop);
@@ -1965,12 +1973,12 @@ function renderDashboard(data) {
   renderStackedBar('chartShapeDecadeStacked', metrics.shapeDecadeStacked, PALETTE, AXIS_TITLES.chartShapeDecadeStacked);
   
   // Render map with lat/lon points
-  console.log('About to render map with', metrics.latLonPoints.length, 'points');
+  debugLog('About to render map with', metrics.latLonPoints.length, 'points');
   
   // Add a small delay to ensure the container is fully rendered
   setTimeout(() => {
     renderLeafletMap(metrics.latLonPoints);
-    console.log('Map rendering initiated');
+    debugLog('Map rendering initiated');
   }, 100);
 }
 
@@ -1981,8 +1989,8 @@ function renderDashboard(data) {
  * @param {Array<{lat:number,lon:number}>} points Array of lat/lon objects
  */
 function renderLeafletMap(points) {
-  console.log('=== renderLeafletMap called ===');
-  console.log('Points received:', points);
+  debugLog('=== renderLeafletMap called ===');
+  debugLog('Points received:', points);
   
   const mapContainer = document.getElementById('chartMap');
   if (!mapContainer) {
@@ -1990,8 +1998,8 @@ function renderLeafletMap(points) {
     return;
   }
   
-  console.log('Map container found:', mapContainer);
-  console.log('Container dimensions:', mapContainer.offsetWidth, 'x', mapContainer.offsetHeight);
+  debugLog('Map container found:', mapContainer);
+  debugLog('Container dimensions:', mapContainer.offsetWidth, 'x', mapContainer.offsetHeight);
   
   // Check if container has proper dimensions
   if (mapContainer.offsetWidth === 0 || mapContainer.offsetHeight === 0) {
@@ -2005,13 +2013,13 @@ function renderLeafletMap(points) {
   
   // Check if we have valid points
   if (!points || points.length === 0) {
-    console.log('No points provided, showing message');
+    debugLog('No points provided, showing message');
     mapContainer.innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #94a3b8; font-size: 0.9rem;">No valid coordinates available for mapping</div>';
     return;
   }
   
-  console.log('Rendering map with', points.length, 'points');
-  console.log('Sample points:', points.slice(0, 5));
+  debugLog('Rendering map with', points.length, 'points');
+  debugLog('Sample points:', points.slice(0, 5));
   
   // Check if Leaflet is available
   if (typeof L === 'undefined') {
@@ -2020,12 +2028,12 @@ function renderLeafletMap(points) {
     return;
   }
   
-  console.log('Leaflet library available:', L);
+  debugLog('Leaflet library available:', L);
   
   try {
     // Initialize map only once
     if (!mapInstance) {
-      console.log('Initializing new map instance');
+      debugLog('Initializing new map instance');
       
       mapInstance = L.map('chartMap', {
         worldCopyJump: true,
@@ -2035,7 +2043,7 @@ function renderLeafletMap(points) {
         attributionControl: true
       }).setView([20, 0], 2);
       
-      console.log('Map instance created:', mapInstance);
+      debugLog('Map instance created:', mapInstance);
       
       // Use a sophisticated, high-quality tile layer with multiple options
       const tileLayers = {
@@ -2064,9 +2072,9 @@ function renderLeafletMap(points) {
       // Add layer control
       L.control.layers(tileLayers).addTo(mapInstance);
       
-      console.log('Tile layers and controls added');
+      debugLog('Tile layers and controls added');
     } else {
-      console.log('Using existing map instance');
+      debugLog('Using existing map instance');
     }
     
     // Clear previous layers
@@ -2087,7 +2095,7 @@ function renderLeafletMap(points) {
     let invalidCoordinates = 0;
     const heatmapData = [];
     
-    console.log('Processing', points.length, 'total points for markers');
+    debugLog('Processing', points.length, 'total points for markers');
     
     points.forEach(({ lat, lon }, index) => {
       if (!isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0 && lat !== 37.0902 && lon !== -95.7129) {
@@ -2222,7 +2230,7 @@ function renderLeafletMap(points) {
           heatmapData.push([lat, lon, 1]);
           
           if (index < 5) {
-            console.log(`Added marker ${index}: [${lat}, ${lon}] - Shape: ${shape}`);
+            debugLog(`Added marker ${index}: [${lat}, ${lon}] - Shape: ${shape}`);
           }
         } catch (markerError) {
           console.error('Error adding marker:', markerError, 'for coordinates:', lat, lon);
@@ -2232,8 +2240,8 @@ function renderLeafletMap(points) {
       }
     });
     
-    console.log('Added', validMarkers, 'valid markers to map');
-    console.log('Skipped', invalidCoordinates, 'invalid coordinates');
+    debugLog('Added', validMarkers, 'valid markers to map');
+    debugLog('Skipped', invalidCoordinates, 'invalid coordinates');
     
     if (mapMarkers.length > 0) {
       try {
@@ -2293,11 +2301,11 @@ function renderLeafletMap(points) {
         // Fit bounds to all markers
         const group = L.featureGroup(mapMarkers);
         const bounds = group.getBounds();
-        console.log('Map bounds:', bounds);
+        debugLog('Map bounds:', bounds);
         
         // Set bounds with some padding for better view
         mapInstance.fitBounds(bounds.pad(0.1));
-        console.log('Map bounds set successfully');
+        debugLog('Map bounds set successfully');
         
         // Add sophisticated legend with toggle controls
         const legend = L.control({ position: 'bottomright' });
@@ -2409,11 +2417,11 @@ function renderLeafletMap(points) {
       }
     } else {
       // If no valid markers, show a default view
-      console.log('No valid markers, showing default view');
+      debugLog('No valid markers, showing default view');
       mapInstance.setView([20, 0], 2);
     }
     
-    console.log('Map rendering completed successfully');
+    debugLog('Map rendering completed successfully');
     
   } catch (error) {
     console.error('Error in renderLeafletMap:', error);
