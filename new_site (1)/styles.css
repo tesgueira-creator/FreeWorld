@@ -610,10 +610,17 @@ section h2 {
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+/* Container for multiple blog posts */
+.blog-grid {
+  display: grid;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
 /* Blog post: glass effect card */
 .blog-post {
-  max-width: 800px;
-  margin: 0 auto;
   background: rgba(255, 255, 255, 0.05);
   padding: 2rem;
   border-radius: 12px;
