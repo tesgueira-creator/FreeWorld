@@ -35,6 +35,33 @@ const AXIS_TITLES = {
   chartShapeDecadeStacked: { x: 'Decade', y: 'Sightings' }
 };
 
+// Definitions for each chart to render. The type indicates the rendering
+// function to use and the array order controls display order.
+const CHART_DEFINITIONS = [
+  { id: 'chartMap', title: 'Global Sightings Map', type: 'map' },
+  { id: 'chartShapeTop', title: 'Top UFO Shapes', type: 'bar' },
+  { id: 'chartYearCounts', title: 'Sightings by Year', type: 'line' },
+  { id: 'chartCountryTop', title: 'Top Countries', type: 'bar' },
+  { id: 'chartStateTop', title: 'Top US States', type: 'bar' },
+  { id: 'chartCityTop', title: 'Top Cities', type: 'bar' },
+  { id: 'chartMonthCounts', title: 'Sightings by Month', type: 'bar' },
+  { id: 'chartHourCounts', title: 'Sightings by Hour', type: 'bar' },
+  { id: 'chartWeekdayCounts', title: 'Sightings by Day of Week', type: 'bar' },
+  { id: 'chartDecadeCounts', title: 'Sightings by Decade', type: 'bar' },
+  { id: 'chartDelayByCountry', title: 'Avg Report Delay by Country', type: 'bar' },
+  { id: 'chartImagePresence', title: 'Has Image vs No Image', type: 'donut' },
+  { id: 'chartHemisphereDistribution', title: 'Northern vs Southern Hemisphere', type: 'donut' },
+  { id: 'chartDelayDistribution', title: 'Report Delay Distribution', type: 'bar' },
+  { id: 'chartLatLonScatter', title: 'Global Sightings Scatter', type: 'scatter' },
+  { id: 'chartShapeDistribution', title: 'UFO Shape Distribution', type: 'donut' },
+  { id: 'chartMonthHourHeatmap', title: 'Month vs Hour Heatmap', type: 'heatmap' },
+  { id: 'chartHourRadial', title: 'Hourly Distribution Radial', type: 'radial' },
+  { id: 'chartShapeDecadeStacked', title: 'Shape Counts by Decade', type: 'stacked' },
+  { id: 'chartAvgDelayByYear', title: 'Average Report Delay by Year', type: 'line' },
+  { id: 'chartCumulativeYear', title: 'Cumulative Sightings Over Years', type: 'line' },
+  { id: 'chartShapeTrendsDecade', title: 'Shape Trends by Decade', type: 'multiline' }
+];
+
 // Global variables to store the unfiltered dataset and map instance. These
 // allow the filters and cross‑filtering to modify and reuse data without
 // mutating the original dataset loaded from the JS file.
@@ -44,6 +71,35 @@ let mapMarkers;
 let markerClusterGroup;
 let heatmapLayer;
 let currentMapMode = 'markers'; // 'markers', 'heatmap', 'both'
+
+// Inject the chart card markup based on CHART_DEFINITIONS
+function createChartCards() {
+  const container = document.getElementById('chartContainer');
+  if (!container) return;
+  CHART_DEFINITIONS.forEach(({ id, title, type }) => {
+    const card = document.createElement('div');
+    card.classList.add('chart-card');
+    if (id === 'chartMap') card.classList.add('map-card');
+    if (id === 'chartShapeTop' || id === 'chartYearCounts') card.classList.add('featured');
+
+    const h3 = document.createElement('h3');
+    h3.className = 'chart-title';
+    h3.textContent = title;
+
+    const chartDiv = document.createElement('div');
+    chartDiv.id = id;
+    chartDiv.className = type === 'map' ? 'map-container' : 'chart-container';
+
+    const insight = document.createElement('p');
+    insight.id = `${id}Insight`;
+    insight.className = 'chart-insight';
+
+    card.appendChild(h3);
+    card.appendChild(chartDiv);
+    card.appendChild(insight);
+    container.appendChild(card);
+  });
+}
 
 document.addEventListener('DOMContentLoaded', () => {
   console.log('=== Analytics page loaded ===');
@@ -65,8 +121,9 @@ document.addEventListener('DOMContentLoaded', () => {
   // Initialize filter controls and populate select options
   initializeFilters();
   console.log('Filters initialized');
-  
-  // Render the initial dashboard using the full dataset
+
+  // Inject chart cards then render the initial dashboard using the full dataset
+  createChartCards();
   console.log('Rendering initial dashboard...');
   renderDashboard(originalData);
   console.log('Initial dashboard rendered');
@@ -1934,44 +1991,87 @@ function setCountryFilter(country) {
 function renderDashboard(data) {
   console.log('=== renderDashboard called ===');
   console.log('Data received:', data.length, 'records');
-  
+
   const metrics = computeMetrics(data);
   console.log('Metrics computed:', metrics);
   console.log('LatLon points:', metrics.latLonPoints);
-  
-  // Bar charts and line charts
-  renderBarChart('chartShapeTop', metrics.topShapes.labels, metrics.topShapes.values, PALETTE, AXIS_TITLES.chartShapeTop);
-  renderBarChart('chartCountryTop', metrics.topCountries.labels, metrics.topCountries.values, PALETTE, AXIS_TITLES.chartCountryTop);
-  renderLineChart('chartYearCounts', metrics.year.labels, metrics.year.values, AXIS_TITLES.chartYearCounts);
-  renderBarChart('chartStateTop', metrics.topStates.labels, metrics.topStates.values, PALETTE, AXIS_TITLES.chartStateTop);
-  renderBarChart('chartCityTop', metrics.topCities.labels, metrics.topCities.values, PALETTE, AXIS_TITLES.chartCityTop);
-  renderVerticalBarChart('chartMonthCounts', metrics.month.labels, metrics.month.values, PALETTE, AXIS_TITLES.chartMonthCounts);
-  renderVerticalBarChart('chartHourCounts', metrics.hour.labels, metrics.hour.values, PALETTE, AXIS_TITLES.chartHourCounts);
-  renderVerticalBarChart('chartWeekdayCounts', metrics.weekday.labels, metrics.weekday.values, PALETTE, AXIS_TITLES.chartWeekdayCounts);
-  renderVerticalBarChart('chartDecadeCounts', metrics.decade.labels, metrics.decade.values, PALETTE, AXIS_TITLES.chartDecadeCounts);
-  renderBarChart('chartDelayByCountry', metrics.delayByCountry.labels, metrics.delayByCountry.values, PALETTE, AXIS_TITLES.chartDelayByCountry);
-  renderDonutChart('chartImagePresence', metrics.image.labels, metrics.image.values, PALETTE);
-  renderDonutChart('chartHemisphereDistribution', metrics.hemisphere.labels, metrics.hemisphere.values, PALETTE);
-  renderVerticalBarChart('chartDelayDistribution', metrics.delayHistogram.labels, metrics.delayHistogram.values, PALETTE, AXIS_TITLES.chartDelayDistribution);
-  renderScatterPlot('chartLatLonScatter', metrics.latLonPoints);
-  renderDonutChart('chartShapeDistribution', metrics.shapeDistribution.labels, metrics.shapeDistribution.values, PALETTE);
-  // Additional charts
-  renderLineChart('chartAvgDelayByYear', metrics.delayAvgYear.labels, metrics.delayAvgYear.values, AXIS_TITLES.chartAvgDelayByYear);
-  renderLineChart('chartCumulativeYear', metrics.cumulativeCounts.labels, metrics.cumulativeCounts.values, AXIS_TITLES.chartCumulativeYear);
-  renderMultiLineChart('chartShapeTrendsDecade', metrics.shapeDecadeStacked.decades, metrics.shapeDecadeStacked.values, metrics.shapeDecadeStacked.shapes, PALETTE, AXIS_TITLES.chartShapeTrendsDecade);
+
+  CHART_DEFINITIONS.forEach((chart) => {
+    switch (chart.id) {
+      case 'chartMap':
+        console.log('About to render map with', metrics.latLonPoints.length, 'points');
+        setTimeout(() => {
+          renderLeafletMap(metrics.latLonPoints);
+          console.log('Map rendering initiated');
+        }, 100);
+        break;
+      case 'chartShapeTop':
+        renderBarChart(chart.id, metrics.topShapes.labels, metrics.topShapes.values, PALETTE, AXIS_TITLES.chartShapeTop);
+        break;
+      case 'chartCountryTop':
+        renderBarChart(chart.id, metrics.topCountries.labels, metrics.topCountries.values, PALETTE, AXIS_TITLES.chartCountryTop);
+        break;
+      case 'chartYearCounts':
+        renderLineChart(chart.id, metrics.year.labels, metrics.year.values, AXIS_TITLES.chartYearCounts);
+        break;
+      case 'chartStateTop':
+        renderBarChart(chart.id, metrics.topStates.labels, metrics.topStates.values, PALETTE, AXIS_TITLES.chartStateTop);
+        break;
+      case 'chartCityTop':
+        renderBarChart(chart.id, metrics.topCities.labels, metrics.topCities.values, PALETTE, AXIS_TITLES.chartCityTop);
+        break;
+      case 'chartMonthCounts':
+        renderVerticalBarChart(chart.id, metrics.month.labels, metrics.month.values, PALETTE, AXIS_TITLES.chartMonthCounts);
+        break;
+      case 'chartHourCounts':
+        renderVerticalBarChart(chart.id, metrics.hour.labels, metrics.hour.values, PALETTE, AXIS_TITLES.chartHourCounts);
+        break;
+      case 'chartWeekdayCounts':
+        renderVerticalBarChart(chart.id, metrics.weekday.labels, metrics.weekday.values, PALETTE, AXIS_TITLES.chartWeekdayCounts);
+        break;
+      case 'chartDecadeCounts':
+        renderVerticalBarChart(chart.id, metrics.decade.labels, metrics.decade.values, PALETTE, AXIS_TITLES.chartDecadeCounts);
+        break;
+      case 'chartDelayByCountry':
+        renderBarChart(chart.id, metrics.delayByCountry.labels, metrics.delayByCountry.values, PALETTE, AXIS_TITLES.chartDelayByCountry);
+        break;
+      case 'chartImagePresence':
+        renderDonutChart(chart.id, metrics.image.labels, metrics.image.values, PALETTE);
+        break;
+      case 'chartHemisphereDistribution':
+        renderDonutChart(chart.id, metrics.hemisphere.labels, metrics.hemisphere.values, PALETTE);
+        break;
+      case 'chartDelayDistribution':
+        renderVerticalBarChart(chart.id, metrics.delayHistogram.labels, metrics.delayHistogram.values, PALETTE, AXIS_TITLES.chartDelayDistribution);
+        break;
+      case 'chartLatLonScatter':
+        renderScatterPlot(chart.id, metrics.latLonPoints);
+        break;
+      case 'chartShapeDistribution':
+        renderDonutChart(chart.id, metrics.shapeDistribution.labels, metrics.shapeDistribution.values, PALETTE);
+        break;
+      case 'chartMonthHourHeatmap':
+        renderHeatmap(chart.id, metrics.monthHourMatrix, metrics.month.labels, metrics.hour.labels, PALETTE);
+        break;
+      case 'chartHourRadial':
+        renderRadialChart(chart.id, metrics.hour.labels, metrics.hour.values, PALETTE);
+        break;
+      case 'chartShapeDecadeStacked':
+        renderStackedBar(chart.id, metrics.shapeDecadeStacked, PALETTE, AXIS_TITLES.chartShapeDecadeStacked);
+        break;
+      case 'chartAvgDelayByYear':
+        renderLineChart(chart.id, metrics.delayAvgYear.labels, metrics.delayAvgYear.values, AXIS_TITLES.chartAvgDelayByYear);
+        break;
+      case 'chartCumulativeYear':
+        renderLineChart(chart.id, metrics.cumulativeCounts.labels, metrics.cumulativeCounts.values, AXIS_TITLES.chartCumulativeYear);
+        break;
+      case 'chartShapeTrendsDecade':
+        renderMultiLineChart(chart.id, metrics.shapeDecadeStacked.decades, metrics.shapeDecadeStacked.values, metrics.shapeDecadeStacked.shapes, PALETTE, AXIS_TITLES.chartShapeTrendsDecade);
+        break;
+    }
+  });
+
   updateInsights(metrics);
-  renderHeatmap('chartMonthHourHeatmap', metrics.monthHourMatrix, metrics.month.labels, metrics.hour.labels, PALETTE);
-  renderRadialChart('chartHourRadial', metrics.hour.labels, metrics.hour.values, PALETTE);
-  renderStackedBar('chartShapeDecadeStacked', metrics.shapeDecadeStacked, PALETTE, AXIS_TITLES.chartShapeDecadeStacked);
-  
-  // Render map with lat/lon points
-  console.log('About to render map with', metrics.latLonPoints.length, 'points');
-  
-  // Add a small delay to ensure the container is fully rendered
-  setTimeout(() => {
-    renderLeafletMap(metrics.latLonPoints);
-    console.log('Map rendering initiated');
-  }, 100);
 }
 
 /**
