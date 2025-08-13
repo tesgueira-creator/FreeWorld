@@ -1590,21 +1590,33 @@ function updateInsights(metrics) {
     // Add coordinate quality warning to the page
     const qualityWarning = document.getElementById('coordinateQualityWarning');
     if (qualityWarning) {
+      qualityWarning.textContent = '';
       if (validPct < 5) {
-        qualityWarning.innerHTML = `
-          <div style="background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.3); border-radius: 8px; padding: 12px; margin: 16px 0; color: #fca5a5;">
-            <strong>⚠️ Data Quality Notice:</strong> Only ${validPct}% of reports have accurate coordinates. 
-            ${placeholderPct}% use placeholder coordinates (37.0902, -95.7129). 
-            Geographic analysis may be limited.
-          </div>
-        `;
+        const div = document.createElement('div');
+        div.style.background = 'rgba(239, 68, 68, 0.1)';
+        div.style.border = '1px solid rgba(239, 68, 68, 0.3)';
+        div.style.borderRadius = '8px';
+        div.style.padding = '12px';
+        div.style.margin = '16px 0';
+        div.style.color = '#fca5a5';
+        const strong = document.createElement('strong');
+        strong.textContent = '⚠️ Data Quality Notice:';
+        div.appendChild(strong);
+        div.appendChild(document.createTextNode(` Only ${validPct}% of reports have accurate coordinates. ${placeholderPct}% use placeholder coordinates (37.0902, -95.7129). Geographic analysis may be limited.`));
+        qualityWarning.appendChild(div);
       } else if (validPct < 20) {
-        qualityWarning.innerHTML = `
-          <div style="background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 8px; padding: 12px; margin: 16px 0; color: #fbbf24;">
-            <strong>📊 Data Quality Notice:</strong> ${validPct}% of reports have accurate coordinates. 
-            Geographic analysis available but limited.
-          </div>
-        `;
+        const div = document.createElement('div');
+        div.style.background = 'rgba(245, 158, 11, 0.1)';
+        div.style.border = '1px solid rgba(245, 158, 11, 0.3)';
+        div.style.borderRadius = '8px';
+        div.style.padding = '12px';
+        div.style.margin = '16px 0';
+        div.style.color = '#fbbf24';
+        const strong = document.createElement('strong');
+        strong.textContent = '📊 Data Quality Notice:';
+        div.appendChild(strong);
+        div.appendChild(document.createTextNode(` ${validPct}% of reports have accurate coordinates. Geographic analysis available but limited.`));
+        qualityWarning.appendChild(div);
       }
     }
   } else {

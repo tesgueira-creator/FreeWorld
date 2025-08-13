@@ -3,9 +3,9 @@
 //
 // This file powers the dynamic portions of the Alien Encounters website.
 // It loads the UFO sightings CSV, populates the interactive data table,
-// computes aggregate statistics and renders charts using Chart.js. When
-// modifying this file, take care to keep functions modular and avoid
-// polluting the global namespace.
+// computes aggregate statistics and renders charts using lightweight
+// DOM elements. When modifying this file, take care to keep functions
+// modular and avoid polluting the global namespace.
 
 document.addEventListener('DOMContentLoaded', () => {
   // Use the globally defined nuforcData array provided by nuforc-2025-07-02.js
