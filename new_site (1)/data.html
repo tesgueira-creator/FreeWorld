@@ -51,8 +51,10 @@
         <option value="100">100</option>
       </select>
     </div>
+    <p id="tableSummary">The table below lists UFO sighting reports. Use the search box and the shape, country, and rows per page filters to refine the results.</p>
     <div class="table-container">
-      <table id="ufotable">
+      <table id="ufotable" aria-describedby="tableSummary">
+        <caption>UFO sighting reports from the National UFO Reporting Center</caption>
         <thead id="tableHead"></thead>
         <tbody id="tableBody"></tbody>
       </table>
