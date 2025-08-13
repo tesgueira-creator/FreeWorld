@@ -70,7 +70,74 @@ document.addEventListener('DOMContentLoaded', () => {
   console.log('Rendering initial dashboard...');
   renderDashboard(originalData);
   console.log('Initial dashboard rendered');
+
+  // Populate static descriptions for each chart to improve explanatory value
+  initChartDescriptions();
+
+  // Set up pagination so charts are divided across pages
+  setupPagination();
 });
+
+function initChartDescriptions() {
+  const descriptions = {
+    chartMapInsight: 'World map of UFO sightings. Use filters to explore clusters.',
+    chartShapeTopInsight: 'Most frequently reported UFO shapes.',
+    chartYearCountsInsight: 'Annual trend of reported sightings.',
+    chartCountryTopInsight: 'Countries with the highest number of reports.',
+    chartStateTopInsight: 'US states with the most sightings.',
+    chartCityTopInsight: 'Cities reporting the most UFO activity.',
+    chartMonthCountsInsight: 'Distribution of sightings across months.',
+    chartHourCountsInsight: 'Sightings by hour of the day.',
+    chartWeekdayCountsInsight: 'Sightings by day of the week.',
+    chartDecadeCountsInsight: 'Sightings grouped by decade.',
+    chartDelayByCountryInsight: 'Average reporting delay per country.',
+    chartImagePresenceInsight: 'Reports with and without accompanying images.',
+    chartHemisphereDistributionInsight: 'Sightings by hemisphere.',
+    chartDelayDistributionInsight: 'Distribution of reporting delays.',
+    chartLatLonScatterInsight: 'Geographic scatter of sightings.',
+    chartShapeDistributionInsight: 'Proportion of each UFO shape.',
+    chartMonthHourHeatmapInsight: 'Heatmap of sightings by month and hour.',
+    chartHourRadialInsight: 'Radial chart of hourly sightings.',
+    chartShapeDecadeStackedInsight: 'UFO shape trends across decades.',
+    chartAvgDelayByYearInsight: 'Average report delay by year.',
+    chartCumulativeYearInsight: 'Cumulative total of sightings by year.',
+    chartShapeTrendsDecadeInsight: 'Shape trends over decades.'
+  };
+  Object.entries(descriptions).forEach(([id, text]) => {
+    const el = document.getElementById(id);
+    if (el && !el.textContent.trim()) {
+      el.textContent = text;
+    }
+  });
+}
+
+function setupPagination() {
+  const chartsPerPage = 4;
+  const cards = Array.from(document.querySelectorAll('.charts-grid .chart-card'));
+  if (cards.length <= chartsPerPage) return;
+  let currentPage = 1;
+  const totalPages = Math.ceil(cards.length / chartsPerPage);
+  const prevBtn = document.getElementById('prevPage');
+  const nextBtn = document.getElementById('nextPage');
+  const pageInfo = document.getElementById('pageInfo');
+  if (!prevBtn || !nextBtn || !pageInfo) return;
+
+  function renderPage(page) {
+    currentPage = page;
+    const start = (page - 1) * chartsPerPage;
+    const end = start + chartsPerPage;
+    cards.forEach((card, idx) => {
+      card.style.display = idx >= start && idx < end ? '' : 'none';
+    });
+    prevBtn.disabled = page === 1;
+    nextBtn.disabled = page === totalPages;
+    pageInfo.textContent = `Page ${page} of ${totalPages}`;
+  }
+
+  prevBtn.addEventListener('click', () => renderPage(currentPage - 1));
+  nextBtn.addEventListener('click', () => renderPage(currentPage + 1));
+  renderPage(1);
+}
 
 /**
  * Compute a suite of metrics from the dataset. All parsing and aggregation

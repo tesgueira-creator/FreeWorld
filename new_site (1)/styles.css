@@ -441,31 +441,17 @@ section h2 {
   max-width: 1400px;
   margin: 0 auto;
   display: grid;
-  gap: 2rem;
+  gap: 3rem;
   padding: 0 1rem;
-  
+
   /* Mobile first: single column */
   grid-template-columns: 1fr;
 }
 
-/* Tablet: 2 columns */
+/* Tablet and above: two columns for larger charts */
 @media (min-width: 768px) {
   .analytics-grid {
     grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-/* Desktop: 3 columns */
-@media (min-width: 1200px) {
-  .analytics-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-/* Large desktop: 4 columns max */
-@media (min-width: 1600px) {
-  .analytics-grid {
-    grid-template-columns: repeat(4, 1fr);
   }
 }
 
@@ -495,7 +481,7 @@ section h2 {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
   border: 1px solid rgba(255, 255, 255, 0.08);
   transition: border-color 0.3s ease, transform 0.2s ease;
-  min-height: 350px;
+  min-height: 400px;
   display: flex;
   flex-direction: column;
 }
@@ -520,10 +506,23 @@ section h2 {
 .chart-container {
   width: 100%;
   flex: 1;
-  min-height: 300px;
+  min-height: 350px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.pagination-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.page-info {
+  color: #e2e8f0;
+  font-weight: 500;
 }
 
 /* Horizontal bar chart styles */
@@ -610,10 +609,17 @@ section h2 {
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+/* Container for multiple blog posts */
+.blog-grid {
+  display: grid;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
 /* Blog post: glass effect card */
 .blog-post {
-  max-width: 800px;
-  margin: 0 auto;
   background: rgba(255, 255, 255, 0.05);
   padding: 2rem;
   border-radius: 12px;
@@ -706,16 +712,6 @@ section h2 {
 .nav-links li a.active {
   color: #38bdf8;
   font-weight: 600;
-}
-
-/* Grid for analytics page. Allows many cards on one page. */
-.analytics-grid {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 1.5rem;
-  padding: 0 1rem;
 }
 
 /* Vertical bar charts with better height */
@@ -1239,28 +1235,28 @@ section h2 {
   }
   
   .analytics-grid {
-    gap: 1.5rem;
+    gap: 2rem;
     padding: 0 0.5rem;
   }
-  
+
   .chart-card {
     padding: 1rem;
-    min-height: 300px;
+    min-height: 350px;
   }
-  
+
   .chart-card .chart-title {
     font-size: 1rem;
     margin-bottom: 0.75rem;
   }
-  
+
   .chart-container {
-    min-height: 250px;
+    min-height: 300px;
   }
-  
+
   .chart-container svg {
-    height: 250px;
+    height: 300px;
   }
-  
+
   .vertical-bar-chart {
     height: 250px;
   }
