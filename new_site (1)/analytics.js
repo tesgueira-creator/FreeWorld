@@ -103,37 +103,73 @@ function createChartCards() {
 
 document.addEventListener('DOMContentLoaded', () => {
   console.log('=== Analytics page loaded ===');
-  
-  // Ensure the dataset from the CSV conversion is available
-  if (typeof nuforcData === 'undefined' || !Array.isArray(nuforcData)) {
-    console.error('nuforcData is not available');
-    return;
-  }
-  
-  console.log('nuforcData loaded successfully:', nuforcData.length, 'records');
-  console.log('Sample record:', nuforcData[0]);
-  
-  // Store a copy of the raw data globally. We avoid mutating this array
-  // directly so that resets can restore the full dataset quickly.
-  originalData = nuforcData;
-  console.log('originalData set:', originalData.length, 'records');
-  
-  // Initialize filter controls and populate select options
-  initializeFilters();
-  console.log('Filters initialized');
-
-  // Inject chart cards then render the initial dashboard using the full dataset
-  createChartCards();
-  console.log('Rendering initial dashboard...');
-  renderDashboard(originalData);
-  console.log('Initial dashboard rendered');
-
-  // Populate static descriptions for each chart to improve explanatory value
-  initChartDescriptions();
-
-  // Set up pagination so charts are divided across pages
-  setupPagination();
+  fetchSightingsData()
+    .then((data) => {
+      console.log('Sightings loaded:', data.length);
+      // Store a copy of the raw data globally. We avoid mutating this array
+      // directly so that resets can restore the full dataset quickly.
+      originalData = data;
+      // Initialize filter controls and populate select options
+      initializeFilters();
+      // Inject chart cards then render the initial dashboard using the full dataset
+      createChartCards();
+      renderDashboard(originalData);
+      // Populate static descriptions for each chart to improve explanatory value
+      initChartDescriptions();
+      // Set up pagination so charts are divided across pages
+      setupPagination();
+    })
+    .catch((err) => {
+      console.error('Failed to load sightings data', err);
+    });
 });
+
+/**
+ * Fetch and parse the NUFORC CSV dataset.
+ * @returns {Promise<Array<Object>>}
+ */
+function fetchSightingsData() {
+  return fetch('database/nuforc-2025-07-02_with_coords.csv')
+    .then((res) => res.text())
+    .then((text) => parseCsv(text));
+}
+
+/**
+ * Parse CSV text into an array of objects.
+ * @param {string} text
+ * @returns {Array<Object>}
+ */
+function parseCsv(text) {
+  const lines = text.trim().split(/\r?\n/);
+  const headers = lines[0].split(',');
+  return lines.slice(1).filter(Boolean).map((line) => {
+    const values = [];
+    let current = '';
+    let inQuotes = false;
+    for (let i = 0; i < line.length; i++) {
+      const char = line[i];
+      if (char === '"') {
+        if (inQuotes && line[i + 1] === '"') {
+          current += '"';
+          i++;
+        } else {
+          inQuotes = !inQuotes;
+        }
+      } else if (char === ',' && !inQuotes) {
+        values.push(current);
+        current = '';
+      } else {
+        current += char;
+      }
+    }
+    values.push(current);
+    const obj = {};
+    headers.forEach((h, idx) => {
+      obj[h] = values[idx] !== undefined ? values[idx] : '';
+    });
+    return obj;
+  });
+}
 
 function initChartDescriptions() {
   const descriptions = {
