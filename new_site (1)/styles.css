@@ -25,6 +25,20 @@ body {
   background: linear-gradient(180deg, #0a192f 0%, #0f172a 80%, #172554 100%);
 }
 
+a {
+  color: #3b82f6;
+  text-decoration: underline;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #8b5cf6;
+}
+
+a i {
+  margin-left: 0.25rem;
+}
+
 /* Navigation bar */
 /*
  * The navigation bar floats above all content. We use a semi‑transparent
@@ -89,7 +103,7 @@ body {
    palette. */
 .hero-section {
   position: relative;
-  background-image: url('ufo-hero.png');
+  background-image: url('ufo-hero.svg');
   background-size: cover;
   background-position: center;
   padding-top: 80px; /* leave space for fixed nav */

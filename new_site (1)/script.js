@@ -147,7 +147,7 @@ function initializeTable(data) {
           if (cell && cell.trim()) {
             const a = document.createElement('a');
             a.href = cell;
-            a.textContent = 'View';
+            a.innerHTML = 'View <i class="fa-solid fa-arrow-up-right-from-square"></i>';
             a.target = '_blank';
             a.rel = 'noopener noreferrer';
             td.appendChild(a);
