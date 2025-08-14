@@ -65,6 +65,7 @@ a i {
   align-items: center;
   justify-content: space-between;
   padding: 0 1rem;
+  position: relative;
 }
 
 /* Logo uses a custom neon gradient to call back to retro tech signage. */
@@ -86,6 +87,21 @@ a i {
   gap: 1.5rem;
 }
 
+/* Container that wraps the navigation links so it can be toggled */
+.nav-links-container {
+  display: block;
+}
+
+/* Hamburger button, hidden on larger screens */
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: #cbd5e1;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
 /* Navigation links: subtle colour shift on hover. */
 .nav-links li a {
   color: #cbd5e1;
@@ -96,6 +112,37 @@ a i {
 
 .nav-links li a:hover {
   color: #3b82f6;
+}
+
+/* Responsive navigation for small screens */
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav-links-container {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: rgba(10, 25, 47, 0.95);
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+  }
+
+  .nav-links-container.open {
+    max-height: 300px;
+    opacity: 1;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem 0;
+  }
 }
 
 /* Hero section: dark cosmic background with starry image. We keep the

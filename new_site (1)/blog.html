@@ -20,12 +20,17 @@
   <nav class="navbar">
     <div class="nav-container">
       <a href="index.html" class="logo">Alien&nbsp;Encounters</a>
-      <ul class="nav-links">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="data.html">Sightings</a></li>
-        <li><a href="analytics.html">Analytics</a></li>
-        <li><a href="blog.html" class="active">Blog</a></li>
-      </ul>
+      <button class="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+      <div class="nav-links-container">
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="data.html">Sightings</a></li>
+          <li><a href="analytics.html">Analytics</a></li>
+          <li><a href="blog.html" class="active">Blog</a></li>
+        </ul>
+      </div>
     </div>
   </nav>
   <!-- Blog Section -->
@@ -80,5 +85,6 @@
   <footer class="footer">
     <p>&copy; 2025 Alien Encounters. This site is for educational and entertainment purposes only.</p>
   </footer>
+  <script src="nav.js"></script>
 </body>
 </html>
