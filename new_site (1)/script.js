@@ -7,20 +7,69 @@
 // DOM elements. When modifying this file, take care to keep functions
 // modular and avoid polluting the global namespace.
 
+// Load the CSV dataset and kick off table/chart rendering once ready
 document.addEventListener('DOMContentLoaded', () => {
-  // Use the globally defined nuforcData array provided by nuforc-2025-07-02.js
-  if (typeof nuforcData !== 'undefined') {
-    initializeTable(nuforcData);
-    computeCharts(nuforcData);
-  } else {
-    console.error('nuforcData is not defined');
-  }
+  fetchSightingsData()
+    .then((data) => {
+      initializeTable(data);
+    })
+    .catch((err) => {
+      console.error('Failed to load sightings data', err);
+    });
   // Create a reusable tooltip element for charts and tables
   const tooltip = document.createElement('div');
   tooltip.className = 'tooltip';
   document.body.appendChild(tooltip);
   window.globalTooltip = tooltip;
 });
+
+/**
+ * Fetch and parse the NUFORC CSV dataset into an array of objects.
+ * @returns {Promise<Array<Object>>}
+ */
+function fetchSightingsData() {
+  return fetch('database/nuforc-2025-07-02_with_coords.csv')
+    .then((res) => res.text())
+    .then((text) => parseCsv(text));
+}
+
+/**
+ * Parse a CSV string into an array of objects using the first row as headers.
+ * Handles quoted fields with commas.
+ * @param {string} text
+ * @returns {Array<Object>}
+ */
+function parseCsv(text) {
+  const lines = text.trim().split(/\r?\n/);
+  const headers = lines[0].split(',');
+  return lines.slice(1).filter(Boolean).map((line) => {
+    const values = [];
+    let current = '';
+    let inQuotes = false;
+    for (let i = 0; i < line.length; i++) {
+      const char = line[i];
+      if (char === '"') {
+        if (inQuotes && line[i + 1] === '"') {
+          current += '"';
+          i++;
+        } else {
+          inQuotes = !inQuotes;
+        }
+      } else if (char === ',' && !inQuotes) {
+        values.push(current);
+        current = '';
+      } else {
+        current += char;
+      }
+    }
+    values.push(current);
+    const obj = {};
+    headers.forEach((h, idx) => {
+      obj[h] = values[idx] !== undefined ? values[idx] : '';
+    });
+    return obj;
+  });
+}
 
 /**
  * Initialise the DataTable with parsed data.
