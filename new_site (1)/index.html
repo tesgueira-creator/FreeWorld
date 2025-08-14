@@ -22,12 +22,17 @@
   <nav class="navbar">
     <div class="nav-container">
       <a href="index.html" class="logo">Alien&nbsp;Encounters</a>
-      <ul class="nav-links">
-        <li><a href="index.html" aria-current="page">Home</a></li>
-        <li><a href="data.html">Sightings</a></li>
-        <li><a href="analytics.html">Analytics</a></li>
-        <li><a href="blog.html">Blog</a></li>
-      </ul>
+      <button class="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+      <div class="nav-links-container">
+        <ul class="nav-links">
+          <li><a href="index.html" aria-current="page">Home</a></li>
+          <li><a href="data.html">Sightings</a></li>
+          <li><a href="analytics.html">Analytics</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ul>
+      </div>
     </div>
   </nav>
   <!-- Hero / Home Section -->
@@ -66,5 +71,6 @@
   </footer>
 
   <!-- Home page does not load data or analytics scripts -->
+  <script src="nav.js"></script>
 </body>
 </html>
