@@ -1,10 +1,8 @@
-import { createChartCards, initChartDescriptions, setupPagination, renderDashboard } from './charts.js';
-import { initializeFilters } from './filters.js';
-
 let originalData = [];
 
 async function fetchSightingsData() {
-  const res = await fetch('database/nuforc-2025-07-02_with_coords.csv');
+  const url = new URL('./database/nuforc-2025-07-02_with_coords.csv', import.meta.url);
+  const res = await fetch(url);
   const text = await res.text();
   return parseCsv(text);
 }
@@ -43,12 +41,17 @@ function parseCsv(text) {
 
 document.addEventListener('DOMContentLoaded', async () => {
   try {
+    const [charts, filters] = await Promise.all([
+      import('./charts.js'),
+      import('./filters.js')
+    ]);
+
     originalData = await fetchSightingsData();
-    initializeFilters(originalData, renderDashboard);
-    createChartCards();
-    await renderDashboard(originalData);
-    initChartDescriptions();
-    setupPagination();
+    filters.initializeFilters(originalData, charts.renderDashboard);
+    charts.createChartCards();
+    await charts.renderDashboard(originalData);
+    charts.initChartDescriptions();
+    charts.setupPagination();
   } catch (err) {
     console.error('Failed to load sightings data', err);
   }
