@@ -1,5 +1,12 @@
 {
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
   "dependencies": {
     "csv-parser": "^3.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
   }
 }
