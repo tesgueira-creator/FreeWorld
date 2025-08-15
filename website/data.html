@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UFO Sightings Data | Alien Encounters</title>
+  <!-- Font Awesome for icons -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+  <!-- Site styles -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="index.html" class="logo">Alien&nbsp;Encounters</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="data.html" class="active">Sightings</a></li>
+        <li><a href="analytics.html">Analytics</a></li>
+        <li><a href="blog.html">Blog</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Data Section -->
+  <section class="data-section">
+    <h2>UFO Sightings Database</h2>
+    <p class="section-intro">Explore real reports from the National UFO Reporting Center. Use the controls below to search, sort and browse the latest sighting submissions.</p>
+    <div class="table-controls">
+      <input type="text" id="searchInput" placeholder="Search sightings…" aria-label="Search sightings" />
+      <label for="shapeFilter" class="rows-label">Shape:</label>
+      <select id="shapeFilter" aria-label="Filter by shape">
+        <option value="">All</option>
+      </select>
+      <label for="countryFilter" class="rows-label">Country:</label>
+      <select id="countryFilter" aria-label="Filter by country">
+        <option value="">All</option>
+      </select>
+      <label for="rowsPerPage" class="rows-label">Rows per page:</label>
+      <select id="rowsPerPage" aria-label="Rows per page">
+        <option value="10">10</option>
+        <option value="25" selected>25</option>
+        <option value="50">50</option>
+        <option value="100">100</option>
+      </select>
+    </div>
+    <p id="tableSummary">The table below lists UFO sighting reports. Use the search box and the shape, country, and rows per page filters to refine the results.</p>
+    <div class="table-container">
+      <table id="ufotable" aria-describedby="tableSummary">
+        <caption>UFO sighting reports from the National UFO Reporting Center</caption>
+        <thead id="tableHead"></thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+    <div class="pagination-controls">
+      <button id="prevPage" class="btn btn-secondary" disabled>Previous</button>
+      <span id="pageInfo"></span>
+      <button id="nextPage" class="btn btn-secondary" disabled>Next</button>
+    </div>
+  </section>
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2025 Alien Encounters. This site is for educational and entertainment purposes only.</p>
+  </footer>
+
+  <!-- Data loading and table logic -->
+  <script src="database/nuforc-with-coords.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
