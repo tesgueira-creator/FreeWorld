@@ -4,6 +4,19 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Explore UFO sightings data, analytics, and stories about alien encounters." />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://github.com/tesgueira-creator/FreeWorld" />
+  <meta property="og:title" content="Alien Encounters & UFO Sightings" />
+  <meta property="og:description" content="Explore UFO sightings data, analytics, and stories about alien encounters." />
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://github.com/tesgueira-creator/FreeWorld" />
+  <meta property="twitter:title" content="Alien Encounters & UFO Sightings" />
+  <meta property="twitter:description" content="Explore UFO sightings data, analytics, and stories about alien encounters." />
+  
   <title>Alien Encounters &amp; UFO Sightings</title>
   <!-- External libraries -->
   <!-- Font Awesome for icons -->
@@ -22,6 +35,11 @@
   <nav class="navbar">
     <div class="nav-container">
       <a href="index.html" class="logo">Alien&nbsp;Encounters</a>
+      <button class="menu-toggle" aria-label="Toggle navigation menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
       <ul class="nav-links">
         <li><a href="index.html" aria-current="page">Home</a></li>
         <li><a href="data.html">Sightings</a></li>
@@ -66,5 +84,30 @@
   </footer>
 
   <!-- Home page does not load data or analytics scripts -->
+  <script>
+    // Mobile menu functionality for pages without main script.js
+    document.addEventListener('DOMContentLoaded', () => {
+      const menuToggle = document.querySelector('.menu-toggle');
+      const navLinks = document.querySelector('.nav-links');
+      
+      if (menuToggle && navLinks) {
+        menuToggle.addEventListener('click', () => {
+          navLinks.classList.toggle('active');
+        });
+        
+        navLinks.addEventListener('click', (e) => {
+          if (e.target.tagName === 'A') {
+            navLinks.classList.remove('active');
+          }
+        });
+        
+        document.addEventListener('click', (e) => {
+          if (!menuToggle.contains(e.target) && !navLinks.contains(e.target)) {
+            navLinks.classList.remove('active');
+          }
+        });
+      }
+    });
+  </script>
 </body>
 </html>

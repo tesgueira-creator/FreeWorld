@@ -8,6 +8,30 @@
 // modular and avoid polluting the global namespace.
 
 document.addEventListener('DOMContentLoaded', () => {
+  // Mobile menu functionality
+  const menuToggle = document.querySelector('.menu-toggle');
+  const navLinks = document.querySelector('.nav-links');
+  
+  if (menuToggle && navLinks) {
+    menuToggle.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+    });
+    
+    // Close menu when clicking on a link
+    navLinks.addEventListener('click', (e) => {
+      if (e.target.tagName === 'A') {
+        navLinks.classList.remove('active');
+      }
+    });
+    
+    // Close menu when clicking outside
+    document.addEventListener('click', (e) => {
+      if (!menuToggle.contains(e.target) && !navLinks.contains(e.target)) {
+        navLinks.classList.remove('active');
+      }
+    });
+  }
+  
   // Use the globally defined nuforcData array provided by nuforc-2025-07-02.js
   if (typeof nuforcData !== 'undefined') {
     initializeTable(nuforcData);
@@ -333,6 +357,10 @@ function computeCharts(data) {
  */
 function renderBarChart(containerId, labels, values, palette) {
   const container = document.getElementById(containerId);
+  if (!container) {
+    // Container doesn't exist, skip rendering (e.g., charts not needed on this page)
+    return;
+  }
   // Clear any existing content
   container.innerHTML = '';
   const chart = document.createElement('div');
@@ -435,6 +463,10 @@ function renderBarChart(containerId, labels, values, palette) {
  */
 function renderLineChart(containerId, labels, values) {
   const container = document.getElementById(containerId);
+  if (!container) {
+    // Container doesn't exist, skip rendering (e.g., charts not needed on this page)
+    return;
+  }
   container.innerHTML = '';
   const width = container.clientWidth || 400;
   const height = 300;

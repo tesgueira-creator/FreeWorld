@@ -67,6 +67,50 @@ a i {
   padding: 0 1rem;
 }
 
+/* Mobile menu toggle button */
+.menu-toggle {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0.5rem;
+}
+
+.menu-toggle span {
+  width: 25px;
+  height: 3px;
+  background: #cbd5e1;
+  margin: 3px 0;
+  transition: 0.3s;
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: flex;
+  }
+  
+  .nav-links {
+    position: fixed;
+    top: 70px;
+    left: -100%;
+    width: 100%;
+    height: calc(100vh - 70px);
+    background: rgba(10, 25, 47, 0.95);
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 2rem;
+    gap: 2rem;
+    transition: left 0.3s ease;
+  }
+  
+  .nav-links.active {
+    left: 0;
+  }
+}
+
 /* Logo uses a custom neon gradient to call back to retro tech signage. */
 .logo {
   font-size: 1.4rem;
