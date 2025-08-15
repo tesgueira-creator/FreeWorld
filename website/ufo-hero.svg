@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <radialGradient id="sky" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </radialGradient>
+    <radialGradient id="ufoGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a5b4fc" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#4f46e5" stop-opacity="0.3"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <ellipse cx="800" cy="450" rx="260" ry="80" fill="url(#ufoGlow)"/>
+  <ellipse cx="800" cy="420" rx="140" ry="40" fill="#e2e8f0"/>
+  <polygon points="760,500 840,500 900,900 700,900" fill="rgba(99,102,241,0.4)"/>
+</svg>
