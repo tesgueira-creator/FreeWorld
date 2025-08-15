@@ -129,8 +129,14 @@ document.addEventListener('DOMContentLoaded', () => {
  * @returns {Promise<Array<Object>>}
  */
 function fetchSightingsData() {
+  // Use the CSV as the single canonical dataset for the site. This avoids
+  // discrepancies between multiple exported formats and ensures the data
+  // table, charts and map all use the same source.
   return fetch('database/nuforc-2025-07-02_with_coords.csv')
-    .then((res) => res.text())
+    .then((res) => {
+      if (!res.ok) throw new Error('CSV not available');
+      return res.text();
+    })
     .then((text) => parseCsv(text));
 }
 
@@ -284,7 +290,8 @@ function computeMetrics(data) {
   // Nested object to accumulate shape counts by decade
   const shapeDecadeCounts = {};
 
-  data.forEach((row) => {
+  // Keep the datapoint index so we can look up the original record quickly later
+  data.forEach((row, dataIdx) => {
     // Shape counts
     const shape = row['column-shape'] && row['column-shape'].trim() ? row['column-shape'].trim() : 'Unknown';
     shapeCounts[shape] = (shapeCounts[shape] || 0) + 1;
@@ -375,11 +382,13 @@ function computeMetrics(data) {
     } else if (lat === 37.0902 && lon === -95.7129) {
       coordinateQuality.placeholder++;
       coordinateQuality.byCountry[country].placeholder++;
-    } else if (lat >= -90 && lat <= 90 && lon >= -180 && lon <= 180) {
+  } else if (lat >= -90 && lat <= 90 && lon >= -180 && lon <= 180) {
       // Valid coordinates
       coordinateQuality.valid++;
       coordinateQuality.byCountry[country].valid++;
-      latLonPoints.push({ lat, lon });
+  // Store index to allow O(1) lookup of the original record when creating markers
++
+  latLonPoints.push({ lat, lon, idx: dataIdx });
       if (lat >= 0) hemisphereCounts.north++; else hemisphereCounts.south++;
     } else {
       coordinateQuality.invalid++;
@@ -448,7 +457,8 @@ function computeMetrics(data) {
   const hemisphereValues = [hemisphereCounts.north, hemisphereCounts.south];
   // Shape distribution for donut (top 10 shapes)
   const shapeTop = topN(shapeCounts, 10);
-  // Trim lat/lon points to at most 500 for scatter to avoid performance issues
+  // Trim lat/lon points to at most 500 for the scatter chart to avoid
+  // performance issues while keeping the full list for the map layer.
   const scatterPoints = latLonPoints.slice(0, 500);
 
   // Compute average report delay by year (using occurrence year)
@@ -480,7 +490,9 @@ function computeMetrics(data) {
     image: { labels: imageLabels, values: imageValues },
     hemisphere: { labels: hemisphereLabels, values: hemisphereValues },
     shapeDistribution: shapeTop,
-    latLonPoints: scatterPoints,
+  // Provide the full list for mapping and a sampled subset for the scatter plot
+  latLonPoints: latLonPoints,
+  scatterPoints: scatterPoints,
     coordinateQuality: coordinateQuality,
     monthHourMatrix: monthHourCounts,
     // Prepare stacked counts of top shapes by decade. Use top 5 shapes for clarity.
@@ -2037,6 +2049,8 @@ function renderDashboard(data) {
       case 'chartMap':
         console.log('About to render map with', metrics.latLonPoints.length, 'points');
         setTimeout(() => {
+          // Pass the full lat/lon list to the Leaflet renderer so all valid
+          // coordinates are available for clustering and heatmap generation.
           renderLeafletMap(metrics.latLonPoints);
           console.log('Map rendering initiated');
         }, 100);
@@ -2081,7 +2095,9 @@ function renderDashboard(data) {
         renderVerticalBarChart(chart.id, metrics.delayHistogram.labels, metrics.delayHistogram.values, PALETTE, AXIS_TITLES.chartDelayDistribution);
         break;
       case 'chartLatLonScatter':
-        renderScatterPlot(chart.id, metrics.latLonPoints);
+        // Provide a sampled subset to the scatter chart for performance while
+        // retaining the full list for the interactive Leaflet map.
+        renderScatterPlot(chart.id, metrics.scatterPoints);
         break;
       case 'chartShapeDistribution':
         renderDonutChart(chart.id, metrics.shapeDistribution.labels, metrics.shapeDistribution.values, PALETTE);
@@ -2225,15 +2241,22 @@ function renderLeafletMap(points) {
     
     console.log('Processing', points.length, 'total points for markers');
     
-    points.forEach(({ lat, lon }, index) => {
+    points.forEach((pt, index) => {
+      const lat = pt.lat;
+      const lon = pt.lon;
       if (!isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0 && lat !== 37.0902 && lon !== -95.7129) {
         try {
-          // Find the corresponding data record for popup
-          const record = originalData.find(r => {
-            const rLat = parseFloat(r.lat || r.latitude);
-            const rLon = parseFloat(r.lon || r.longitude);
-            return rLat === lat && rLon === lon;
-          });
+          // Prefer using the stored index for O(1) lookup; fallback to search if missing
+          let record = null;
+          if (typeof pt.idx === 'number' && originalData[pt.idx]) {
+            record = originalData[pt.idx];
+          } else {
+            record = originalData.find(r => {
+              const rLat = parseFloat(r.lat || r.latitude);
+              const rLon = parseFloat(r.lon || r.longitude);
+              return rLat === lat && rLon === lon;
+            });
+          }
           
           // Color coding based on UFO shape
           const shape = record?.shape || 'Unknown';
@@ -2407,25 +2430,22 @@ function renderLeafletMap(points) {
         mapMarkers.forEach(marker => markerClusterGroup.addLayer(marker));
         mapInstance.addLayer(markerClusterGroup);
         
-        // Create heatmap layer
+        // Create heatmap layer but do not add it to the map until user selects it
         if (typeof L.heatLayer !== 'undefined' && heatmapData.length > 0) {
           heatmapLayer = L.heatLayer(heatmapData, {
             radius: 25,
             blur: 15,
             maxZoom: 10,
             gradient: {
-              0.4: '#3b82f6',
-              0.6: '#f59e0b',
-              0.8: '#ef4444',
-              1.0: '#dc2626'
+              '0.4': '#3b82f6',
+              '0.6': '#f59e0b',
+              '0.8': '#ef4444',
+              '1.0': '#dc2626'
             }
           });
-          
-          // Add heatmap layer (initially hidden)
-          mapInstance.addLayer(heatmapLayer);
-          heatmapLayer.setVisible(false);
+          // do not add to map here; toggles below will add/remove as needed
         }
-        
+
         // Fit bounds to all markers
         const group = L.featureGroup(mapMarkers);
         const bounds = group.getBounds();
@@ -2507,22 +2527,22 @@ function renderLeafletMap(points) {
           
           if (viewMarkersBtn && heatmapLayer) {
             viewMarkersBtn.onclick = function() {
-              markerClusterGroup.setVisible(true);
-              heatmapLayer.setVisible(false);
+              if (!mapInstance.hasLayer(markerClusterGroup)) mapInstance.addLayer(markerClusterGroup);
+              if (mapInstance.hasLayer(heatmapLayer)) mapInstance.removeLayer(heatmapLayer);
               currentMapMode = 'markers';
               updateViewButtons();
             };
-            
+
             viewHeatmapBtn.onclick = function() {
-              markerClusterGroup.setVisible(false);
-              heatmapLayer.setVisible(true);
+              if (mapInstance.hasLayer(markerClusterGroup)) mapInstance.removeLayer(markerClusterGroup);
+              if (!mapInstance.hasLayer(heatmapLayer)) mapInstance.addLayer(heatmapLayer);
               currentMapMode = 'heatmap';
               updateViewButtons();
             };
-            
+
             viewBothBtn.onclick = function() {
-              markerClusterGroup.setVisible(true);
-              heatmapLayer.setVisible(true);
+              if (!mapInstance.hasLayer(markerClusterGroup)) mapInstance.addLayer(markerClusterGroup);
+              if (!mapInstance.hasLayer(heatmapLayer)) mapInstance.addLayer(heatmapLayer);
               currentMapMode = 'both';
               updateViewButtons();
             };
