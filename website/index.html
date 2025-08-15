@@ -27,6 +27,16 @@
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
   />
+  <!-- Fallback CSS for when Font Awesome doesn't load -->
+  <style>
+    .fa-solid:before, .fa:before {
+      font-family: serif; /* Fallback font */
+    }
+    .fa-arrow-right:before { content: "→"; }
+    .fa-table:before { content: "⊞"; }
+    .fa-chart-simple:before { content: "📊"; }
+    .fa-blog:before { content: "📝"; }
+  </style>
   <!-- Custom styles -->
   <link rel="stylesheet" href="styles.css" />
 </head>

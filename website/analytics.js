@@ -2116,7 +2116,13 @@ function renderLeafletMap(points) {
   // Check if Leaflet is available
   if (typeof L === 'undefined') {
     console.error('Leaflet library not loaded!');
-    mapContainer.innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #ef4444; font-size: 0.9rem;">Error: Leaflet map library not loaded</div>';
+    mapContainer.innerHTML = `
+      <div style="padding: 2rem; text-align: center; background: rgba(255, 255, 255, 0.1); border-radius: 8px; color: #cbd5e1;">
+        <h4 style="color: #f97316; margin-bottom: 1rem;">🗺️ Interactive Map Unavailable</h4>
+        <p style="margin-bottom: 0.5rem;">The interactive map requires external libraries that could not be loaded.</p>
+        <p style="font-size: 0.9rem; opacity: 0.8;">In a production environment, this would display an interactive map with ${points.length} UFO sighting locations clustered by geographic area.</p>
+      </div>
+    `;
     return;
   }
   
