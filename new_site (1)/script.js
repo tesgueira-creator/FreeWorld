@@ -9,28 +9,134 @@
 
 // Load the CSV dataset and kick off table/chart rendering once ready
 document.addEventListener('DOMContentLoaded', () => {
+  // Show loading overlay while data loads
+  const loading = document.getElementById('loadingOverlay');
+  if (loading) loading.classList.add('active');
+
   fetchSightingsData()
     .then((data) => {
+      if (!data || !data.length) {
+        showLoadError('No sightings data found. Check the CSV path or open the browser console for details.');
+        return;
+      }
       initializeTable(data);
     })
     .catch((err) => {
-      console.error('Failed to load sightings data', err);
+  console.error('Failed to load sightings data', String(err));
+  showLoadError('Failed to load sightings data. See console for details.');
     });
   // Create a reusable tooltip element for charts and tables
   const tooltip = document.createElement('div');
   tooltip.className = 'tooltip';
   document.body.appendChild(tooltip);
   window.globalTooltip = tooltip;
+  if (loading) loading.classList.remove('active');
 });
+
+
+/**
+ * Display a non-intrusive load error message on the page (updates #tableSummary if present).
+ * @param {string} msg
+ */
+function showLoadError(msg) {
+  try {
+    const summary = document.getElementById('tableSummary');
+    if (summary) {
+      summary.textContent = msg;
+      summary.style.color = '#fca5a5';
+      summary.style.fontStyle = 'normal';
+    } else {
+      // Fallback: append a banner near top
+      const banner = document.createElement('div');
+      banner.className = 'load-error';
+      banner.textContent = msg;
+      banner.style.background = 'rgba(220,38,38,0.06)';
+      banner.style.color = '#fecaca';
+      banner.style.padding = '10px';
+      banner.style.margin = '10px';
+      banner.style.borderRadius = '4px';
+      document.body.insertBefore(banner, document.body.firstChild);
+    }
+  } catch (e) {
+    // If DOM isn't ready, just log
+    console.error('showLoadError failed', e);
+  }
+}
 
 /**
  * Fetch and parse the NUFORC CSV dataset into an array of objects.
  * @returns {Promise<Array<Object>>}
  */
 function fetchSightingsData() {
-  return fetch('database/nuforc-2025-07-02_with_coords.csv')
-    .then((res) => res.text())
-    .then((text) => parseCsv(text));
+  // Build a URL relative to the current document to avoid issues when the
+  // page is opened via file:// or served from a subpath.
+  const csvPath = 'database/nuforc-2025-07-02_with_coords.csv';
+  const url = new URL(csvPath, window.location.href).href;
+  // Try fetch first. If it fails (file:// restrictions or other), attempt a
+  // script fallback which defines `nuforcData` (a large JS array) so the page
+  // can work without a networked CSV.
+  return fetch(url)
+    .then((res) => {
+      if (!res.ok) throw new Error(`Network response was not ok: ${res.status}`);
+      return res.text();
+    })
+    .then((text) => {
+      // Strip BOM if present which can break header parsing
+      const cleaned = text.replace(/^\uFEFF/, '');
+      return parseCsv(cleaned);
+    })
+    .catch((fetchErr) => {
+      console.warn('CSV fetch failed, attempting JS fallback:', fetchErr);
+      // Try loading the JS dataset fallback
+      const jsPath = 'database/nuforc-with-coords.js';
+      const jsUrl = new URL(jsPath, window.location.href).href;
+      return loadJsDataset(jsUrl)
+        .then((maybeData) => {
+          if (Array.isArray(maybeData) && maybeData.length) return maybeData;
+          // If the script created a global `nuforcData`, use it
+          if (window.nuforcData && Array.isArray(window.nuforcData)) return window.nuforcData;
+          throw new Error('Fallback JS did not provide dataset');
+        })
+        .catch((jsErr) => {
+          console.error('JS fallback failed', jsErr);
+          // Re-throw to let caller show the load error
+          throw jsErr;
+        });
+    });
+}
+
+/**
+ * Dynamically insert a script tag to load a JS dataset file.
+ * Resolves with window.nuforcData if available after load.
+ * @param {string} url
+ * @returns {Promise<Array|undefined>}
+ */
+function loadJsDataset(url) {
+  return new Promise((resolve, reject) => {
+    try {
+      // If already loaded, resolve immediately
+      if (window.nuforcData && Array.isArray(window.nuforcData)) return resolve(window.nuforcData);
+      const script = document.createElement('script');
+      script.src = url;
+      script.async = true;
+      const timeout = setTimeout(() => {
+        script.onerror = script.onload = null;
+        reject(new Error('Timed out loading dataset script'));
+      }, 8000);
+      script.onload = () => {
+        clearTimeout(timeout);
+        if (window.nuforcData && Array.isArray(window.nuforcData)) resolve(window.nuforcData);
+        else resolve(undefined);
+      };
+      script.onerror = (e) => {
+        clearTimeout(timeout);
+        reject(new Error('Failed to load dataset script'));
+      };
+      document.head.appendChild(script);
+    } catch (e) {
+      reject(e);
+    }
+  });
 }
 
 /**
@@ -84,6 +190,12 @@ function initializeTable(data) {
   const prevBtn = document.getElementById('prevPage');
   const nextBtn = document.getElementById('nextPage');
   const pageInfo = document.getElementById('pageInfo');
+  // Defensive null checks to avoid runtime errors in minimal previews
+  if (!tableHead || !tableBody || !searchInput || !rowsSelect || !prevBtn || !nextBtn || !pageInfo) {
+    console.error('initializeTable: missing required DOM elements');
+    showLoadError('Table UI incomplete: required DOM elements are missing.');
+    return;
+  }
   // Grab filter elements and expose globally for chart interactions
   const shapeFilter = document.getElementById('shapeFilter');
   const countryFilter = document.getElementById('countryFilter');
@@ -382,6 +494,11 @@ function computeCharts(data) {
  */
 function renderBarChart(containerId, labels, values, palette) {
   const container = document.getElementById(containerId);
+  // Guard: container might not exist on all pages (data preview pages, etc.)
+  if (!container) {
+    try { console.warn('renderBarChart: missing container', containerId); } catch (e) {}
+    return;
+  }
   // Clear any existing content
   container.innerHTML = '';
   const chart = document.createElement('div');
@@ -484,6 +601,11 @@ function renderBarChart(containerId, labels, values, palette) {
  */
 function renderLineChart(containerId, labels, values) {
   const container = document.getElementById(containerId);
+  // Guard: the analytics chart containers may not be present on the dataset table page
+  if (!container) {
+    try { console.warn('renderLineChart: missing container', containerId); } catch(e) {}
+    return;
+  }
   container.innerHTML = '';
   const width = container.clientWidth || 400;
   const height = 300;

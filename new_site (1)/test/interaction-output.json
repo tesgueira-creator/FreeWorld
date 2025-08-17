@@ -1,0 +1,182 @@
+[
+  {
+    "type": "visit",
+    "text": "http://127.0.0.1:8000/analytics.html"
+  },
+  {
+    "type": "console",
+    "text": "=== Analytics page loaded ==="
+  },
+  {
+    "type": "console",
+    "text": "Sightings loaded: 1410"
+  },
+  {
+    "type": "console",
+    "text": "=== renderDashboard called ==="
+  },
+  {
+    "type": "console",
+    "text": "Data received: 1410 records"
+  },
+  {
+    "type": "console",
+    "text": "=== COORDINATE QUALITY ANALYSIS ==="
+  },
+  {
+    "type": "console",
+    "text": "Total records: 1410"
+  },
+  {
+    "type": "console",
+    "text": "Valid coordinates: 1380 (97.9%)"
+  },
+  {
+    "type": "console",
+    "text": "Placeholder coordinates (37.0902, -95.7129): 0 (0.0%)"
+  },
+  {
+    "type": "console",
+    "text": "Zero coordinates (0, 0): 0 (0.0%)"
+  },
+  {
+    "type": "console",
+    "text": "Invalid coordinates: 30 (2.1%)"
+  },
+  {
+    "type": "console",
+    "text": "Sample valid coordinates: [{\"lat\":31.22222,\"lon\":121.45806,\"idx\":0},{\"lat\":40.74649,\"lon\":-74.15626,\"idx\":1},{\"lat\":43.61211,\"lon\":-116.39151,\"idx\":2},{\"lat\":38.83388,\"lon\":-104.82136,\"idx\":3},{\"lat\":40.32674,\"lon\":-78.92197,\"idx\":4}]"
+  },
+  {
+    "type": "console",
+    "text": "=== COUNTRY-SPECIFIC COORDINATE QUALITY ==="
+  },
+  {
+    "type": "console",
+    "text": "USA: 1153 records, 100.0% valid, 0.0% placeholder"
+  },
+  {
+    "type": "console",
+    "text": "Canada: 55 records, 100.0% valid, 0.0% placeholder"
+  },
+  {
+    "type": "console",
+    "text": "Australia: 18 records, 100.0% valid, 0.0% placeholder"
+  },
+  {
+    "type": "console",
+    "text": "United Kingdom: 45 records, 100.0% valid, 0.0% placeholder"
+  },
+  {
+    "type": "console",
+    "text": "Unspecified: 20 records, 0.0% valid, 0.0% placeholder"
+  },
+  {
+    "type": "console",
+    "text": "Metrics computed: JSHandle@object"
+  },
+  {
+    "type": "console",
+    "text": "LatLon points: JSHandle@array"
+  },
+  {
+    "type": "console",
+    "text": "About to render map with 1380 points"
+  },
+  {
+    "type": "console",
+    "text": "=== renderLeafletMap called ==="
+  },
+  {
+    "type": "console",
+    "text": "Points received: 1380 points"
+  },
+  {
+    "type": "console",
+    "text": "Map container found: chartMap"
+  },
+  {
+    "type": "console",
+    "text": "Container dimensions: 686 x 480"
+  },
+  {
+    "type": "console",
+    "text": "Rendering map with 1380 points"
+  },
+  {
+    "type": "console",
+    "text": "Sample points: [{\"lat\":31.22222,\"lon\":121.45806,\"idx\":0},{\"lat\":40.74649,\"lon\":-74.15626,\"idx\":1},{\"lat\":43.61211,\"lon\":-116.39151,\"idx\":2},{\"lat\":38.83388,\"lon\":-104.82136,\"idx\":3},{\"lat\":40.32674,\"lon\":-78.92197,\"idx\":4}]"
+  },
+  {
+    "type": "console",
+    "text": "Leaflet library available: object"
+  },
+  {
+    "type": "console",
+    "text": "Initializing new map instance"
+  },
+  {
+    "type": "console",
+    "text": "Map instance created: chartMap"
+  },
+  {
+    "type": "console",
+    "text": "Tile layers and controls added"
+  },
+  {
+    "type": "console",
+    "text": "Processing 1380 total points for markers"
+  },
+  {
+    "type": "console",
+    "text": "Added marker 0: [31.22222, 121.45806] - Shape: Unknown"
+  },
+  {
+    "type": "console",
+    "text": "Added marker 1: [40.74649, -74.15626] - Shape: Unknown"
+  },
+  {
+    "type": "console",
+    "text": "Added marker 2: [43.61211, -116.39151] - Shape: Unknown"
+  },
+  {
+    "type": "console",
+    "text": "Added marker 3: [38.83388, -104.82136] - Shape: Unknown"
+  },
+  {
+    "type": "console",
+    "text": "Added marker 4: [40.32674, -78.92197] - Shape: Unknown"
+  },
+  {
+    "type": "console",
+    "text": "Added 1380 valid markers to map"
+  },
+  {
+    "type": "console",
+    "text": "Skipped 0 invalid coordinates"
+  },
+  {
+    "type": "console",
+    "text": "Map bounds: -157.97516,-37.68333,174.76349,65.68353"
+  },
+  {
+    "type": "console",
+    "text": "Map bounds set successfully"
+  },
+  {
+    "type": "console",
+    "text": "Map rendering completed successfully"
+  },
+  {
+    "type": "console",
+    "text": "Map rendering initiated"
+  },
+  {
+    "type": "clusters-found",
+    "count": 20
+  },
+  {
+    "type": "spider-legs-count",
+    "count": 12
+  }
+]

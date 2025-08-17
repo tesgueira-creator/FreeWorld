@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Famous Cases & Timelines | Alien Encounters</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="index.html" class="logo">Alien&nbsp;Encounters</a>
+      <button class="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+      <div class="nav-links-container">
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="data.html">Sightings</a></li>
+          <li><a href="analytics.html">Analytics</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="timelines.html" class="active">Timelines</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="timelines-main">
+    <header class="timelines-header">
+      <h1 class="timelines-title">Famous Cases & Timelines</h1>
+      <p class="timelines-sub">Deep, contextual timelines covering high-profile UFO cases, government disclosures and public hearings. Each timeline entry contains a substantial narrative, images (generated SVG illustrations), and source links where available. Use the filters below to show only government-related items, or civilian witness cases.</p>
+    </header>
+
+    <section class="timeline-controls">
+      <label class="timeline-filter-label">Filter:</label>
+      <select id="timelineFilter" class="timeline-filter-select" title="Filter timeline entries" aria-label="Filter timeline entries">
+        <option value="all">All</option>
+        <option value="government">Government & Disclosure</option>
+        <option value="witness">Witness Accounts</option>
+        <option value="military">Military Incidents</option>
+      </select>
+      <button id="toggleView" class="btn timeline-toggle">Toggle Compact View</button>
+    </section>
+
+    <section id="timelines" class="timelines-list">
+      <!-- Timeline items will be injected here -->
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p>&copy; 2025 Alien Encounters. Timeline content is for educational and entertainment purposes and synthesises public sources and witness narratives.</p>
+  </footer>
+
+  <script src="nav.js"></script>
+  <script src="timelines.js"></script>
+</body>
+</html>

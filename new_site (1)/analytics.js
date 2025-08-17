@@ -71,6 +71,13 @@ let mapMarkers;
 let markerClusterGroup;
 let heatmapLayer;
 let currentMapMode = 'markers'; // 'markers', 'heatmap', 'both'
+let metricsGlobal = null;
+let __clusterWarningShown = false;
+
+// Helper: detect if an object looks like a Leaflet Layer
+function isLeafletLayer(obj) {
+  return !!(obj && (typeof obj.addTo === 'function' || (typeof obj.onAdd === 'function' && typeof obj.onRemove === 'function')));
+}
 
 // Inject the chart card markup based on CHART_DEFINITIONS
 function createChartCards() {
@@ -103,6 +110,9 @@ function createChartCards() {
 
 document.addEventListener('DOMContentLoaded', () => {
   console.log('=== Analytics page loaded ===');
+  const loading = document.getElementById('loadingOverlay');
+  if (loading) loading.classList.add('active');
+
   fetchSightingsData()
     .then((data) => {
       console.log('Sightings loaded:', data.length);
@@ -118,9 +128,12 @@ document.addEventListener('DOMContentLoaded', () => {
       initChartDescriptions();
       // Set up pagination so charts are divided across pages
       setupPagination();
+  if (loading) loading.classList.remove('active');
     })
     .catch((err) => {
-      console.error('Failed to load sightings data', err);
+  console.error('Failed to load sightings data', String(err));
+  showLoadError('Failed to load sightings data. Open the console for details.');
+  if (loading) loading.classList.remove('active');
     });
 });
 
@@ -129,15 +142,106 @@ document.addEventListener('DOMContentLoaded', () => {
  * @returns {Promise<Array<Object>>}
  */
 function fetchSightingsData() {
-  // Use the CSV as the single canonical dataset for the site. This avoids
-  // discrepancies between multiple exported formats and ensures the data
-  // table, charts and map all use the same source.
-  return fetch('database/nuforc-2025-07-02_with_coords.csv')
+  // If running from the local file protocol, skip the CSV fetch attempt
+  // entirely to avoid noisy CORS errors and jump straight to the JS fallback.
+  const isFileProtocol = window.location.protocol === 'file:';
+  const csvPath = 'database/nuforc-2025-07-02_with_coords.csv';
+  const csvUrl = new URL(csvPath, window.location.href).href;
+  const attemptCsv = () => fetch(csvUrl)
     .then((res) => {
-      if (!res.ok) throw new Error('CSV not available');
+      if (!res.ok) throw new Error(`CSV not available: ${res.status}`);
       return res.text();
     })
-    .then((text) => parseCsv(text));
+    .then((text) => {
+      const cleaned = text.replace(/^\uFEFF/, '');
+      return parseCsv(cleaned);
+    });
+  const attemptFallback = (reason) => {
+    if (reason && !isFileProtocol) console.warn('CSV fetch failed, attempting JS fallback:', reason);
+    const jsPath = 'database/nuforc-with-coords.js';
+    const jsUrl = new URL(jsPath, window.location.href).href;
+    return loadJsDataset(jsUrl)
+      .then((maybeData) => {
+        if (Array.isArray(maybeData) && maybeData.length) return maybeData;
+        if (window.nuforcData && Array.isArray(window.nuforcData)) return window.nuforcData;
+        throw new Error('Fallback dataset not available');
+      })
+      .catch((jsErr) => {
+        console.error('JS fallback failed', jsErr);
+        if (isFileProtocol) {
+          console.error('Tip: Run a local server (e.g. "python -m http.server 8000") to enable direct CSV loading.');
+        }
+        throw jsErr;
+      });
+  };
+  if (isFileProtocol) {
+    // Skip network fetch; go directly to fallback
+    return attemptFallback(new Error('Running from file protocol; skipping CSV fetch'));
+  }
+  return attemptCsv().catch(attemptFallback);
+}
+
+/**
+ * Dynamically load a script that defines a dataset (window.nuforcData).
+ * Resolves with the dataset array when available.
+ * @param {string} url
+ * @returns {Promise<Array|undefined>}
+ */
+function loadJsDataset(url) {
+  return new Promise((resolve, reject) => {
+    try {
+      if (window.nuforcData && Array.isArray(window.nuforcData)) return resolve(window.nuforcData);
+      const script = document.createElement('script');
+      script.src = url;
+      script.async = true;
+      const timeout = setTimeout(() => {
+        script.onload = script.onerror = null;
+        reject(new Error('Timed out loading dataset script'));
+      }, 8000);
+      script.onload = () => {
+        clearTimeout(timeout);
+        if (window.nuforcData && Array.isArray(window.nuforcData)) resolve(window.nuforcData);
+        else resolve(undefined);
+      };
+      script.onerror = (e) => {
+        clearTimeout(timeout);
+        reject(new Error('Failed to load dataset script'));
+      };
+      document.head.appendChild(script);
+    } catch (e) {
+      reject(e);
+    }
+  });
+}
+
+/**
+ * Show a data load error inside the analytics page UI (`#coordinateQualityWarning`).
+ * @param {string} msg
+ */
+function showLoadError(msg) {
+  try {
+    const el = document.getElementById('coordinateQualityWarning');
+    if (el) {
+      el.textContent = msg;
+      el.style.color = '#fecaca';
+      el.style.background = 'rgba(220,38,38,0.04)';
+      el.style.padding = '10px';
+      el.style.borderRadius = '6px';
+      return;
+    }
+    // fallback: append banner
+    const banner = document.createElement('div');
+    banner.className = 'load-error';
+    banner.textContent = msg;
+    banner.style.background = 'rgba(220,38,38,0.06)';
+    banner.style.color = '#fecaca';
+    banner.style.padding = '10px';
+    banner.style.margin = '10px';
+    banner.style.borderRadius = '4px';
+    document.body.insertBefore(banner, document.body.firstChild);
+  } catch (e) {
+    console.error('showLoadError failed', e);
+  }
 }
 
 /**
@@ -403,7 +507,7 @@ function computeMetrics(data) {
   console.log('Placeholder coordinates (37.0902, -95.7129):', coordinateQuality.placeholder, `(${((coordinateQuality.placeholder/coordinateQuality.total)*100).toFixed(1)}%)`);
   console.log('Zero coordinates (0, 0):', coordinateQuality.zero, `(${((coordinateQuality.zero/coordinateQuality.total)*100).toFixed(1)}%)`);
   console.log('Invalid coordinates:', coordinateQuality.invalid, `(${((coordinateQuality.invalid/coordinateQuality.total)*100).toFixed(1)}%)`);
-  console.log('Sample valid coordinates:', latLonPoints.slice(0, 5));
+  try { console.log('Sample valid coordinates: ' + JSON.stringify(latLonPoints.slice(0, 5))); } catch(e) { console.log('Sample valid coordinates: (unable to stringify)'); }
   
   // Log country-specific quality issues
   console.log('=== COUNTRY-SPECIFIC COORDINATE QUALITY ===');
@@ -2041,6 +2145,8 @@ function renderDashboard(data) {
   console.log('Data received:', data.length, 'records');
 
   const metrics = computeMetrics(data);
+  // Keep a global reference so other controls (map toggles) can re-render
+  metricsGlobal = metrics;
   console.log('Metrics computed:', metrics);
   console.log('LatLon points:', metrics.latLonPoints);
 
@@ -2126,6 +2232,21 @@ function renderDashboard(data) {
   updateInsights(metrics);
 }
 
+// Map view toggles
+document.addEventListener('click', (e) => {
+  if (!e.target) return;
+  if (e.target.id === 'viewMarkers') {
+    currentMapMode = 'markers';
+    if (mapInstance && metricsGlobal) renderLeafletMap(metricsGlobal.latLonPoints);
+  } else if (e.target.id === 'viewHeatmap') {
+    currentMapMode = 'heatmap';
+    if (mapInstance && metricsGlobal) renderLeafletMap(metricsGlobal.latLonPoints);
+  } else if (e.target.id === 'viewBoth') {
+    currentMapMode = 'both';
+    if (mapInstance && metricsGlobal) renderLeafletMap(metricsGlobal.latLonPoints);
+  }
+});
+
 /**
  * Render or update the Leaflet map with the given set of latitude and
  * longitude points. The map is initialised once and reused on subsequent
@@ -2134,7 +2255,7 @@ function renderDashboard(data) {
  */
 function renderLeafletMap(points) {
   console.log('=== renderLeafletMap called ===');
-  console.log('Points received:', points);
+  try { console.log('Points received: ' + (Array.isArray(points) ? points.length + ' points' : String(points))); } catch(e) { console.log('Points received: (unable to stringify)'); }
   
   const mapContainer = document.getElementById('chartMap');
   if (!mapContainer) {
@@ -2142,8 +2263,8 @@ function renderLeafletMap(points) {
     return;
   }
   
-  console.log('Map container found:', mapContainer);
-  console.log('Container dimensions:', mapContainer.offsetWidth, 'x', mapContainer.offsetHeight);
+  try { console.log('Map container found: ' + (mapContainer ? mapContainer.id || mapContainer.tagName : 'null')); } catch(e) { console.log('Map container found'); }
+  try { console.log('Container dimensions: ' + mapContainer.offsetWidth + ' x ' + mapContainer.offsetHeight); } catch(e) { console.log('Container dimensions: unknown'); }
   
   // Check if container has proper dimensions
   if (mapContainer.offsetWidth === 0 || mapContainer.offsetHeight === 0) {
@@ -2162,32 +2283,42 @@ function renderLeafletMap(points) {
     return;
   }
   
-  console.log('Rendering map with', points.length, 'points');
-  console.log('Sample points:', points.slice(0, 5));
+  try { console.log('Rendering map with ' + (points && points.length ? points.length : 0) + ' points'); } catch(e) { console.log('Rendering map with unknown points'); }
+  try { console.log('Sample points: ' + (Array.isArray(points) ? JSON.stringify(points.slice(0,5)) : 'n/a')); } catch(e) { console.log('Sample points: (unable to stringify)'); }
   
   // Check if Leaflet is available
-  if (typeof L === 'undefined') {
-    console.error('Leaflet library not loaded!');
-    mapContainer.innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #ef4444; font-size: 0.9rem;">Error: Leaflet map library not loaded</div>';
+  if (typeof L === 'undefined' || typeof L.map !== 'function') {
+    console.error('Leaflet library not loaded or incomplete');
+    try {
+      mapContainer.innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #ef4444; font-size: 0.95rem;">Map unavailable: Leaflet library not loaded or incomplete. For a full map experience, include the Leaflet library.</div>';
+    } catch(e) { /* ignore DOM errors */ }
     return;
   }
   
-  console.log('Leaflet library available:', L);
+  try { console.log('Leaflet library available: ' + (typeof L)); } catch(e) { console.log('Leaflet library available'); }
   
   try {
     // Initialize map only once
     if (!mapInstance) {
-      console.log('Initializing new map instance');
+  console.log('Initializing new map instance');
       
+      // Create the map instance first, then call setView separately to avoid
+      // issues if library implementations return chainable-but-undefined values.
       mapInstance = L.map('chartMap', {
         worldCopyJump: true,
         maxZoom: 18,
         minZoom: 2,
         zoomControl: true,
         attributionControl: true
-      }).setView([20, 0], 2);
+      });
+      try { if (mapInstance && typeof mapInstance.setView === 'function') mapInstance.setView([20, 0], 2); } catch(e) { /* ignore */ }
       
-      console.log('Map instance created:', mapInstance);
+  try { console.log('Map instance created: ' + (mapInstance && mapInstance._container ? mapInstance._container.id || 'map' : String(mapInstance))); } catch(e) { console.log('Map instance created'); }
+      if (!mapInstance) {
+        console.error('Leaflet created an unexpected falsy map instance');
+        try { mapContainer.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#ef4444;">Map failed to initialize</div>'; } catch(e) {}
+        return;
+      }
       
       // Use a sophisticated, high-quality tile layer with multiple options
       const tileLayers = {
@@ -2210,26 +2341,34 @@ function renderLeafletMap(points) {
         })
       };
       
-      // Add default dark layer
-      tileLayers['Dark'].addTo(mapInstance);
+  // Add default dark layer (guarded)
+  try { if (tileLayers['Dark'] && typeof tileLayers['Dark'].addTo === 'function' && mapInstance && typeof mapInstance.addLayer === 'function') tileLayers['Dark'].addTo(mapInstance); } catch(e) { console.warn('Failed to add tile layer:', String(e)); }
       
-      // Add layer control
-      L.control.layers(tileLayers).addTo(mapInstance);
+      // Add layer control if available
+      try {
+        if (L.control && typeof L.control.layers === 'function' && mapInstance && typeof mapInstance.addLayer === 'function') {
+          L.control.layers(tileLayers).addTo(mapInstance);
+        }
+      } catch (ctrlErr) {
+        console.warn('Could not add layer control:', String(ctrlErr));
+      }
       
       console.log('Tile layers and controls added');
     } else {
       console.log('Using existing map instance');
     }
     
-    // Clear previous layers
-    if (markerClusterGroup) {
-      mapInstance.removeLayer(markerClusterGroup);
+    // Clear previous layers (guard methods exist)
+    if (markerClusterGroup && mapInstance && typeof mapInstance.removeLayer === 'function') {
+      try { mapInstance.removeLayer(markerClusterGroup); } catch(e) { /* ignore */ }
+      markerClusterGroup = null;
     }
-    if (heatmapLayer) {
-      mapInstance.removeLayer(heatmapLayer);
+    if (heatmapLayer && mapInstance && typeof mapInstance.removeLayer === 'function') {
+      try { mapInstance.removeLayer(heatmapLayer); } catch(e) { /* ignore */ }
+      heatmapLayer = null;
     }
     if (mapMarkers) {
-      mapMarkers.forEach((m) => m.remove());
+      try { mapMarkers.forEach((m) => { if (m && typeof m.remove === 'function') m.remove(); }); } catch(e) { /* ignore */ }
     }
     
     mapMarkers = [];
@@ -2239,9 +2378,9 @@ function renderLeafletMap(points) {
     let invalidCoordinates = 0;
     const heatmapData = [];
     
-    console.log('Processing', points.length, 'total points for markers');
+  try { console.log('Processing ' + (points && points.length ? points.length : 0) + ' total points for markers'); } catch(e) { console.log('Processing points for markers'); }
     
-    points.forEach((pt, index) => {
+  points.forEach((pt, index) => {
       const lat = pt.lat;
       const lon = pt.lon;
       if (!isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0 && lat !== 37.0902 && lon !== -95.7129) {
@@ -2381,82 +2520,159 @@ function renderLeafletMap(points) {
           heatmapData.push([lat, lon, 1]);
           
           if (index < 5) {
-            console.log(`Added marker ${index}: [${lat}, ${lon}] - Shape: ${shape}`);
+            try { console.log('Added marker ' + index + ': [' + lat + ', ' + lon + '] - Shape: ' + shape); } catch(e) { /* ignore */ }
           }
         } catch (markerError) {
-          console.error('Error adding marker:', markerError, 'for coordinates:', lat, lon);
+          // Stringify the error to avoid noisy JSHandle objects in headless logs
+          try { console.error('Error adding marker:', String(markerError), 'for coordinates:', lat, lon); } catch(e) { console.error('Error adding marker (unknown) for coordinates:', lat, lon); }
+          invalidCoordinates++;
         }
       } else {
         invalidCoordinates++;
       }
     });
     
-    console.log('Added', validMarkers, 'valid markers to map');
-    console.log('Skipped', invalidCoordinates, 'invalid coordinates');
+  try { console.log('Added ' + validMarkers + ' valid markers to map'); } catch(e) {}
+  try { console.log('Skipped ' + invalidCoordinates + ' invalid coordinates'); } catch(e) {}
     
-    if (mapMarkers.length > 0) {
+  if (mapMarkers.length > 0) {
       try {
-        // Create marker cluster group with custom styling
-        markerClusterGroup = L.markerClusterGroup({
-          chunkedLoading: true,
-          maxClusterRadius: 50,
-          spiderfyOnMaxZoom: true,
-          showCoverageOnHover: true,
-          zoomToBoundsOnClick: true,
-          iconCreateFunction: function(cluster) {
-            const count = cluster.getChildCount();
-            let size, className;
-            
-            if (count < 10) {
-              size = 'small';
-              className = 'marker-cluster-small';
-            } else if (count < 100) {
-              size = 'medium';
-              className = 'marker-cluster-medium';
-            } else {
-              size = 'large';
-              className = 'marker-cluster-large';
-            }
-            
-            return L.divIcon({
-              html: `<div><span>${count}</span></div>`,
-              className: `marker-cluster ${className}`,
-              iconSize: L.point(40, 40)
-            });
-          }
-        });
-        
-        // Add all markers to cluster group
-        mapMarkers.forEach(marker => markerClusterGroup.addLayer(marker));
-        mapInstance.addLayer(markerClusterGroup);
-        
-        // Create heatmap layer but do not add it to the map until user selects it
-        if (typeof L.heatLayer !== 'undefined' && heatmapData.length > 0) {
-          heatmapLayer = L.heatLayer(heatmapData, {
-            radius: 25,
-            blur: 15,
-            maxZoom: 10,
-            gradient: {
-              '0.4': '#3b82f6',
-              '0.6': '#f59e0b',
-              '0.8': '#ef4444',
-              '1.0': '#dc2626'
+        // Decide whether we have the real MarkerCluster plugin or a local shim.
+        const markerClusterShimDetected = (function(){
+          try {
+            // The shim in vendor file logs 'Loaded minimal MarkerCluster shim' and defines L.MarkerClusterGroup
+            if (!L.markerClusterGroup) return true; // treat as unavailable
+            const test = L.markerClusterGroup();
+            // Real cluster groups usually have addLayer AND getLayers / clearLayers etc.
+            const looksReal = test && typeof test.addLayer === 'function' && (typeof test.getLayers === 'function' || typeof test.clearLayers === 'function');
+            return !looksReal; // if it doesn't look real, it's a shim
+          } catch(e) { return true; }
+        })();
+
+        if (!markerClusterShimDetected) {
+          // Create marker cluster group with custom styling (real plugin only)
+          markerClusterGroup = L.markerClusterGroup({
+            chunkedLoading: true,
+            maxClusterRadius: 50,
+            spiderfyOnMaxZoom: true,
+            showCoverageOnHover: true,
+            zoomToBoundsOnClick: true,
+            iconCreateFunction: function(cluster) {
+              const count = cluster.getChildCount();
+              let size, className;
+              if (count < 10) { size = 'small'; className = 'marker-cluster-small'; }
+              else if (count < 100) { size = 'medium'; className = 'marker-cluster-medium'; }
+              else { size = 'large'; className = 'marker-cluster-large'; }
+              return L.divIcon({ html: `<div><span>${count}</span></div>`, className: `marker-cluster ${className}`, iconSize: L.point(40, 40) });
             }
           });
-          // do not add to map here; toggles below will add/remove as needed
+        } else {
+          if (!__clusterWarningShown) { console.warn('MarkerCluster real plugin not detected; rendering plain markers'); __clusterWarningShown = true; }
+        }
+        
+        // Add all markers to cluster group
+        let clusterSupported = false;
+        if (markerClusterGroup && !markerClusterShimDetected) {
+          try {
+            mapMarkers.forEach(marker => { try { markerClusterGroup.addLayer(marker); } catch(e) {} });
+            clusterSupported = isLeafletLayer(markerClusterGroup);
+            if (clusterSupported && mapInstance && typeof mapInstance.addLayer === 'function') {
+              mapInstance.addLayer(markerClusterGroup);
+            }
+          } catch(e) {
+            clusterSupported = false;
+            if (!__clusterWarningShown) { console.warn('MarkerCluster add failed; falling back to simple group:', String(e)); __clusterWarningShown = true; }
+          }
+        }
+        if (!clusterSupported && mapInstance && typeof mapInstance.addLayer === 'function') {
+          // Fallback: add markers individually to a simple layer group if clustering is not available
+          try {
+            const fallbackGroup = (typeof L.layerGroup === 'function') ? L.layerGroup(mapMarkers) : null;
+            if (fallbackGroup) {
+              try { mapInstance.addLayer(fallbackGroup); } catch(e) { console.warn('Failed to add fallbackGroup:', String(e)); }
+            }
+          } catch(e) {
+            // give up gracefully
+          }
+        }
+        
+        // Create heatmap layer but do not add it to the map until user selects it
+        // Only create a heat layer if the real plugin appears present.
+        const heatLooksReal = (function(){
+          if (!L.heatLayer) return false;
+            try {
+              const test = L.heatLayer([[0,0,1]], { radius:5 });
+              return !!(test && (typeof test.addTo === 'function'));
+            } catch(e) { return false; }
+        })();
+        if (heatLooksReal && heatmapData.length > 0) {
+          try {
+            heatmapLayer = L.heatLayer(heatmapData, {
+              radius: 25,
+              blur: 15,
+              maxZoom: 10,
+              gradient: { '0.4': '#3b82f6', '0.6': '#f59e0b', '0.8': '#ef4444', '1.0': '#dc2626' }
+            });
+          } catch(e) {
+            heatmapLayer = null;
+            console.warn('Heat layer creation failed; continuing without heatmap:', String(e));
+          }
         }
 
         // Fit bounds to all markers
-        const group = L.featureGroup(mapMarkers);
-        const bounds = group.getBounds();
-        console.log('Map bounds:', bounds);
+        const group = (typeof L.featureGroup === 'function') ? L.featureGroup(mapMarkers) : null;
+        const bounds = group && typeof group.getBounds === 'function' ? group.getBounds() : null;
+  try { console.log('Map bounds: ' + (bounds ? bounds.toBBoxString ? bounds.toBBoxString() : String(bounds) : 'n/a')); } catch(e) { console.log('Map bounds'); }
         
         // Set bounds with some padding for better view
-        mapInstance.fitBounds(bounds.pad(0.1));
-        console.log('Map bounds set successfully');
+        if (bounds && mapInstance && typeof mapInstance.fitBounds === 'function') {
+          try {
+            // Ensure bounds looks like a LatLngBounds object with pad function
+            if (typeof bounds.pad === 'function' && typeof bounds.toBBoxString === 'function') {
+              mapInstance.fitBounds(bounds.pad(0.1));
+            } else {
+              // Construct bounds from marker coordinates as a safe fallback
+              try {
+                const latlngs = mapMarkers.map(m => {
+                  try {
+                    return m.getLatLng ? m.getLatLng() : null;
+                  } catch(e) { return null; }
+                }).filter(Boolean);
+                if (latlngs.length > 0) {
+                  const safeGroup = (typeof L.featureGroup === 'function') ? L.featureGroup(latlngs.map(p => L.marker([p.lat, p.lng]))) : null;
+                  const safeBounds = safeGroup && typeof safeGroup.getBounds === 'function' ? safeGroup.getBounds() : null;
+                  if (safeBounds && typeof mapInstance.fitBounds === 'function') mapInstance.fitBounds(safeBounds.pad ? safeBounds.pad(0.1) : safeBounds);
+                } else if (mapInstance && typeof mapInstance.setView === 'function') {
+                  mapInstance.setView([20, 0], 2);
+                }
+              } catch(e) {
+                console.warn('Fallback bounds construction failed', String(e));
+                if (mapInstance && typeof mapInstance.setView === 'function') mapInstance.setView([20, 0], 2);
+              }
+            }
+          } catch(e) { console.warn('fitBounds failed', String(e)); }
+        } else if (mapInstance && typeof mapInstance.setView === 'function') {
+          try { mapInstance.setView([20, 0], 2); } catch(e) { /* ignore */ }
+        }
+  console.log('Map bounds set successfully');
         
         // Add sophisticated legend with toggle controls
-        const legend = L.control({ position: 'bottomright' });
+        var legend = null;
+        if (L.control && typeof L.control === 'function') {
+          try { legend = L.control({ position: 'bottomright' }); } catch(e) { legend = null; }
+        }
+        // Fallback: create a lightweight legend object so we can still render a simple legend
+        if (!legend) {
+          legend = {
+            onAdd: function() {
+              const div = document.createElement('div');
+              div.className = 'info legend';
+              return div;
+            },
+            addTo: function() { return; }
+          };
+        }
+
         legend.onAdd = function() {
           const div = L.DomUtil.create('div', 'info legend');
           div.style.backgroundColor = 'rgba(0,0,0,0.9)';
@@ -2517,32 +2733,39 @@ function renderLeafletMap(points) {
           
           return div;
         };
-        legend.addTo(mapInstance);
+        try { if (legend && mapInstance && typeof legend.addTo === 'function') legend.addTo(mapInstance); } catch(e) { /* ignore */ }
         
-        // Add view toggle functionality
-        setTimeout(() => {
+  // Add view toggle functionality
+  setTimeout(() => {
           const viewMarkersBtn = document.getElementById('viewMarkers');
           const viewHeatmapBtn = document.getElementById('viewHeatmap');
           const viewBothBtn = document.getElementById('viewBoth');
           
           if (viewMarkersBtn && heatmapLayer) {
+            const canUseCluster = isLeafletLayer(markerClusterGroup);
             viewMarkersBtn.onclick = function() {
-              if (!mapInstance.hasLayer(markerClusterGroup)) mapInstance.addLayer(markerClusterGroup);
-              if (mapInstance.hasLayer(heatmapLayer)) mapInstance.removeLayer(heatmapLayer);
+              try {
+                if (canUseCluster && markerClusterGroup && !mapInstance.hasLayer(markerClusterGroup)) mapInstance.addLayer(markerClusterGroup);
+                if (heatmapLayer && mapInstance.hasLayer(heatmapLayer)) mapInstance.removeLayer(heatmapLayer);
+              } catch(e) { console.warn('viewMarkers toggle error', String(e)); }
               currentMapMode = 'markers';
               updateViewButtons();
             };
 
             viewHeatmapBtn.onclick = function() {
-              if (mapInstance.hasLayer(markerClusterGroup)) mapInstance.removeLayer(markerClusterGroup);
-              if (!mapInstance.hasLayer(heatmapLayer)) mapInstance.addLayer(heatmapLayer);
+              try {
+                if (canUseCluster && markerClusterGroup && mapInstance.hasLayer(markerClusterGroup)) mapInstance.removeLayer(markerClusterGroup);
+                if (heatmapLayer && !mapInstance.hasLayer(heatmapLayer)) mapInstance.addLayer(heatmapLayer);
+              } catch(e) { console.warn('viewHeatmap toggle error', String(e)); }
               currentMapMode = 'heatmap';
               updateViewButtons();
             };
 
             viewBothBtn.onclick = function() {
-              if (!mapInstance.hasLayer(markerClusterGroup)) mapInstance.addLayer(markerClusterGroup);
-              if (!mapInstance.hasLayer(heatmapLayer)) mapInstance.addLayer(heatmapLayer);
+              try {
+                if (canUseCluster && markerClusterGroup && !mapInstance.hasLayer(markerClusterGroup)) mapInstance.addLayer(markerClusterGroup);
+                if (heatmapLayer && !mapInstance.hasLayer(heatmapLayer)) mapInstance.addLayer(heatmapLayer);
+              } catch(e) { console.warn('viewBoth toggle error', String(e)); }
               currentMapMode = 'both';
               updateViewButtons();
             };
@@ -2556,23 +2779,27 @@ function renderLeafletMap(points) {
             // Set initial state
             updateViewButtons();
           }
-        }, 100);
+  }, 100);
         
       } catch (boundsError) {
-        console.error('Error setting map bounds:', boundsError);
-        // Fallback to default view
-        mapInstance.setView([20, 0], 2);
+        console.error('Error setting map bounds:', String(boundsError));
+        // Fallback to default view if possible
+        try { if (mapInstance && typeof mapInstance.setView === 'function') mapInstance.setView([20, 0], 2); } catch(e) { /* ignore */ }
       }
     } else {
       // If no valid markers, show a default view
       console.log('No valid markers, showing default view');
-      mapInstance.setView([20, 0], 2);
+      try { if (mapInstance && typeof mapInstance.setView === 'function') mapInstance.setView([20, 0], 2); } catch(e) { /* ignore */ }
     }
     
-    console.log('Map rendering completed successfully');
+  console.log('Map rendering completed successfully');
     
   } catch (error) {
-    console.error('Error in renderLeafletMap:', error);
-    mapContainer.innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #ef4444; font-size: 0.9rem;">Error rendering map: ' + error.message + '</div>';
+    console.error('Error in renderLeafletMap:', String(error));
+    try {
+      mapContainer.innerHTML = '<div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #ef4444; font-size: 0.9rem;">Error rendering map: ' + (error && error.message ? error.message : String(error)) + '</div>';
+    } catch(e) {
+      // nothing else we can do
+    }
   }
 }
