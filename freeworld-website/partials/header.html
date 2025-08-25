@@ -1,0 +1,20 @@
+<header>
+  <div class="nav-container">
+    <div class="nav-title">FreeWorld XenoData</div>
+    <nav>
+      <ul class="nav-menu">
+        <li><a href="index.html"{% if page == 'home' %} class="active"{% endif %}>Home</a></li>
+        <li><a href="sightings.html"{% if page == 'sightings' %} class="active"{% endif %}>Sightings</a></li>
+        <li><a href="analytics.html"{% if page == 'analytics' %} class="active"{% endif %}>Analytics</a></li>
+        <li><a href="map.html"{% if page == 'map' %} class="active"{% endif %}>Map</a></li>
+        <li><a href="cases.html"{% if page == 'cases' %} class="active"{% endif %}>Famous Cases</a></li>
+        <li><a href="timeline.html"{% if page == 'timeline' %} class="active"{% endif %}>Timeline</a></li>
+        <li><a href="parks.html"{% if page == 'parks' %} class="active"{% endif %}>National Parks</a></li>
+        <li><a href="notes.html"{% if page == 'notes' %} class="active"{% endif %}>Research Notes</a></li>
+        <li><a href="methodology.html"{% if page == 'methodology' %} class="active"{% endif %}>Methodology</a></li>
+        <li><a href="about.html"{% if page == 'about' %} class="active"{% endif %}>About</a></li>
+        <li><a href="legal.html"{% if page == 'legal' %} class="active"{% endif %}>Legal</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
