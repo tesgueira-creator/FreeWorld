@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FreeWorld XenoData | Sightings</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="nav-container">
+      <div class="nav-title">FreeWorld XenoData</div>
+      <nav>
+        <ul class="nav-menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="sightings.html" class="active">Sightings</a></li>
+          <li><a href="analytics.html">Analytics</a></li>
+          <li><a href="map.html">Map</a></li>
+          <li><a href="cases.html">Famous Cases</a></li>
+          <li><a href="timeline.html">Timeline</a></li>
+          <li><a href="parks.html">National Parks</a></li>
+          <li><a href="notes.html">Research Notes</a></li>
+          <li><a href="methodology.html">Methodology</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="legal.html">Legal</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" style="background-image: url('assets/bg/sightings.png'); min-height: 40vh;">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1 class="hero-title">Sightings Database</h1>
+      <p class="hero-subtitle">Filter and explore detailed witness reports from around the globe.</p>
+    </div>
+  </section>
+
+  <main style="max-width: 1440px; margin: 0 auto; padding: var(--space-6) var(--space-4); display: flex; gap: var(--space-6); align-items: flex-start;">
+    <!-- Filters Pane -->
+    <aside style="flex: 0 0 280px; background-color: var(--color-card); border: 1px solid var(--color-border); border-radius: var(--radius-medium); padding: var(--space-4);">
+      <h2 style="font-size: var(--font-size-md); margin-bottom: var(--space-3); color: var(--color-accent);">Filters</h2>
+      <label style="display:block; margin-bottom: var(--space-2); font-size: var(--font-size-sm);">Search Description</label>
+      <input type="text" id="sightingSearch" placeholder="Keyword..." style="width:100%; padding: var(--space-2); border:1px solid var(--color-border); border-radius: var(--radius-small); margin-bottom: var(--space-3); background-color: var(--color-surface); color: var(--color-text);">
+      <label style="display:block; margin-bottom: var(--space-2); font-size: var(--font-size-sm);">Shape</label>
+      <select id="shapeFilter" style="width:100%; padding: var(--space-2); border:1px solid var(--color-border); border-radius: var(--radius-small); margin-bottom: var(--space-3); background-color: var(--color-surface); color: var(--color-text);"></select>
+      <p style="font-size: var(--font-size-xs); color: var(--color-muted); margin-top: var(--space-4);">Use the search box and dropdown to narrow down reports. Data is loaded locally and no information leaves your device.</p>
+    </aside>
+    
+    <!-- Table -->
+    <section style="flex: 1 1 auto; background-color: var(--color-card); border: 1px solid var(--color-border); border-radius: var(--radius-medium); padding: var(--space-4); overflow-x: auto;">
+      <table id="sightingsTable" style="width:100%; border-collapse: collapse;">
+        <thead>
+          <tr style="background-color: var(--color-surface);">
+            <th style="padding: var(--space-2); text-align:left; border-bottom:1px solid var(--color-border);">Date</th>
+            <th style="padding: var(--space-2); text-align:left; border-bottom:1px solid var(--color-border);">Location</th>
+            <th style="padding: var(--space-2); text-align:left; border-bottom:1px solid var(--color-border);">Shape</th>
+            <th style="padding: var(--space-2); text-align:left; border-bottom:1px solid var(--color-border);">Duration (min)</th>
+            <th style="padding: var(--space-2); text-align:left; border-bottom:1px solid var(--color-border);">Confidence</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+      <div id="pagination" style="margin-top: var(--space-4); display:flex; align-items:center;"></div>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 FreeWorld XenoData. All rights reserved.
+    <button id="contrastToggle" style="margin-left:16px; padding:4px 8px; font-size:0.75rem; background-color:transparent; border:1px solid var(--color-muted); color:var(--color-muted); border-radius:4px; cursor:pointer;">Toggle High Contrast</button>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

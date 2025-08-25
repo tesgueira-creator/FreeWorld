@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FreeWorld XenoData | Home</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="nav-container">
+      <div class="nav-title">FreeWorld XenoData</div>
+      <nav>
+        <ul class="nav-menu">
+          <li><a href="index.html" class="active">Home</a></li>
+          <li><a href="sightings.html">Sightings</a></li>
+          <li><a href="analytics.html">Analytics</a></li>
+          <li><a href="map.html">Map</a></li>
+          <li><a href="cases.html">Famous Cases</a></li>
+          <li><a href="timeline.html">Timeline</a></li>
+          <li><a href="parks.html">National Parks</a></li>
+          <li><a href="notes.html">Research Notes</a></li>
+          <li><a href="methodology.html">Methodology</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="legal.html">Legal</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero" style="background-image: url('assets/bg/home.png');">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1 class="hero-title">Investigate the Unknown</h1>
+      <p class="hero-subtitle">A local-first research lab exploring UFO and UAP phenomena with data driven curiosity.</p>
+      <div class="cta-buttons">
+        <a class="btn btn-primary" href="map.html">Explore Map</a>
+        <a class="btn btn-secondary" href="analytics.html">Open Analytics Lab</a>
+        <a class="btn btn-ghost" href="sightings.html">Browse Sightings</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Highlights Section -->
+  <section class="highlights">
+    <div class="highlight-card">
+      <div class="highlight-thumb" style="background-image: linear-gradient(135deg, #00ffd5 0%, #0088ff 100%);"></div>
+      <div class="highlight-body">
+        <h3 class="highlight-title">Weekly Anomaly Pulse</h3>
+        <p class="highlight-text">Track the last twelve weeks of unusual spikes in reporting activity. Each bar represents a z‑score relative to historical norms. High peaks warrant closer scrutiny, though outliers could reflect short‑term media effects rather than true anomalies.</p>
+      </div>
+    </div>
+    <div class="highlight-card">
+      <div class="highlight-thumb" style="background-image: linear-gradient(135deg, #ff62b0 0%, #ffb400 100%);"></div>
+      <div class="highlight-body">
+        <h3 class="highlight-title">Emerging Cities</h3>
+        <p class="highlight-text">Discover locations where sightings are first recorded in our data. New cities are highlighted along with the date of their inaugural report. These vanguard points help researchers identify expanding interest or novel flight corridors.</p>
+      </div>
+    </div>
+    <div class="highlight-card">
+      <div class="highlight-thumb" style="background-image: linear-gradient(135deg, #9d5bff 0%, #00ffd5 100%);"></div>
+      <div class="highlight-body">
+        <h3 class="highlight-title">Dominant Shapes</h3>
+        <p class="highlight-text">Which craft shapes dominate in recent months? See the distribution of discs, spheres, triangles and other forms over the past 90 days. Variations can hint at shifts in technology or reporting bias.</p>
+      </div>
+    </div>
+    <div class="highlight-card">
+      <div class="highlight-thumb" style="background-image: linear-gradient(135deg, #ffc857 0%, #ff62b0 100%);"></div>
+      <div class="highlight-body">
+        <h3 class="highlight-title">Confidence Pulse</h3>
+        <p class="highlight-text">Follow the mean and median confidence levels in recent reports. Rising trends may reflect improved witness quality or instrumentation; downward shifts could indicate increasing ambiguity. Interpret cautiously as confidence is self‑reported.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mini Map Section -->
+  <section class="mini-map-container">
+    <h2 class="mini-map-header">Sightings Distribution</h2>
+    <canvas id="miniMap" class="mini-map" width="640" height="360" aria-label="Scatter plot of sightings locations"></canvas>
+    <p class="illustration-caption">This compact scatter map visualises the geographic spread of recent sightings. Each glowing point represents a report within our local database. Regions with higher density invite deeper exploration in the Map section.</p>
+  </section>
+
+  <!-- Illustration Section -->
+  <section class="illustration-section">
+    <img src="assets/bg/analytics.png" class="illustration-img" alt="Abstract research lab console illustration without text">
+    <p class="illustration-caption">FreeWorld XenoData operates entirely offline. Our pipeline ingests raw reports, validates them, derives new features and precomputes aggregates locally. Illustrated above is a stylised view of our research console with data pipelines glowing in neon.</p>
+  </section>
+
+  <footer>
+    © 2025 FreeWorld XenoData. All rights reserved.
+    <button id="contrastToggle" style="margin-left:16px; padding:4px 8px; font-size:0.75rem; background-color:transparent; border:1px solid var(--color-muted); color:var(--color-muted); border-radius:4px; cursor:pointer;">Toggle High Contrast</button>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

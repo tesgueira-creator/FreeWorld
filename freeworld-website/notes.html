@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FreeWorld XenoData | Research Notes</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="nav-container">
+      <div class="nav-title">FreeWorld XenoData</div>
+      <nav>
+        <ul class="nav-menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="sightings.html">Sightings</a></li>
+          <li><a href="analytics.html">Analytics</a></li>
+          <li><a href="map.html">Map</a></li>
+          <li><a href="cases.html">Famous Cases</a></li>
+          <li><a href="timeline.html">Timeline</a></li>
+          <li><a href="parks.html">National Parks</a></li>
+          <li><a href="notes.html" class="active">Research Notes</a></li>
+          <li><a href="methodology.html">Methodology</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="legal.html">Legal</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" style="background-image: url('assets/bg/notes.png'); min-height: 40vh;">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1 class="hero-title">Research Notes</h1>
+      <p class="hero-subtitle">A living notebook of hypotheses, caveats, and alternative explanations.</p>
+    </div>
+  </section>
+
+  <main style="max-width: 1440px; margin: 0 auto; padding: var(--space-8) var(--space-4);">
+    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--space-6);">
+      <!-- Note card template repeated -->
+      <article class="highlight-card">
+        <div class="highlight-thumb" style="background-image: linear-gradient(135deg, #00ffd5, #ff62b0);"></div>
+        <div class="highlight-body">
+          <h3 class="highlight-title">Atmospheric Plasma Hypothesis</h3>
+          <p class="highlight-text">Could many luminous sphere sightings be ball lightning or transient luminous events? Several reports coincide with thunderstorms. More data on local weather conditions is needed.</p>
+        </div>
+      </article>
+      <article class="highlight-card">
+        <div class="highlight-thumb" style="background-image: linear-gradient(135deg, #9d5bff, #00ffd5);"></div>
+        <div class="highlight-body">
+          <h3 class="highlight-title">Data Quality Caveat</h3>
+          <p class="highlight-text">Descriptions vary widely in length and clarity. Short accounts often lack detail for reliable classification, skewing shape distributions. Future preprocessing could weight reports by description richness.</p>
+        </div>
+      </article>
+      <article class="highlight-card">
+        <div class="highlight-thumb" style="background-image: linear-gradient(135deg, #ffc857, #ff62b0);"></div>
+        <div class="highlight-body">
+          <h3 class="highlight-title">Follow‑up: Triangular Waves</h3>
+          <p class="highlight-text">A clustering of triangular craft in early 2017 warrants targeted investigation. Are these correlated with training exercises or novel aviation prototypes?</p>
+        </div>
+      </article>
+      <article class="highlight-card">
+        <div class="highlight-thumb" style="background-image: linear-gradient(135deg, #00aaff, #00ffd5);"></div>
+        <div class="highlight-body">
+          <h3 class="highlight-title">Silent Gaps</h3>
+          <p class="highlight-text">Periods without reports may reveal observational biases rather than true absence. Holiday seasons and major news events correlate with dips in submissions.</p>
+        </div>
+      </article>
+      <article class="highlight-card">
+        <div class="highlight-thumb" style="background-image: linear-gradient(135deg, #ff62b0, #ffc857);"></div>
+        <div class="highlight-body">
+          <h3 class="highlight-title">Alternative Explanations</h3>
+          <p class="highlight-text">For each case we examine, we document mundane explanations alongside exotic theories. This balanced approach ensures robust science and invites sceptical scrutiny.</p>
+        </div>
+      </article>
+      <article class="highlight-card">
+        <div class="highlight-thumb" style="background-image: linear-gradient(135deg, #00ffd5, #9d5bff);"></div>
+        <div class="highlight-body">
+          <h3 class="highlight-title">Methodological Note</h3>
+          <p class="highlight-text">All analyses are conducted locally. No third‑party services or trackers are involved. Users retain full control of their data and can save views for offline reports.</p>
+        </div>
+      </article>
+    </div>
+  </main>
+
+  <footer>
+    © 2025 FreeWorld XenoData. All rights reserved.
+    <button id="contrastToggle" style="margin-left:16px; padding:4px 8px; font-size:0.75rem; background-color:transparent; border:1px solid var(--color-muted); color:var(--color-muted); border-radius:4px; cursor:pointer;">Toggle High Contrast</button>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

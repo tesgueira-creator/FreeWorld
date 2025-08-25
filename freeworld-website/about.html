@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FreeWorld XenoData | About</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="nav-container">
+      <div class="nav-title">FreeWorld XenoData</div>
+      <nav>
+        <ul class="nav-menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="sightings.html">Sightings</a></li>
+          <li><a href="analytics.html">Analytics</a></li>
+          <li><a href="map.html">Map</a></li>
+          <li><a href="cases.html">Famous Cases</a></li>
+          <li><a href="timeline.html">Timeline</a></li>
+          <li><a href="parks.html">National Parks</a></li>
+          <li><a href="notes.html">Research Notes</a></li>
+          <li><a href="methodology.html">Methodology</a></li>
+          <li><a href="about.html" class="active">About</a></li>
+          <li><a href="legal.html">Legal</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" style="background-image: url('assets/bg/analytics.png'); min-height: 40vh;">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1 class="hero-title">About FreeWorld XenoData</h1>
+      <p class="hero-subtitle">Our mission, principles and the people behind the research.</p>
+    </div>
+  </section>
+
+  <main style="max-width: 1200px; margin: 0 auto; padding: var(--space-8) var(--space-4); display:flex; flex-direction:column; gap: var(--space-8);">
+    <section>
+      <h2 style="font-size: var(--font-size-lg); color: var(--color-accent); margin-bottom: var(--space-3);">Mission</h2>
+      <p style="font-size: var(--font-size-sm); color: var(--color-text); line-height:1.6;">FreeWorld XenoData is a local‑first investigative lab dedicated to understanding unidentified aerial phenomena through rigorous analysis. We believe that transparent science, robust methodology and open communication can demystify the unknown. By keeping all data processing offline, we ensure privacy and control over sensitive information.</p>
+    </section>
+    <section>
+      <h2 style="font-size: var(--font-size-lg); color: var(--color-accent); margin-bottom: var(--space-3);">Constraints</h2>
+      <p style="font-size: var(--font-size-sm); color: var(--color-text); line-height:1.6;">We adhere to a strict local‑only policy: no external APIs, trackers or data scraping. All analytic routines run in the browser or in build‑time workers. This protects user privacy and ensures reproducibility. Our datasets are intentionally limited to those provided in the project—<em>sightings.csv</em> and <em>points_of_interest.public.en</em>. Additional sources will require explicit integration and documentation.</p>
+    </section>
+    <section>
+      <h2 style="font-size: var(--font-size-lg); color: var(--color-accent); margin-bottom: var(--space-3);">Roadmap</h2>
+      <p style="font-size: var(--font-size-sm); color: var(--color-text); line-height:1.6;">Future versions of FreeWorld XenoData will expand the analytics lab to include predictive models, incorporate more nuanced natural language processing for text analysis, and enrich the National Parks section with environmental overlays. We also plan to add a narrative builder so investigators can assemble storylines from charts, maps and notes into structured reports.</p>
+    </section>
+    <section>
+      <h2 style="font-size: var(--font-size-lg); color: var(--color-accent); margin-bottom: var(--space-3);">Credits</h2>
+      <p style="font-size: var(--font-size-sm); color: var(--color-text); line-height:1.6;">This project synthesises ideas from open‑source developers, UX designers and data scientists. We thank the global UFO research community for inspiring this work. All code and assets are developed within this environment; no external contributions are pulled without explicit attribution.</p>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 FreeWorld XenoData. All rights reserved.
+    <button id="contrastToggle" style="margin-left:16px; padding:4px 8px; font-size:0.75rem; background-color:transparent; border:1px solid var(--color-muted); color:var(--color-muted); border-radius:4px; cursor:pointer;">Toggle High Contrast</button>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FreeWorld XenoData | Analytics</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="nav-container">
+      <div class="nav-title">FreeWorld XenoData</div>
+      <nav>
+        <ul class="nav-menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="sightings.html">Sightings</a></li>
+          <li><a href="analytics.html" class="active">Analytics</a></li>
+          <li><a href="map.html">Map</a></li>
+          <li><a href="cases.html">Famous Cases</a></li>
+          <li><a href="timeline.html">Timeline</a></li>
+          <li><a href="parks.html">National Parks</a></li>
+          <li><a href="notes.html">Research Notes</a></li>
+          <li><a href="methodology.html">Methodology</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="legal.html">Legal</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" style="background-image: url('assets/bg/analytics.png'); min-height: 40vh;">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1 class="hero-title">Analytics Lab</h1>
+      <p class="hero-subtitle">Visualise patterns, trends and hidden structures in the sightings data.</p>
+    </div>
+  </section>
+
+  <main>
+    <section class="chart-grid">
+      <div class="chart-card">
+        <h3 class="chart-title">Sighting Volume</h3>
+        <canvas id="chart1" class="chart-canvas" width="560" height="320" aria-label="Line chart of monthly counts by shape"></canvas>
+        <p class="chart-interpretation">This chart plots the number of sightings per shape each month. Spikes point to bursts of activity, but caution: z‑scores assume stationarity and cannot distinguish between genuine flurries and reporting artefacts.</p>
+        <p class="chart-limitations">Limitations: dataset may be biased toward certain regions; smoothing techniques are not applied here.</p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Shape Evolution</h3>
+        <canvas id="chart2" class="chart-canvas" width="560" height="320" aria-label="Line chart of shape evolution"></canvas>
+        <p class="chart-interpretation">Observe how the prevalence of discs, spheres and other shapes changes over time. Plateaus could indicate persistent phenomena; declines might reflect fading interest or classification changes.</p>
+        <p class="chart-limitations">Limitations: shapes are normalised at load time; rare categories may be underrepresented.</p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Confidence Trend</h3>
+        <canvas id="chart3" class="chart-canvas" width="560" height="320" aria-label="Line chart of confidence scores"></canvas>
+        <p class="chart-interpretation">Tracking mean confidence scores across months reveals how sure witnesses feel about what they saw. Upswings may correspond to clear conditions or improvements in observation equipment.</p>
+        <p class="chart-limitations">Limitations: confidence is subjective and self‑reported; extreme values may distort the mean.</p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">City Persistence</h3>
+        <canvas id="chart4" class="chart-canvas" width="560" height="320" aria-label="Line chart of city persistence"></canvas>
+        <p class="chart-interpretation">Cities with consistent monthly reports stand out as persistent clusters. Such persistence might indicate long‑term surveillance or simply well‑connected local communities reporting more often.</p>
+        <p class="chart-limitations">Limitations: this view does not control for population size or reporting platforms.</p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Shape Diversity</h3>
+        <canvas id="chart5" class="chart-canvas" width="560" height="320" aria-label="Line chart of shape diversity"></canvas>
+        <p class="chart-interpretation">Diversity metrics measure how evenly different shapes are represented. High values reflect a rich mixture of forms, while low values suggest domination by a few types.</p>
+        <p class="chart-limitations">Limitations: diversity indices do not capture underlying causes; outliers may skew perception.</p>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Emergence of New Cities</h3>
+        <canvas id="chart6" class="chart-canvas" width="560" height="320" aria-label="Line chart of new city emergence"></canvas>
+        <p class="chart-interpretation">The appearance of new reporting locations over time can highlight expanding awareness or novel flight paths. A surge may coincide with media campaigns or scientific outreach.</p>
+        <p class="chart-limitations">Limitations: our data only captures first occurrences; follow‑up reports are not shown here.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 FreeWorld XenoData. All rights reserved.
+    <button id="contrastToggle" style="margin-left:16px; padding:4px 8px; font-size:0.75rem; background-color:transparent; border:1px solid var(--color-muted); color:var(--color-muted); border-radius:4px; cursor:pointer;">Toggle High Contrast</button>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
