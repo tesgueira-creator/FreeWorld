@@ -8,26 +8,9 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <header>
-    <div class="nav-container">
-      <div class="nav-title">FreeWorld XenoData</div>
-      <nav>
-        <ul class="nav-menu">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="sightings.html">Sightings</a></li>
-          <li><a href="analytics.html">Analytics</a></li>
-          <li><a href="map.html">Map</a></li>
-          <li><a href="cases.html">Famous Cases</a></li>
-          <li><a href="timeline.html">Timeline</a></li>
-          <li><a href="parks.html">National Parks</a></li>
-          <li><a href="notes.html">Research Notes</a></li>
-          <li><a href="methodology.html" class="active">Methodology</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="legal.html">Legal</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+  {% set page = 'methodology' %}
+  {% include 'partials/header.html' %}
+
 
   <section class="hero" style="background-image: url('assets/bg/analytics.png'); min-height: 40vh;">
     <div class="hero-overlay"></div>
@@ -56,10 +39,7 @@
     </section>
   </main>
 
-  <footer>
-    © 2025 FreeWorld XenoData. All rights reserved.
-    <button id="contrastToggle" style="margin-left:16px; padding:4px 8px; font-size:0.75rem; background-color:transparent; border:1px solid var(--color-muted); color:var(--color-muted); border-radius:4px; cursor:pointer;">Toggle High Contrast</button>
-  </footer>
+  {% include 'partials/footer.html' %}
 
   <script src="js/script.js"></script>
 </body>
