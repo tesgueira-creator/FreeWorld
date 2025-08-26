@@ -734,3 +734,12 @@ table tr:nth-child(even) {
     max-width: 50%;
   }
 }
+
+/* Atlas map */
+#map {
+  height: 480px;
+  width: 100%;
+  margin-top: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
