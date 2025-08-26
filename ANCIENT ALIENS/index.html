@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="XenoOrigin explores ancient archaeology, myths and anomalous artefacts with data-driven essays, evidence pages and critical commentary on extraordinary claims.">
+    <title>XenoOrigin – Exploring our ancient past</title>
+    <link rel="stylesheet" href="style.css" />
+  <!-- Open Graph tags -->
+  <meta property="og:title" content="XenoOrigin – Exploring our ancient past" />
+  <meta property="og:description" content="XenoOrigin explores ancient archaeology, myths and anomalous artefacts with data-driven essays and evidence pages." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="public/images/hero.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  </head>
+  <body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+    <!-- Header & navigation -->
+    <header>
+      <div class="logo">XenoOrigin</div>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="theory.html">Theory</a>
+        <a href="evidence.html">Evidence</a>
+        <a href="modern.html">Modern Ufology</a>
+        <a href="arguments.html">Arguments</a>
+        <a href="comparator.html">Comparator</a>
+        <a href="atlas.html">Atlas</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="library.html">Library</a>
+        <a href="about.html">About</a>
+      </nav>
+    </header>
+
+  <main id="main-content">
+  <!-- Hero section -->
+  <section class="hero">
+      <div class="hero-content">
+        <h1>Archaeology, myths and technology out of time</h1>
+        <p class="subtitle">
+          Dive into a data‑driven exploration of humanity’s oldest mysteries.
+        </p>
+        <a class="btn" href="evidence.html">Explore the evidence</a>
+      </div>
+      <div class="hero-image">
+        <img src="public/images/hero.png" alt="Cosmic landscape with constellations" loading="lazy" />
+      </div>
+    </section>
+
+    <!-- Anchor cards -->
+    <section class="anchors">
+      <a class="anchor-card" href="evidence.html">
+        <h2>Evidence</h2>
+        <p>Sites, artefacts, texts and modern cases</p>
+      </a>
+      <a class="anchor-card" href="arguments.html#pro">
+        <h2>Arguments</h2>
+        <p>Pro, critiques and pointbypoint rebuttals</p>
+      </a>
+      <a class="anchor-card" href="comparator.html">
+        <h2>Comparator</h2>
+        <p>Compare sites and metrics sidebyside</p>
+      </a>
+    </section>
+
+    <!-- Featured chart section -->
+    <section class="featured-chart">
+      <h2>Engineering at the limits</h2>
+      <p>
+        How do the heaviest ancient stones stack up against the lifting power of
+        modern machines? Our bar chart puts mythical megaliths on the same
+        footing as a state‑of‑the‑art crane.
+      </p>
+      <img
+        src="public/images/top_blocks_mass.png"
+        alt="Bar chart comparing ancient block masses against modern heavy lift capacity"
+        loading="lazy"
+      />
+    </section>
+
+    <!-- Spotlight case -->
+    <section class="spotlight">
+      <h2>Spotlight: The Great Pyramid of Giza</h2>
+      <div class="spotlight-content">
+  <img src="public/images/giza.jpg" alt="Aerial view of the Giza pyramids" loading="lazy" />
+        <div class="spotlight-info">
+          <p>
+            <strong>Location:</strong> Giza, Egypt<br />
+            <strong>Date:</strong> c. 2560 BC<br />
+            <strong>Intriguing because:</strong> 2.3 million blocks weighing up to 80
+            tonnes, aligned to true north within 1/15th of a degree.
+          </p>
+          <a href="giza.html" class="btn small">View details</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Latest blog posts -->
+    <section class="blog-preview">
+      <h2>Latest from the blog</h2>
+      <div class="blog-cards">
+        <article class="blog-card">
+          <h3>Decoding the Baalbek Terrace</h3>
+          <p>
+            Our editors examine the engineering gymnastics behind the Stone of the
+            Pregnant Woman and her colossal cousins.
+          </p>
+          <a href="blog.html#post-1" class="btn small">Read more</a>
+        </article>
+        <article class="blog-card">
+          <h3>Sky‑gods across cultures</h3>
+          <p>
+            Mythic motifs recur from Sumer to Mesoamerica. We survey recurring
+            themes and what they might mean.
+          </p>
+          <a href="blog.html#post-2" class="btn small">Read more</a>
+        </article>
+        <article class="blog-card">
+          <h3>Modern sightings & ancient sites</h3>
+          <p>
+            Is there a pattern linking modern UFO hotspots with ancient
+            megalithic hubs? A preliminary analysis.
+          </p>
+          <a href="blog.html#post-3" class="btn small">Read more</a>
+        </article>
+      </div>
+    </section>
+
+    <!-- Mini map placeholder -->
+    <section class="mini-map">
+      <h2>Explore the Atlas</h2>
+      <div class="map-container">
+  <img src="public/images/nuremberg.jpg" alt="World map with highlighted sites" loading="lazy" />
+        <div class="map-overlay">
+          <span>Interactive map coming soon…</span>
+          <a href="atlas.html" class="btn small">Open Atlas</a>
+        </div>
+      </div>
+    </section>
+
+  <!-- Newsletter signup -->
+    <section class="newsletter">
+      <h2>Stay updated</h2>
+      <p>
+        Join our mailing list to receive new evidence pages, analyses and
+        interviews as they go live.
+      </p>
+      <!-- Replace FORMSPREE_ENDPOINT with your Formspree form ID or endpoint -->
+      <form id="newsletter-form" action="https://formspree.io/f/FORMSPREE_ENDPOINT" method="POST" onsubmit="subscribe(event)">
+        <input id="newsletter-email" aria-label="Email address for newsletter" name="email" type="email" placeholder="Your email address" required />
+        <button type="submit" class="btn">Subscribe</button>
+      </form>
+      <p id="newsletter-message" class="message"></p>
+    </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <p>© 2025 XenoOrigin. All rights reserved.</p>
+      <p>
+        <a href="about.html#editorial-policy">Editorial policy</a> |
+        <a href="about.html#credits">Credits</a> |
+        <a href="about.html#contact">Submit a case</a>
+      </p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

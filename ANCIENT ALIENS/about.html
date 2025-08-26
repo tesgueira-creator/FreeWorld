@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="About XenoOrigin: editorial policy, team and contact details for a research-driven look at ancient anomalies and hypotheses.">
+  <title>About – XenoOrigin</title>
+  <link rel="stylesheet" href="style.css">
+  <meta property="og:title" content="About – XenoOrigin">
+  <meta property="og:description" content="About XenoOrigin: editorial policy, team and contact details for a research-driven look at ancient anomalies and hypotheses.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="public/images/hero.png">
+  <meta name="twitter:card" content="summary">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo">XenoOrigin</a>
+      <nav>
+        <a href="theory.html">Theory</a>
+        <a href="evidence.html">Evidence</a>
+        <a href="modern.html">Modern Ufology</a>
+        <a href="arguments.html">Arguments</a>
+        <a href="comparator.html">Comparator</a>
+        <a href="atlas.html">Atlas</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="blog.html">Blog</a>
+        <a href="library.html">Library</a>
+        <a href="about.html" class="active">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content" class="container page-content">
+    <h1>About &amp; Contact</h1>
+
+    <section class="editorial-policy">
+      <h2>Editorial Policy</h2>
+      <p>XenoOrigin takes a pro‑Ancient Astronaut stance while maintaining rigorous standards of evidence.  Each page labels material as real or AI, hypothesis or evidence, and provides a reliability score.  We prioritise transparency by citing our sources and presenting critiques alongside pro‑theory interpretations.  Our goal is to foster informed discussion rather than sensationalism.</p>
+    </section>
+
+    <section class="team">
+      <h2>Team</h2>
+      <p>XenoOrigin is produced by a small collective of researchers, coders and editors who share an interest in ancient mysteries and open inquiry.  Our backgrounds span archaeology, physics, design and journalism.  We operate anonymously to keep the focus on the content.</p>
+    </section>
+
+    <section class="contact-form">
+      <h2>Contact Us</h2>
+      <p>If you have feedback, corrections, or want to submit a case study, please fill out the form below.  We value evidence‑based contributions.</p>
+  <form id="contact-form">
+        <div class="form-group">
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+        <div class="form-group">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="4" required></textarea>
+        </div>
+        <button type="submit" class="btn">Send Message</button>
+      </form>
+      <p id="contact-message" class="message" aria-live="polite"></p>
+      <script>
+        (function () {
+          var form = document.getElementById('contact-form');
+          if (!form) return;
+          form.addEventListener('submit', function (e) {
+            e.preventDefault();
+            var msg = document.getElementById('contact-message');
+            msg.textContent = 'Thank you for your message! We will review and respond if required.';
+            form.reset();
+          });
+        })();
+      </script>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2025 XenoOrigin. We respect your privacy and do not collect personal data beyond this form submission.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
