@@ -7,6 +7,27 @@
   <meta name="description" content="XenoOrigin explores ancient archaeology, myths and anomalous artefacts with data-driven essays, evidence pages and critical commentary on extraordinary claims.">
     <title>XenoOrigin – Exploring our ancient past</title>
     <link rel="stylesheet" href="style.css" />
+  <!-- Canonical & icons -->
+  <link rel="canonical" href="https://www.xenoorigin.example/" />
+    <link rel="icon" type="image/svg+xml" href="public/images/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="public/images/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="public/images/favicon-16.png" />
+    <link rel="apple-touch-icon" href="public/images/apple-touch-icon.png" />
+    <meta name="color-scheme" content="dark light" />
+  <!-- Preload hero video for faster visual start -->
+  <link rel="preload" as="video" href="public/videos/alien.webm" type="video/webm" />
+    <script type="application/ld+json">{
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "XenoOrigin",
+      "url": "https://www.xenoorigin.example/",
+      "description": "Data-driven exploration of ancient archaeology, anomalous artefacts and palaeocontact claims.",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.xenoorigin.example/search?q={query}",
+        "query-input": "required name=query"
+      }
+    }</script>
   <!-- Open Graph tags -->
   <meta property="og:title" content="XenoOrigin – Exploring our ancient past" />
   <meta property="og:description" content="XenoOrigin explores ancient archaeology, myths and anomalous artefacts with data-driven essays and evidence pages." />
@@ -20,7 +41,7 @@
     <header>
       <div class="logo">XenoOrigin</div>
       <nav>
-        <a href="index.html">Home</a>
+  <a href="index.html" aria-current="page">Home</a>
         <a href="theory.html">Theory</a>
         <a href="evidence.html">Evidence</a>
         <a href="modern.html">Modern Ufology</a>
@@ -35,16 +56,25 @@
     </header>
 
   <main id="main-content">
-  <!-- Hero section -->
-  <section class="hero" role="img" aria-label="Cosmic landscape with constellations">
-      <div class="hero-content">
-        <h1>Archaeology, myths and technology out of time</h1>
-        <p class="subtitle">
-          Dive into a data‑driven exploration of humanity’s oldest mysteries.
-        </p>
-        <a class="btn" href="evidence.html">Explore the evidence</a>
-      </div>
-    </section>
+  <!-- Hero section (centered GIF with decorative effects) -->
+  <section class="hero hero-centered" aria-label="Cosmic landscape with constellations">
+    <div class="hero-inner">
+      <h1 class="hero-title">Archaeology, myths and technology out of time</h1>
+      <p class="hero-tagline">Dive into a data‑driven exploration of humanity’s oldest mysteries.</p>
+      <figure class="hero-artframe" aria-label="Animated alien welcome message">
+        <div class="glow halo"></div>
+        <div class="glow ring"></div>
+        <img class="hero-gif" src="public/images/20250821_0003_Alien%20Welcome%20Message_simple_compose_01k34vjzftf5cv76kxhvdf772g.gif" alt="Alien figure raising a hand in greeting" decoding="async" loading="lazy" width="420" height="236" />
+        <figcaption class="visually-hidden">Looped animated greeting</figcaption>
+      </figure>
+      <nav class="hero-cta" aria-label="Primary exploration shortcuts">
+        <a class="btn" href="evidence.html">Explore evidence</a>
+        <a class="btn" href="gallery.html">View gallery</a>
+        <a class="btn" href="blog.html">Read blog</a>
+      </nav>
+      <div class="hero-scroll-hint" aria-hidden="true">Scroll ↓</div>
+    </div>
+  </section>
 
     <!-- Anchor cards -->
     <section class="anchors">
@@ -54,11 +84,11 @@
       </a>
       <a class="anchor-card" href="arguments.html#pro">
         <h2>Arguments</h2>
-        <p>Pro, critiques and pointbypoint rebuttals</p>
+  <p>Pro, critiques and point-by-point rebuttals</p>
       </a>
       <a class="anchor-card" href="comparator.html">
         <h2>Comparator</h2>
-        <p>Compare sites and metrics sidebyside</p>
+  <p>Compare sites and metrics side-by-side</p>
       </a>
     </section>
 
@@ -70,11 +100,10 @@
         modern machines? Our bar chart puts mythical megaliths on the same
         footing as a state‑of‑the‑art crane.
       </p>
-      <img
-        src="public/images/top_blocks_mass.png"
-        alt="Bar chart comparing ancient block masses against modern heavy lift capacity"
-        loading="lazy"
-      />
+      <picture>
+        <source srcset="public/images/top_blocks_mass.png" type="image/png" />
+        <img src="public/images/top_blocks_mass.png" alt="Bar chart comparing ancient block masses against modern heavy lift capacity" width="1200" height="675" loading="lazy" />
+      </picture>
     </section>
 
     <!-- Spotlight case -->
