@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Atlas – XenoOrigin</title>
   <link rel="stylesheet" href="style.css">
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC0="
+    crossorigin="" />
   <meta property="og:title" content="Atlas – XenoOrigin">
   <meta property="og:description" content="Interactive atlas of ancient sites, artefacts and modern sighting clusters (coming soon).">
   <meta property="og:type" content="website">
@@ -35,19 +40,7 @@
     <h1>Atlas</h1>
     <p>The Atlas will display an interactive world map with clustered pins for megaliths, geoglyphs, artefacts, texts and modern sightings.  Each pin opens a micro‑card with key metrics and links to the full evidence page.</p>
 
-    <section class="map-placeholder">
-      <h2>Map Placeholder</h2>
-      <p>The interactive map is under development.  Below is a list of sample locations included in the Atlas:</p>
-      <ul>
-        <li>Great Pyramid of Giza – Egypt (Africa)</li>
-        <li>Baalbek – Lebanon (Asia)</li>
-        <li>Pumapunku – Bolivia (Americas)</li>
-        <li>Stonehenge – United Kingdom (Europe)</li>
-        <li>Nazca Lines – Peru (Americas)</li>
-        <li>Antikythera Shipwreck – Greece (Europe)</li>
-        <li>Nuremberg Sky Event – Germany (Europe)</li>
-      </ul>
-    </section>
+    <div id="map" aria-label="Interactive map of ancient sites"></div>
   </main>
 
   <footer class="site-footer">
@@ -56,6 +49,10 @@
     </div>
   </footer>
 
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-pHQKHB17VEpEt3gjYsHDzM3xPUfNQ4G08EkMced/JFI="
+    crossorigin=""></script>
   <script src="script.js"></script>
 </body>
 </html>

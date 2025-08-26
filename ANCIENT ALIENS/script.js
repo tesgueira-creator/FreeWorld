@@ -20,3 +20,27 @@ function subscribe(event) {
 }
 
 // Future hooks: simple page toggles or comparator logic can be added here.
+
+document.addEventListener('DOMContentLoaded', () => {
+  const mapEl = document.getElementById('map');
+  if (mapEl && typeof L !== 'undefined') {
+    const map = L.map('map').setView([20, 0], 2);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    const sites = [
+      { coords: [29.9792, 31.1342], label: 'Great Pyramid of Giza' },
+      { coords: [34.006, 36.2038], label: 'Baalbek' },
+      { coords: [-16.561, -68.6804], label: 'Pumapunku' },
+      { coords: [51.1789, -1.8262], label: 'Stonehenge' },
+      { coords: [-14.739, -75.13], label: 'Nazca Lines' },
+      { coords: [35.9411, 26.2747], label: 'Antikythera Shipwreck' },
+      { coords: [49.4521, 11.0767], label: 'Nuremberg Sky Event' }
+    ];
+
+    sites.forEach(site => {
+      L.marker(site.coords).addTo(map).bindPopup(site.label);
+    });
+  }
+});
