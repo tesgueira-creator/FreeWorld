@@ -33,23 +33,48 @@
 
   <main id="main-content" class="container page-content">
     <h1>Gallery</h1>
-    <p>Browse real images from ancient sites, AI concept art inspired by myths, and curated videos.  All visuals are credited and labelled accordingly.</p>
+    <p>Browse real images from ancient sites, AI concept art inspired by myths, and curated videos. All visuals are credited and labelled accordingly.</p>
 
     <section class="gallery-section">
       <h2>Real Images</h2>
-      <div class="media-grid">
-  <img src="public/images/giza.jpg" alt="Great Pyramid of Giza" title="Great Pyramid of Giza (CC0)" loading="lazy">
-  <img src="public/images/baalbek.jpg" alt="Baalbek megalith" title="Baalbek Stone (Public Domain)" loading="lazy">
-  <img src="public/images/stonehenge.jpg" alt="Stonehenge" title="Stonehenge (CC BY‑SA)" loading="lazy">
-  <img src="public/images/antikythera.jpg" alt="Antikythera mechanism fragments" title="Antikythera Mechanism (CC BY‑SA)" loading="lazy">
-  <img src="public/images/quimbaya.jpg" alt="Quimbaya gold figurines" title="Quimbaya Figurines (CC BY‑SA)" loading="lazy">
-  <img src="public/images/nuremberg.jpg" alt="Nuremberg celestial phenomenon woodcut" title="Nuremberg 1561 Woodcut (Public Domain)" loading="lazy">
+      <div class="gallery-controls">
+        <label for="gallery-sort">Sort:</label>
+        <select id="gallery-sort">
+          <option value="default">Default</option>
+          <option value="name">Name (A–Z)</option>
+        </select>
       </div>
+
+      <div id="media-grid" class="media-grid" data-per-page="6" aria-live="polite">
+        <template id="media-item-template">
+          <figure class="media-item">
+            <picture>
+              <source type="image/webp" data-srcset="" />
+              <img data-src="" data-srcset="" alt="" loading="lazy" width="400" height="225">
+            </picture>
+            <figcaption class="caption"></figcaption>
+          </figure>
+        </template>
+      </div>
+
+      <nav id="gallery-pager" class="pager" aria-label="Gallery pagination">
+        <button id="prev-page" class="btn small" aria-label="Previous page">Previous</button>
+        <span id="pager-info" class="pager-info"></span>
+        <button id="next-page" class="btn small" aria-label="Next page">Next</button>
+      </nav>
+
+      <noscript>
+        <div class="media-grid">
+          <img src="public/images/giza.jpg" alt="Great Pyramid of Giza" title="Great Pyramid of Giza (CC0)" loading="lazy">
+          <img src="public/images/baalbek.jpg" alt="Baalbek megalith" title="Baalbek Stone (Public Domain)" loading="lazy">
+          <img src="public/images/stonehenge.jpg" alt="Stonehenge" title="Stonehenge (CC BY‑SA)" loading="lazy">
+        </div>
+      </noscript>
     </section>
 
     <section class="gallery-section">
       <h2>AI Concept Art</h2>
-      <p>The following images were generated using artificial intelligence to visualise speculative scenes.  They are clearly labelled as concept art.</p>
+      <p>The following images were generated using artificial intelligence to visualise speculative scenes. They are clearly labelled as concept art.</p>
       <div class="media-grid">
         <img src="public/images/hero.png" alt="Cosmic abstract concept art" title="Cosmic Concept (AI)">
       </div>
@@ -57,13 +82,13 @@
 
     <section class="gallery-section">
       <h2>Videos</h2>
-      <p>Visit our YouTube playlist for curated clips of modern UFO sightings and expert interviews.  (Video embedding coming soon.)</p>
+      <p>Visit our YouTube playlist for curated clips of modern UFO sightings and expert interviews. (Video embedding coming soon.)</p>
     </section>
   </main>
 
   <footer class="site-footer">
     <div class="container">
-      <p>© 2025 XenoOrigin. All real images are used under their respective licenses; AI art is clearly labelled.</p>
+      <p>© 2025 XenoOrigin. All real images are used under their respective licenses; AI art is clearly labelled.</p>
     </div>
   </footer>
 
