@@ -9,11 +9,11 @@
   --bg: #0b0f14;
   --primary: #7bd7ff;
   --accent: #c7ff57;
-  --text: #e6eef5;
-  --muted: #8a8fa3;
-  --card-bg: #131920;
-  --card-hover: #1c2430;
-  --border: #242a34;
+  --text: #f5faff; /* brighter text for stronger contrast */
+  --muted: #b0b7c3; /* lighten muted text for readability */
+  --card-bg: #1a1f27; /* slightly lighter card background */
+  --card-hover: #232a35; /* clearer hover state */
+  --border: #2e3745; /* higher contrast borders */
 }
 
 * {
@@ -84,7 +84,7 @@ header .logo {
 
 header nav a {
   margin-left: 1.2rem;
-  color: var(--muted);
+  color: var(--text); /* use brighter text for navigation */
   text-decoration: none;
   font-size: 0.95rem;
   transition: color 0.2s;
@@ -110,7 +110,7 @@ header nav a:hover {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.5); /* darker overlay for better text contrast */
 }
 
 .hero-content {
@@ -128,7 +128,7 @@ header nav a:hover {
 
 .hero .subtitle {
   font-size: 1.1rem;
-  color: var(--muted);
+  color: var(--text); /* improve contrast for subtitle */
   margin-bottom: 1.5rem;
 }
 
