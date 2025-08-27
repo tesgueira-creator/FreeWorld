@@ -62,6 +62,71 @@ textarea:focus {
   outline-offset: 2px;
 }
 
+/* Container class used throughout the site */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Site header styles */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(11, 15, 20, 0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+}
+
+.site-header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8rem 1rem;
+}
+
+.site-header .logo {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--primary);
+  letter-spacing: 0.05em;
+  text-decoration: none;
+}
+
+.site-header nav a {
+  margin-left: 1.2rem;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.2s;
+}
+
+.site-header nav a:hover,
+.site-header nav a.active {
+  color: var(--accent);
+}
+
+/* Site footer styles */
+.site-footer {
+  text-align: center;
+  padding: 2rem 0;
+  border-top: 1px solid var(--border);
+  font-size: 0.85rem;
+  color: var(--muted);
+  background: var(--card-bg);
+}
+
+.site-footer a {
+  color: var(--muted);
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+.site-footer a:hover {
+  color: var(--primary);
+}
+
 header {
   position: sticky;
   top: 0;
