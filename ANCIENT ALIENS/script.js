@@ -4,7 +4,7 @@
  */
 
 // Newsletter subscription handler
-function subscribe(event) {
+async function subscribe(event) {
   event.preventDefault();
   const form = event.target;
   const messageEl = document.getElementById('newsletter-message');
@@ -14,9 +14,30 @@ function subscribe(event) {
     messageEl.textContent = 'Please enter a valid email.';
     return;
   }
-  // Here we would normally send the email to a back‑end service.
-  messageEl.textContent = 'Thank you for subscribing!';
-  emailInput.value = '';
+
+  try {
+    const response = await fetch(form.action, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      },
+      body: JSON.stringify({ email })
+    });
+
+    if (response.ok) {
+      messageEl.textContent = 'Thank you for subscribing!';
+      emailInput.value = '';
+    } else {
+      let data = {};
+      try {
+        data = await response.json();
+      } catch (e) {}
+      messageEl.textContent = data.error || 'Subscription failed. Please try again later.';
+    }
+  } catch (error) {
+    messageEl.textContent = 'An error occurred. Please try again later.';
+  }
 }
 
 // Future hooks: simple page toggles or comparator logic can be added here.
