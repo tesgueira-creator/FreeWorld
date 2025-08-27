@@ -1,0 +1,41 @@
+{
+  "name": "xenoorigin-website",
+  "version": "1.0.0",
+  "description": "XenoOrigin - Exploring ancient archaeology, myths and anomalous artefacts with data-driven analysis",
+  "main": "index.html",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "npm run clean && copyfiles -u 1 \"ANCIENT ALIENS/**/*\" dist/",
+    "dev": "live-server \"ANCIENT ALIENS\" --port=3000 --open=/index.html",
+    "start": "npm run build && http-server dist -p 8080 -o",
+    "serve": "http-server dist -p 8080",
+    "prebuild": "npm run clean"
+  },
+  "keywords": [
+    "static-website",
+    "archaeology", 
+    "ancient-aliens",
+    "xenoorigin"
+  ],
+  "author": "XenoOrigin",
+  "license": "MIT",
+  "devDependencies": {
+    "copyfiles": "^2.4.1",
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2",
+    "rimraf": "^6.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tesgueira-creator/FreeWorld.git"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
