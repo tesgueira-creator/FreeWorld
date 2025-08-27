@@ -7,6 +7,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   initializeFilters();
   initializeNewsletterForm();
+  initializeSmoothScrolling();
 });
 
 // Newsletter subscription handler
@@ -48,19 +49,21 @@ function initializeFilters() {
   });
 }
 
-// Smooth scrolling for anchor links
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-  anchor.addEventListener('click', function (e) {
-    e.preventDefault();
-    const target = document.querySelector(this.getAttribute('href'));
-    if (target) {
-      target.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start'
-      });
-    }
+// Initialize smooth scrolling for anchor links
+function initializeSmoothScrolling() {
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+      e.preventDefault();
+      const target = document.querySelector(this.getAttribute('href'));
+      if (target) {
+        target.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start'
+        });
+      }
+    });
   });
-});
+}
 
 // Enhanced accessibility: announce page changes for screen readers
 function announcePageChange(message) {
