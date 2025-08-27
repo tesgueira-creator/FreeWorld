@@ -3,6 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0ea5e9" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <title>Evidence – XenoOrigin</title>
     <meta name="description" content="Browse the evidence archive: site reports, artefacts, and annotated analyses with reliability scores and source references.">
     <link rel="stylesheet" href="style.css" />
@@ -11,6 +15,27 @@
   <meta property="og:type" content="website" />
   <meta property="og:image" content="public/images/giza.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Evidence Archive",
+      "description": "Curated collection of archaeological sites, artifacts, and anomalous evidence",
+      "url": "https://xenoorigin.com/evidence.html",
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 12,
+        "itemListElement": [
+          {
+            "@type": "Place",
+            "name": "Great Pyramid of Giza",
+            "description": "Ancient Egyptian pyramid with precise construction and massive stone blocks"
+          }
+        ]
+      }
+    }
+    </script>
   </head>
   <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>

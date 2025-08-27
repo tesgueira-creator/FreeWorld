@@ -4,6 +4,10 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0ea5e9" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <meta name="description" content="XenoOrigin explores ancient archaeology, myths and anomalous artefacts with data-driven essays, evidence pages and critical commentary on extraordinary claims.">
     <title>XenoOrigin – Exploring our ancient past</title>
     <link rel="stylesheet" href="style.css" />
@@ -13,6 +17,21 @@
   <meta property="og:type" content="website" />
   <meta property="og:image" content="public/images/hero.png" />
   <meta name="twitter:card" content="summary_large_image" />
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "XenoOrigin",
+      "description": "Exploring ancient archaeology, myths and anomalous artefacts with data-driven analysis",
+      "url": "https://xenoorigin.com",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://xenoorigin.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
   </head>
   <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -146,7 +165,7 @@
         interviews as they go live.
       </p>
       <!-- Replace FORMSPREE_ENDPOINT with your Formspree form ID or endpoint -->
-      <form id="newsletter-form" action="https://formspree.io/f/FORMSPREE_ENDPOINT" method="POST" onsubmit="subscribe(event)">
+      <form id="newsletter-form" action="https://formspree.io/f/FORMSPREE_ENDPOINT" method="POST">
         <input id="newsletter-email" aria-label="Email address for newsletter" name="email" type="email" placeholder="Your email address" required />
         <button type="submit" class="btn">Subscribe</button>
       </form>
