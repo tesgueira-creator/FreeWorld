@@ -1,0 +1,19 @@
+[
+  {
+    "driver_name": "",
+    "team_name": "",
+    "as_of": "YYYY-MM-DDThh:mmZ",
+    "subjective": {
+      "Confianca": 0,
+      "Pressao": 0,
+      "Emo": 0,
+      "Rumores": 0,
+      "Upgrades_Impact": 0
+    },
+    "sources": [
+      {"title":"","url":"","type":"team|news|pirelli"}
+    ],
+    "notes": ""
+  }
+]
+

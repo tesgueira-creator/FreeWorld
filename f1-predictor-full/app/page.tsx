@@ -1,0 +1,1 @@
+import { redirect } from 'next/navigation';\nexport default function Home() { redirect('/dashboard'); }\n
